@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 1109
-# Updated: 2026-09-14 19:38:37 UTC
+# Updated: 2026-09-14 20:07:37 UTC
 
 0xdb.org
 123animehub.cc
