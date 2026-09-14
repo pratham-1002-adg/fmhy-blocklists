@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1029
-! Updated: 2026-09-14 14:08:15 UTC
+! Total Rules: 1030
+! Updated: 2026-09-14 14:42:05 UTC
 
 ||18xx.games^
 ||247freepoker.com^
@@ -89,6 +89,7 @@
 ||boardspace.net^
 ||bonk.io^
 ||boxofficega.me^
+||brainbashers.com^
 ||brantsteele.com^
 ||britannica.com^
 ||browsercraft.com^

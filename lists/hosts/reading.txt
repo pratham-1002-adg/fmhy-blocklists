@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 855
-# Updated: 2026-09-14 14:08:15 UTC
+# Total Rules: 856
+# Updated: 2026-09-14 14:42:04 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -546,6 +546,7 @@ okular.kde.org
 old.repair.wiki
 oldcomicsworld.blogspot.com
 oll.libertyfund.org
+omnibusreaders.com
 onisaga.com
 online-literature.com
 onlinebooks.library.upenn.edu

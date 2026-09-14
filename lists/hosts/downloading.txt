@@ -2,8 +2,8 @@
 # Description: Direct download (DDL) portals, file lockers, premium debrid services.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 149
-# Updated: 2026-09-14 14:08:15 UTC
+# Total Rules: 150
+# Updated: 2026-09-14 14:42:04 UTC
 
 1024teradl.com
 1ddl.org
@@ -26,6 +26,7 @@ commodore.software
 convos.chat
 cracksurl.com
 cs.rin.ru
+curio.scene.org
 danstore-ms.vercel.app
 ddlspot.com
 debridmediamanager.com

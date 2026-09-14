@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1103
-! Updated: 2026-09-14 14:08:15 UTC
+! Total Rules: 1109
+! Updated: 2026-09-14 14:42:05 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -209,8 +209,10 @@
 ||cineapse.net^
 ||cineby.gdn^
 ||cinebytv.com^
+||cinecat.eu^
 ||cineflix.fstream.app^
 ||cinefork.net^
+||cinefy.cc^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
@@ -237,6 +239,8 @@
 ||classics.nascar.com^
 ||classreal.com^
 ||closet-picks.com^
+||cmvlinks.lovable.app^
+||cmvsp.lovable.app^
 ||cmvv.lovable.app^
 ||colonialfilm.org.uk^
 ||commons.wikimedia.org^
@@ -487,6 +491,7 @@
 ||kitsu.io^
 ||kitsunekko.net^
 ||kmmovies.shop^
+||kodasusaka.com^
 ||kodi.tv^
 ||kofi.mov^
 ||kontrast.top^
@@ -843,6 +848,7 @@
 ||streamfree.top^
 ||streamgoblin.com^
 ||streamic.st^
+||streaming.cineverse.com^
 ||streamingunity.dog^
 ||streamingunity.vip^
 ||streamo.pro^

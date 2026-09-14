@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1491
-# Updated: 2026-09-14 14:08:16 UTC
+# Total Rules: 1494
+# Updated: 2026-09-14 14:42:05 UTC
 
 1jour1film0626.site
 1lou.me
@@ -84,6 +84,7 @@ anidub.pro
 anifilm.net
 anifilm.pro
 aniflix.uno
+anihub.com.tr
 anilabx.xyz
 aniliberty.top
 animang.one
@@ -210,6 +211,7 @@ bbs.itzmx.com
 bdh.bne.es
 belgeselx.com
 bengaliebook.com
+betterbahn.eu
 bgestv.com
 bgtvi.com
 bhashini.gov.in
@@ -1221,6 +1223,7 @@ stream-xhd.com
 streamcloud.my
 streaming-integral.top
 streaming-integrale.com
+streaming.cineverse.com
 streamingcommunityz.red
 streamingunity.dog
 streamingunity.vip

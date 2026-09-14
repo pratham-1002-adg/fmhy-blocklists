@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 889
-# Updated: 2026-09-14 14:08:15 UTC
+# Total Rules: 895
+# Updated: 2026-09-14 14:42:04 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -61,6 +61,7 @@ antra.hoshi.cfd
 anydecentmusic.com
 aoty.prigoana.pw
 app.chillhop.com
+app.volta-music.com
 app.zenflowchart.com
 apps.apple.com
 apps.microsoft.com
@@ -180,6 +181,7 @@ deezer.com
 descent.live
 dezflight-underground.com
 di.fm
+dieordiy2.blogspot.com
 digitaldreamdoor.com
 diglib.library.vanderbilt.edu
 dimeadozen.org
@@ -251,6 +253,7 @@ fmstream.org
 foggynotion-flac.blogspot.com
 fondsound.com
 foobar2000.org
+forwardwiththesong.blogspot.com
 fpftp.blogspot.com
 freac.org
 free-stock-music.com
@@ -515,6 +518,7 @@ ocenaudio.com
 ocremix.org
 odesli.co
 ojack.xyz
+oldschoolmetalmusicz.blogspot.com
 oldtime.radio
 oldtimeradiodownloads.com
 ongaku.js.org
@@ -823,6 +827,7 @@ unreal-instruments.wixsite.com
 upbeat.pw
 upbeatradio.net
 uppbeat.io
+urbanaspirines.blogspot.com
 utaitedb.net
 utatime.com
 utauguides.carrd.co
@@ -851,6 +856,7 @@ vo.odgn.net
 vocadb.net
 vocaroo.com
 voicy.network
+volta-music.com
 volume.com
 vstskins.com
 vtuner.com

@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6125
-! Updated: 2026-09-14 14:08:16 UTC
+! Total Rules: 6142
+! Updated: 2026-09-14 14:42:05 UTC
 
 ||0mag.net^
 ||0xdb.org^
@@ -291,6 +291,7 @@
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
+||anihub.com.tr^
 ||anikoto.site^
 ||anikototv.to^
 ||anikura.club^
@@ -467,6 +468,7 @@
 ||app.readomni.com^
 ||app.reve.com^
 ||app.toolbaz.com^
+||app.volta-music.com^
 ||app.wakingup.com^
 ||app.webadb.com^
 ||app.wyvern.chat^
@@ -720,6 +722,7 @@
 ||beta.way2movies.live^
 ||betrayal.io^
 ||better-lyrics.boidu.dev^
+||betterbahn.eu^
 ||betterlyrics.org^
 ||beyondallreason.info^
 ||bezos.click^
@@ -847,6 +850,7 @@
 ||boxradio.net^
 ||br.radio.net^
 ||braggoscope.com^
+||brainbashers.com^
 ||brainyquote.com^
 ||brantsteele.com^
 ||brasilescola.uol.com.br^
@@ -1025,10 +1029,12 @@
 ||cineby.gdn^
 ||cinebytv.com^
 ||cinecalidad.ec^
+||cinecat.eu^
 ||cineclasicodcc.com^
 ||cinedeantes2.weebly.com^
 ||cineflix.fstream.app^
 ||cinefork.net^
+||cinefy.cc^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
@@ -1109,6 +1115,8 @@
 ||clucomics.org^
 ||cluesbysam.com^
 ||cmoa.jp^
+||cmvlinks.lovable.app^
+||cmvsp.lovable.app^
 ||cmvv.lovable.app^
 ||cn.chinadaily.com.cn^
 ||cnblogs.com^
@@ -1233,6 +1241,7 @@
 ||cue.tools^
 ||cultura.uol.com.br^
 ||culturaacademica.com.br^
+||curio.scene.org^
 ||cursoemvideo.com^
 ||customromhardware.miraheze.org^
 ||customsongscentral.com^
@@ -1364,6 +1373,7 @@
 ||dicionariompb.com.br^
 ||dico.swax-lsf.fr^
 ||dictionary.orst.go.th^
+||dieordiy2.blogspot.com^
 ||diep.io^
 ||diffuse.app^
 ||diffusionbee.com^
@@ -1963,6 +1973,7 @@
 ||forums.sonicretro.org^
 ||forumvi.com^
 ||forumwarz.com^
+||forwardwiththesong.blogspot.com^
 ||fossdroid.com^
 ||fosshub.com^
 ||fossies.org^
@@ -2775,6 +2786,7 @@
 ||knowfree.tradepub.com^
 ||koalabeast.com^
 ||koboldai.com^
+||kodasusaka.com^
 ||kodi.tv^
 ||kodiapps.com^
 ||kodub.com^
@@ -3751,6 +3763,7 @@
 ||oldcomicsworld.blogspot.com^
 ||oldergeeks.com^
 ||oldgamesdownload.com^
+||oldschoolmetalmusicz.blogspot.com^
 ||oldtime.radio^
 ||oldtimeradiodownloads.com^
 ||oldversion.com^
@@ -3760,6 +3773,7 @@
 ||olympicstreams.im^
 ||omega.gg^
 ||omicronlab.com^
+||omnibusreaders.com^
 ||omnichess.club^
 ||omofuns.com^
 ||on.kinohub.vip^
@@ -5046,6 +5060,7 @@
 ||streamic.st^
 ||streaming-integral.top^
 ||streaming-integrale.com^
+||streaming.cineverse.com^
 ||streamingcommunityz.red^
 ||streamingunity.dog^
 ||streamingunity.vip^
@@ -5597,6 +5612,7 @@
 ||uptime.ibbylabs.dev^
 ||uptracker.ru^
 ||uquiz.com^
+||urbanaspirines.blogspot.com^
 ||uriel-app.vercel.app^
 ||uruworks.net^
 ||uschovna.cz^
@@ -5732,6 +5748,7 @@
 ||voidclusters.wikidot.com^
 ||voir-anime.to^
 ||vole.wtf^
+||volta-music.com^
 ||volume.com^
 ||voody-online.com^
 ||voratoon.id^
