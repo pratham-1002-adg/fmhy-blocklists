@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1109
-# Updated: 2026-09-15 03:40:38 UTC
+# Total Rules: 1111
+# Updated: 2026-09-15 04:07:53 UTC
 
 0xdb.org
 123animehub.cc
@@ -708,6 +708,7 @@ pressplayz.to
 primeshows.org
 primewire.mov
 primewire.nexus
+primewire.pw
 primewire.zip
 projectjust.xyz
 psa.wf
@@ -735,6 +736,7 @@ redflix.club
 redflix.one
 reedstreams.cc
 reedstreams.link
+reedstreams.to
 reedstreams.watch
 reedstreams.ws
 reelix.ac

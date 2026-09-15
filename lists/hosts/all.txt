@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6142
-# Updated: 2026-09-15 03:40:38 UTC
+# Total Rules: 6144
+# Updated: 2026-09-15 04:07:54 UTC
 
 0mag.net
 0xdb.org
@@ -4193,6 +4193,7 @@ primecursos.com.br
 primeshows.org
 primewire.mov
 primewire.nexus
+primewire.pw
 primewire.zip
 primitiveofferings.blogspot.com
 princechazz.com
@@ -4426,6 +4427,7 @@ redzidzirdilatviju.lv
 reederapp.com
 reedstreams.cc
 reedstreams.link
+reedstreams.to
 reedstreams.watch
 reedstreams.ws
 reelix.ac
