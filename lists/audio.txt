@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 896
-! Updated: 2026-09-16 13:08:50 UTC
+! Updated: 2026-09-16 13:39:43 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
