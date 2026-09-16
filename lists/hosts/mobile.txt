@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 485
-# Updated: 2026-09-16 12:42:31 UTC
+# Total Rules: 488
+# Updated: 2026-09-16 13:08:50 UTC
 
 4pda.to
 80bee.com
@@ -439,6 +439,7 @@ termux.dev
 testflight.apple.com
 thefor.xyz
 theodyssey.dev
+thesaurus.altervista.org
 thunderapp.dev
 thunderbird.net
 tide-api.moreless.io
@@ -446,6 +447,7 @@ timeto.me
 timetreeapp.com
 tixati.com
 to-do.office.com
+tone.yojihan.com
 totally-not.spyware.lol
 trackercontrol.org
 transdroid.org
@@ -486,6 +488,7 @@ xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion
 you-apps.net
 ytdlnis.org
 yumemi.moe
+zangetsu.online
 zdevs.ru
 zenz-solutions.de
 zg.is-a.dev

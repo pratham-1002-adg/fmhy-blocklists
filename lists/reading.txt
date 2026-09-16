@@ -2,8 +2,8 @@
 ! Description: E-books, textbooks, comics, manga, light novels, and magazines.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 856
-! Updated: 2026-09-16 12:42:31 UTC
+! Total Rules: 857
+! Updated: 2026-09-16 13:08:50 UTC
 
 ||1lib.sk^
 ||2012books.lardbucket.org^
@@ -504,6 +504,7 @@
 ||natomanga.com^
 ||neliti.com^
 ||nelomanga.net^
+||neoko.site^
 ||nepu.app^
 ||nepu.io^
 ||nepu.is^

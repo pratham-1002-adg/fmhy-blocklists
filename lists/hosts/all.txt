@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6144
-# Updated: 2026-09-16 12:42:31 UTC
+# Total Rules: 6153
+# Updated: 2026-09-16 13:08:50 UTC
 
 0mag.net
 0xdb.org
@@ -1040,6 +1040,7 @@ cinegram.tv
 cinehd.app
 cinehd.dev
 cinehdplus.org
+cinejoy.pk
 cinejoy.to
 cinelibre.fr
 cinelibreonline.com
@@ -1956,6 +1957,7 @@ footreplays.com
 foqos.app
 forcoder.net
 forge.chapril.org
+forgejo.sny.sh
 forkread.com
 foro.novenadimension.com
 foro.unionfansub.com
@@ -3547,6 +3549,7 @@ nekowatch.xyz
 neliti.com
 nelomanga.net
 neobam.com
+neoko.site
 neonflix.st
 neopets.com
 nepu.app
@@ -4276,6 +4279,7 @@ python.maateen.me
 pyx-1.pretendyoure.xyz
 q-3.eu
 qbittorrent.org
+qbreader.org
 qinkan.net
 qiufengshuwu.com
 qpmegathread.top
@@ -4699,6 +4703,7 @@ search.brave.com
 search.crossref.org
 search.extto.com
 search.libraryofleaks.org
+search.streamcheck.pro
 search.yahoo.co.jp
 searchthearxiv.com
 seasonvar.ru
@@ -4985,6 +4990,7 @@ spotivity.me
 spotle.io
 spotlistr.com
 spotsponsorblock.org
+sprawlcrawl.com
 spreeder.com
 springer.com
 sprocketschool.org
@@ -5313,6 +5319,7 @@ thereri.de
 theresanaiforthat.com
 therokuchannel.roku.com
 theromdepot.com
+thesaurus.altervista.org
 theses.fr
 theshfl.com
 theshowgrid.com
@@ -5380,6 +5387,7 @@ tolkiengateway.net
 toloka.to
 tomlehrersongs.com
 tonarinoyj.jp
+tone.yojihan.com
 tone3000.com
 toneandwave.blogspot.com
 tones.wolfram.com
@@ -6109,6 +6117,7 @@ z-library.sk
 z3.fm
 zachvorhies.com
 zaluknij.cc
+zangetsu.online
 zdevs.ru
 zdf.de
 zeigames.com

@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1030
-# Updated: 2026-09-16 12:42:31 UTC
+# Total Rules: 1032
+# Updated: 2026-09-16 13:08:50 UTC
 
 18xx.games
 247freepoker.com
@@ -729,6 +729,7 @@ puzzmo.com
 pychess.org
 pysolfc.sourceforge.io
 pyx-1.pretendyoure.xyz
+qbreader.org
 qpmegathread.top
 quavergame.com
 queensgame.io
@@ -854,6 +855,7 @@ spinneretrepacks.qzz.io
 splix.io
 sporcle.com
 spotle.io
+sprawlcrawl.com
 squaredle.app
 squirdle.fireblend.com
 squishybilliards.com
