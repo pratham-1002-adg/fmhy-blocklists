@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 857
-! Updated: 2026-09-17 00:09:36 UTC
+! Updated: 2026-09-17 00:42:32 UTC
 
 ||1lib.sk^
 ||2012books.lardbucket.org^
