@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 857
-# Updated: 2026-09-17 19:36:38 UTC
+# Updated: 2026-09-17 20:08:06 UTC
 
 1lib.sk
 2012books.lardbucket.org
