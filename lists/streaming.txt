@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1115
-! Updated: 2026-09-18 08:08:00 UTC
+! Total Rules: 1117
+! Updated: 2026-09-18 08:39:17 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -152,6 +152,7 @@
 ||atomcentral.com^
 ||audiovault.net^
 ||aurorascreen.org^
+||av1core.cyou^
 ||averotv.top^
 ||azmovies.to^
 ||azseries.org^
@@ -536,6 +537,7 @@
 ||m4uhd.vip^
 ||mainportal66.com^
 ||mappl.tv^
+||mapple.fun^
 ||mdblist.com^
 ||medeberiya.net^
 ||megacartoons.net^

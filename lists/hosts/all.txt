@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6156
-# Updated: 2026-09-18 08:08:00 UTC
+# Total Rules: 6163
+# Updated: 2026-09-18 08:39:17 UTC
 
 0mag.net
 0xdb.org
@@ -617,6 +617,7 @@ auto-brochures.com
 auto-manual.com
 automatag.com
 autoresponder.ai
+av1core.cyou
 avalonlibrary.net
 averotv.top
 avieshek.wordpress.com
@@ -684,6 +685,7 @@ baza-knig.ink
 baza-knig.top
 bazarr.media
 bbc.co.uk
+bbc.com
 bbcmicro.co.uk
 bbflix.one
 bbs.itzmx.com
@@ -2666,6 +2668,7 @@ justanime.to
 justfreebooks.info
 justice.gov
 justlightnovels.com
+justmanga.cc
 justpaste.it
 justsubtitles.com
 justuseapp.com
@@ -3183,6 +3186,7 @@ manybooks.net
 map-generator-nsj.vercel.app
 mapofmetal.com
 mappl.tv
+mapple.fun
 mapplee.com
 marapets.com
 marbleblast.vaniverse.io
@@ -3582,6 +3586,7 @@ neverwrite.app
 nevix.com
 new-team.org
 new.anidl.org
+new.cloudmoviez.shop
 new.katmoviehd.top
 new2.moviesdrive.christmas
 newage.one
@@ -3753,6 +3758,7 @@ oedb.org
 off.zchr.org
 officialmoviebox.com
 ofoct.com
+ofraz.com
 ogladajanime.pl
 oh.taigi.info
 oha.to
@@ -5666,6 +5672,7 @@ vcvrack.com
 vdict.com
 vdoc.pub
 vdwn.cloud
+vector.game
 vedabase.io
 veduca.org
 veed.io

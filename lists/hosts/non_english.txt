@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1494
-# Updated: 2026-09-18 08:08:00 UTC
+# Total Rules: 1496
+# Updated: 2026-09-18 08:39:17 UTC
 
 1jour1film0626.site
 1lou.me
@@ -944,6 +944,7 @@ ndl.iitkgp.ac.in
 neobam.com
 nethd.org
 netmovies.com.br
+new.cloudmoviez.shop
 new.katmoviehd.top
 new2.moviesdrive.christmas
 ng-tech.icu
@@ -970,6 +971,7 @@ nunuju.com
 obejrzyj.to
 obrasraras.usp.br
 obuchalka.org
+ofraz.com
 ogladajanime.pl
 oh.taigi.info
 ok.ru
