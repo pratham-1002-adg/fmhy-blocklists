@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1117
-# Updated: 2026-09-19 13:06:42 UTC
+# Total Rules: 1125
+# Updated: 2026-09-19 13:35:55 UTC
 
 0xdb.org
 123animehub.cc
@@ -44,6 +44,7 @@ adrama.app
 adultswim.com
 aether.cx
 aether.ist
+aether.st
 aftvnews.com
 ageratingjuju.com
 allmanga.to
@@ -358,6 +359,7 @@ flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
 flikhub.net
+flixer.cx
 flixer.gd
 flixer.su
 flixhouse.com
@@ -417,6 +419,7 @@ guidetv.live
 hancinema.net
 harbor.elfhosted.com
 harbor.site
+hashtagiptv.com
 hayase.watch
 hdclump.com
 hdencode.org
@@ -470,6 +473,7 @@ justanime.site
 justanime.to
 justsubtitles.com
 justwatch.com
+k-drama.in
 kaa.lt
 kaitovault.com
 kanopy.com
@@ -681,6 +685,7 @@ pawflix.foo.ng
 peestream.in
 phantomflix.net
 phi-phenomenon.org
+phland.org
 phonofilm.net
 piratexplay.cc
 piratexplay.com
@@ -805,6 +810,7 @@ shout-tv.com
 showbox.media
 showroom-live.com
 showrss.info
+shuttletv.me
 shuttletv.pk
 shuttletv.su
 signonscreen.com
@@ -941,6 +947,7 @@ titantv.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
+todaytvseries1.com
 todaytvseries6.com
 toku.fun
 tokyoinsider.com
@@ -1107,6 +1114,7 @@ yomi.to
 youflex.top
 yourcountdown.to
 youshows.org
+yow.tv
 ytch.tv
 yts-subs.com
 yts.gg

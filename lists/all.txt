@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6163
-! Updated: 2026-09-19 13:06:42 UTC
+! Total Rules: 6173
+! Updated: 2026-09-19 13:35:55 UTC
 
 ||0mag.net^
 ||0xdb.org^
@@ -165,6 +165,7 @@
 ||adventuregamestudio.co.uk^
 ||aether.cx^
 ||aether.ist^
+||aether.st^
 ||afghanistandl.nyu.edu^
 ||afreestudio.com^
 ||afterplay.io^
@@ -1914,6 +1915,7 @@
 ||flipax2.me^
 ||fliphtml5.aivaded.com^
 ||fliphtml5.com^
+||flixer.cx^
 ||flixer.gd^
 ||flixer.su^
 ||flixfilmplus.de^
@@ -2332,6 +2334,7 @@
 ||harmonoid.com^
 ||harpacrista.org^
 ||haschcon.com^
+||hashtagiptv.com^
 ||hasitleaked.com^
 ||hate5six.com^
 ||hathitrust.org^
@@ -2551,6 +2554,7 @@
 ||ioquake3.org^
 ||ios-repo-updates.com^
 ||ios.cfw.guide^
+||iosapps.litten.ca^
 ||iosvizor.com^
 ||ip-webcam.appspot.com^
 ||ip.ontivi.net^
@@ -2674,6 +2678,7 @@
 ||justuseapp.com^
 ||justwatch.com^
 ||jyotirjagat.wordpress.com^
+||k-drama.in^
 ||kaa.lt^
 ||kagakueizo.org^
 ||kagane.to^
@@ -4002,6 +4007,7 @@
 ||philschatz.com^
 ||phim.nguonc.com^
 ||phish.in^
+||phland.org^
 ||phoenixplace.xyz^
 ||phoenixpwn.com^
 ||phonofilm.net^
@@ -4795,6 +4801,7 @@
 ||shufazidian.com^
 ||shuge.org^
 ||shutterencoder.com^
+||shuttletv.me^
 ||shuttletv.pk^
 ||shuttletv.su^
 ||sia.storage^
@@ -5385,6 +5392,7 @@
 ||to-do.office.com^
 ||tobari.moe^
 ||todamateria.com.br^
+||todaytvseries1.com^
 ||todaytvseries6.com^
 ||tododvdfull.com^
 ||toggl.com^
@@ -5763,6 +5771,7 @@
 ||voice.woitaschek.de^
 ||voiceinput.futo.org^
 ||voiceofindia.ai^
+||voicestudio.sh^
 ||voicevox.hiroshiba.jp^
 ||voicy.network^
 ||voidclusters.wikidot.com^
@@ -6103,6 +6112,7 @@
 ||youraislopbores.me^
 ||yourcountdown.to^
 ||youshows.org^
+||yow.tv^
 ||yoyomanga.com^
 ||ysk-comics.com^
 ||ytch.tv^

@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 491
-# Updated: 2026-09-19 13:06:42 UTC
+# Total Rules: 492
+# Updated: 2026-09-19 13:35:55 UTC
 
 4pda.to
 80bee.com
@@ -237,6 +237,7 @@ invent.kde.org
 invizible.net
 ios-repo-updates.com
 ios.cfw.guide
+iosapps.litten.ca
 iosvizor.com
 ip-webcam.appspot.com
 ipa-apps.me
