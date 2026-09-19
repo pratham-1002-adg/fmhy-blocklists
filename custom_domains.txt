@@ -1,0 +1,12 @@
+# ==============================================================================
+# Custom User Denylist for NextDNS
+# ==============================================================================
+# Add your personal custom domains below (one domain per line).
+# Examples:
+#   example.com
+#   badwebsite.org
+#
+# These domains will automatically sync to all your NextDNS profiles alongside
+# your FMHY categories during every scheduled run or manual trigger.
+# Lines starting with '#' or empty lines are ignored.
+# ==============================================================================

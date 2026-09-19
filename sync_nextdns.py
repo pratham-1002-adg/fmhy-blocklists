@@ -82,6 +82,56 @@ def load_target_domains(selected_categories):
 
     return target_domains
 
+def clean_domain(raw):
+    """Sanitizes raw domain or URL string to a pure, valid domain name."""
+    if not raw:
+        return ""
+    d = raw.strip().lower()
+    # Strip URL protocol
+    if d.startswith("http://"):
+        d = d[7:]
+    elif d.startswith("https://"):
+        d = d[8:]
+    # Strip URL path / query parameters
+    if "/" in d:
+        d = d.split("/")[0]
+    # Strip port number
+    if ":" in d:
+        d = d.split(":")[0]
+    # Strip surrounding punctuation, quotes, brackets, or trailing dots
+    d = d.strip(" .'\";[]()<>,")
+    if "." in d and d not in ["127.0.0.1", "0.0.0.0", "localhost"]:
+        return d
+    return ""
+
+def load_custom_domains(filepath="custom_domains.txt", direct_domains=""):
+    """Loads user-specified custom domains from a file and/or direct string input."""
+    custom = set()
+    # 1. From local file if exists
+    if filepath and os.path.exists(filepath):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("#") or line.startswith("!"):
+                        continue
+                    parts = line.split()
+                    raw = parts[-1] if parts else line
+                    d = clean_domain(raw)
+                    if d:
+                        custom.add(d)
+        except Exception as e:
+            print(f"[!] Warning reading custom domains file '{filepath}': {e}", flush=True)
+
+    # 2. From direct CLI/env string
+    if direct_domains:
+        for raw in direct_domains.replace("\n", ",").replace(" ", ",").split(","):
+            d = clean_domain(raw)
+            if d:
+                custom.add(d)
+
+    return custom
+
 def get_current_denylist(session, profile_id):
     """Fetches all domains currently present in the profile's Denylist."""
     url = f"{NEXTDNS_API_BASE}/{profile_id}/denylist"
@@ -250,6 +300,10 @@ def main():
                         help="Comma-separated NextDNS Profile IDs (e.g. 'a1b2c3,d4e5f6')")
     parser.add_argument("--api-key", default=os.environ.get("NEXTDNS_API_KEY", ""),
                         help="NextDNS API Key from Account page")
+    parser.add_argument("--custom-file", default="custom_domains.txt",
+                        help="Path to file containing user custom domains (default: custom_domains.txt)")
+    parser.add_argument("--custom-domains", default=os.environ.get("NEXTDNS_CUSTOM_DOMAINS", ""),
+                        help="Additional direct comma-separated custom domains to add")
     parser.add_argument("--workers", type=int, default=5,
                         help="Concurrent worker threads (default 5)")
     args = parser.parse_args()
@@ -260,30 +314,41 @@ def main():
     action = args.action.strip().lower()
 
     if not api_key:
-        print("[CRITICAL] Missing NextDNS API Key. Set NEXTDNS_API_KEY environment variable or pass --api-key.")
+        print("[CRITICAL] Missing NextDNS API Key. Set NEXTDNS_API_KEY environment variable or pass --api-key.", flush=True)
         sys.exit(1)
 
     if not profiles_str:
-        print("[CRITICAL] Missing NextDNS Profile IDs. Set NEXTDNS_PROFILES environment variable or pass --profiles.")
+        print("[CRITICAL] Missing NextDNS Profile IDs. Set NEXTDNS_PROFILES environment variable or pass --profiles.", flush=True)
         sys.exit(1)
 
     profiles = [p.strip() for p in profiles_str.split(",") if p.strip()]
     
-    print("="*60)
-    print(f"NextDNS Manager | Action: {action.upper()}")
-    print("="*60)
-    print(f"Target Profiles : {profiles}")
-    print(f"Categories      : {categories_str}")
-    print(f"Worker Threads  : {args.workers}")
-    print("="*60)
+    print("="*60, flush=True)
+    print(f"NextDNS Manager | Action: {action.upper()}", flush=True)
+    print("="*60, flush=True)
+    print(f"Target Profiles : {profiles}", flush=True)
+    print(f"Categories      : {categories_str if categories_str else '(None - Custom only)'}", flush=True)
+    print(f"Worker Threads  : {args.workers}", flush=True)
+    print("="*60, flush=True)
 
-    # 1. Load target FMHY domains
-    target_domains = load_target_domains(categories_str)
+    # 1. Load target FMHY domains (if categories specified)
+    target_domains = set()
+    if categories_str and categories_str.lower() not in ["none", ""]:
+        target_domains = load_target_domains(categories_str)
+        if target_domains:
+            print(f"[+] Loaded {len(target_domains):,} FMHY category domains.", flush=True)
+
+    # 2. Load user custom domains (from custom_domains.txt and/or command-line)
+    custom_domains = load_custom_domains(args.custom_file, args.custom_domains)
+    if custom_domains:
+        print(f"[+] Loaded {len(custom_domains):,} user custom domain(s) from '{args.custom_file}' / inputs.", flush=True)
+        target_domains = target_domains.union(custom_domains)
+
     if not target_domains:
-        print("[!] No target domains found for specified categories. Exiting.")
-        sys.exit(1)
+        print("[!] No target domains found for specified categories or custom domains. Exiting.", flush=True)
+        sys.exit(0)
 
-    print(f"[+] Loaded {len(target_domains):,} FMHY category domains.")
+    print(f"[+] Total unique target rules to enforce: {len(target_domains):,}", flush=True)
 
     # 2. Execute action across all profiles
     session = create_resilient_session(api_key)

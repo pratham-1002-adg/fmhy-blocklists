@@ -1,0 +1,97 @@
+name: Add Custom Domains to NextDNS
+
+on:
+  workflow_dispatch:
+    inputs:
+      domains:
+        description: 'Domain(s) to add to denylist (comma-separated or one per line, e.g. tracker.com, ads.badsite.org)'
+        required: true
+        type: string
+      save_to_repo:
+        description: 'Save domains permanently to custom_domains.txt in repo'
+        required: false
+        default: true
+        type: boolean
+      profiles:
+        description: 'Override Profile IDs (comma-separated). Leave empty to use repo secret'
+        required: false
+        default: ''
+        type: string
+
+jobs:
+  add-custom-domains:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: pip install requests
+
+      - name: Save domains to custom_domains.txt (If Requested)
+        if: ${{ github.event.inputs.save_to_repo == 'true' || github.event.inputs.save_to_repo == true }}
+        env:
+          INPUT_DOMAINS: ${{ github.event.inputs.domains }}
+        run: |
+          python - << 'EOF'
+          import os
+          from sync_nextdns import clean_domain
+
+          raw_input = os.environ.get("INPUT_DOMAINS", "")
+          filepath = "custom_domains.txt"
+
+          existing = set()
+          if os.path.exists(filepath):
+              with open(filepath, "r", encoding="utf-8") as f:
+                  for line in f:
+                      d = clean_domain(line)
+                      if d:
+                          existing.add(d)
+
+          new_domains = []
+          for item in raw_input.replace("\n", ",").replace(" ", ",").split(","):
+              d = clean_domain(item)
+              if d and d not in existing:
+                  new_domains.append(d)
+                  existing.add(d)
+
+          if new_domains:
+              with open(filepath, "a", encoding="utf-8") as f:
+                  for d in new_domains:
+                      f.write(f"{d}\n")
+              print(f"[+] Appended {len(new_domains)} new domain(s) to {filepath}: {new_domains}")
+          else:
+              print("[i] All entered domains are already present in custom_domains.txt.")
+          EOF
+
+          git config --global user.name "pratham-1002-adg"
+          git config --global user.email "techwithknowledge20@gmail.com"
+          git add custom_domains.txt
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Add custom domains to custom_domains.txt [skip ci]"
+            git push
+          else
+            echo "No changes to commit in custom_domains.txt."
+          fi
+
+      - name: Push Custom Domains to NextDNS
+        env:
+          NEXTDNS_API_KEY: ${{ secrets.NEXTDNS_API_KEY }}
+          NEXTDNS_PROFILES: ${{ github.event.inputs.profiles || secrets.NEXTDNS_PROFILES }}
+          NEXTDNS_CUSTOM_DOMAINS: ${{ github.event.inputs.domains }}
+          NEXTDNS_ACTION: 'sync'
+        run: |
+          if [ -z "$NEXTDNS_API_KEY" ] || [ -z "$NEXTDNS_PROFILES" ]; then
+            echo "[INFO] NEXTDNS_API_KEY or NEXTDNS_PROFILES secret not configured."
+            echo "[INFO] Skipping NextDNS cloud push. (Add them in GitHub Repo Settings -> Secrets to enable)."
+            exit 0
+          fi
+          python -u sync_nextdns.py --categories "none"
