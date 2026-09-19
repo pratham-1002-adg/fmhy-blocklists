@@ -57,7 +57,7 @@ def create_resilient_session(api_key):
 def load_target_domains(selected_categories):
     """Loads and deduplicates target domains from selected categories."""
     target_domains = set()
-    categories = [c.strip().lower() for c in selected_categories.split(",") if c.strip()]
+    categories = [c.strip().lower().replace(".txt", "") for c in selected_categories.split(",") if c.strip()]
     
     if "all" in categories:
         categories = ["all"]
@@ -294,8 +294,8 @@ def main():
     parser.add_argument("--action", default=os.environ.get("NEXTDNS_ACTION", "sync"),
                         choices=["sync", "remove"],
                         help="Action: 'sync' to add newcomer domains, 'remove' to remove FMHY domains from NextDNS")
-    parser.add_argument("--categories", default=os.environ.get("NEXTDNS_CATEGORIES", "streaming"),
-                        help="Comma-separated categories to sync/remove (e.g. 'streaming', 'gaming,torrenting', or 'all')")
+    parser.add_argument("--categories", default=os.environ.get("NEXTDNS_CATEGORIES", "streaming, non_english"),
+                        help="Comma-separated categories to sync/remove (e.g. 'streaming, non_english', 'gaming', or 'all')")
     parser.add_argument("--profiles", default=os.environ.get("NEXTDNS_PROFILES", os.environ.get("NEXTDNS_PROFILE", "")),
                         help="Comma-separated NextDNS Profile IDs (e.g. 'a1b2c3,d4e5f6')")
     parser.add_argument("--api-key", default=os.environ.get("NEXTDNS_API_KEY", ""),
