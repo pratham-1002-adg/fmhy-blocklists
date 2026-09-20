@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1496
-! Updated: 2026-09-20 00:10:11 UTC
+! Total Rules: 1498
+! Updated: 2026-09-20 00:42:37 UTC
 
 ||1jour1film0626.site^
 ||1lou.me^
@@ -743,6 +743,8 @@
 ||kinoukr.tv^
 ||kinovibe.cc^
 ||kinovibe.co^
+||kinox.to^
+||kinoz.to^
 ||kirmalk.com^
 ||kitab-evi.com^
 ||kkphim.com^

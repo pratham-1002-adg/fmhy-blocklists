@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6173
-# Updated: 2026-09-20 00:10:11 UTC
+# Total Rules: 6176
+# Updated: 2026-09-20 00:42:37 UTC
 
 0mag.net
 0xdb.org
@@ -1037,6 +1037,7 @@ cinecat.eu
 cineclasicodcc.com
 cinedeantes2.weebly.com
 cineflix.fstream.app
+cineflixd.fstream.app
 cinefork.net
 cinefy.cc
 cinego.co
@@ -2765,6 +2766,8 @@ kinoukr.com
 kinoukr.tv
 kinovibe.cc
 kinovibe.co
+kinox.to
+kinoz.to
 kira.vercel.app
 kirastudio.org
 kirka.io
