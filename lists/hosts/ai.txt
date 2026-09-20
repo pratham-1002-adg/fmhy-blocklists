@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 274
-# Updated: 2026-09-20 20:36:56 UTC
+# Updated: 2026-09-20 21:06:45 UTC
 
 acapella-extractor.com
 addons.mozilla.org
