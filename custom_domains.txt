@@ -10,8 +10,4 @@
 # your FMHY categories during every scheduled run or manual trigger.
 # Lines starting with '#' or empty lines are ignored.
 # ==============================================================================
-hdtub.com
-dvhub.xyz
-newfilmz.xyz
-hdhub4ux.com
-movieshunt.monster
+
