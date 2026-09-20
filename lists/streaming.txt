@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1126
-! Updated: 2026-09-20 08:07:14 UTC
+! Total Rules: 1131
+! Updated: 2026-09-20 08:37:56 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -21,6 +21,7 @@
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||321movies.xyz^
 ||35mm.online^
+||3eyedraven.watch^
 ||4khdhub.link^
 ||4khdhub.one^
 ||67movies.st^
@@ -507,6 +508,7 @@
 ||kool.to^
 ||koreandrama.org^
 ||koryo.tv^
+||kototv.to^
 ||kudos.wiki^
 ||kuroanime.lol^
 ||kuroiru.co^
@@ -519,6 +521,7 @@
 ||library.cufiy.net^
 ||libremdb.iket.me^
 ||lightcone.org^
+||lightflix.app^
 ||limetorrents.fun^
 ||linktr.ee^
 ||listal.com^
@@ -543,6 +546,7 @@
 ||mainportal66.com^
 ||mappl.tv^
 ||mapple.fun^
+||matchora.to^
 ||mdblist.com^
 ||medeberiya.net^
 ||megacartoons.net^
@@ -747,6 +751,7 @@
 ||redflix.one^
 ||reedstreams.cc^
 ||reedstreams.link^
+||reedstreams.st^
 ||reedstreams.to^
 ||reedstreams.watch^
 ||reedstreams.ws^

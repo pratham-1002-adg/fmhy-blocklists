@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6176
-! Updated: 2026-09-20 08:07:14 UTC
+! Total Rules: 6184
+! Updated: 2026-09-20 08:37:56 UTC
 
 ||0mag.net^
 ||0xdb.org^
@@ -63,6 +63,7 @@
 ||36mh.org^
 ||3dsdb.com^
 ||3dsroms.org^
+||3eyedraven.watch^
 ||420.moe^
 ||45cat.com^
 ||473999.net^
@@ -2826,6 +2827,7 @@
 ||korsars.pro^
 ||koryo.tv^
 ||kosmi.io^
+||kototv.to^
 ||kpop.fandom.com^
 ||kpopdownloadscmm.blogspot.com^
 ||kpopexplorer.net^
@@ -2956,6 +2958,7 @@
 ||lidraughts.org^
 ||lifearchitect.ai^
 ||lightcone.org^
+||lightflix.app^
 ||lightnovelheaven.com^
 ||lightnovelworld.org^
 ||likemanga.in^
@@ -3211,6 +3214,7 @@
 ||maslanka.app^
 ||masonicshop.com^
 ||masswerk.at^
+||matchora.to^
 ||matchsimulator.com^
 ||mateo.uni-mannheim.de^
 ||matharena.ai^
@@ -3293,6 +3297,7 @@
 ||milkie.cc^
 ||milkytracker.org^
 ||mindexpandingbooks.com^
+||mindwtr.app^
 ||minecraftle.zachmanson.com^
 ||minesjd.com^
 ||minesweeper.online^
@@ -4435,6 +4440,7 @@
 ||recroom.network^
 ||redacted.sh^
 ||redalert.me^
+||redcoats.io^
 ||redd.it^
 ||redditreads.com^
 ||redecanais.af^
@@ -4448,6 +4454,7 @@
 ||reederapp.com^
 ||reedstreams.cc^
 ||reedstreams.link^
+||reedstreams.st^
 ||reedstreams.to^
 ||reedstreams.watch^
 ||reedstreams.ws^
@@ -5495,6 +5502,7 @@
 ||tricotism.com^
 ||trikatuka.aknakn.eu^
 ||triode.app^
+||tripstitch.app^
 ||tritik.com^
 ||triviaduel.com^
 ||trl.org^
