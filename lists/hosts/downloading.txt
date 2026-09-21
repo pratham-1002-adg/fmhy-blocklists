@@ -2,8 +2,8 @@
 # Description: Direct download (DDL) portals, file lockers, premium debrid services.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 150
-# Updated: 2026-09-21 08:08:06 UTC
+# Total Rules: 152
+# Updated: 2026-09-21 08:39:09 UTC
 
 1024teradl.com
 1ddl.org
@@ -46,10 +46,12 @@ forum.mobilism.org
 fosshub.com
 fossies.org
 gadgeteer.co.za
+get4all.org
 gingadaddy.com
 graph.org
 grc.com
 greasyfork.org
+hexdroid.org
 iitk.ac.in
 isitreallyfoss.com
 iteraplay.com

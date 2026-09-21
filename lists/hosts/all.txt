@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6184
-# Updated: 2026-09-21 08:08:06 UTC
+# Total Rules: 6190
+# Updated: 2026-09-21 08:39:09 UTC
 
 0mag.net
 0xdb.org
@@ -2159,6 +2159,7 @@ geometas.com
 geotastic.net
 geotips.net
 gestdown.info
+get4all.org
 getcomics.org
 getdrafts.com
 getintra.org
@@ -2376,6 +2377,7 @@ hetushu.com
 hexa.su
 hexar.io
 hexcodle.com
+hexdroid.org
 hexhearth.live
 hexhearth.lovable.app
 hexrom.com
@@ -2414,6 +2416,7 @@ homemovies100.it
 homepower.com
 honto.jp
 hoofoot.com
+hoofoot.net
 hoofoot.ru
 hoopladigital.com
 hordes.io
@@ -2803,6 +2806,7 @@ knowfree.tradepub.com
 koalabeast.com
 koboldai.com
 kodasusaka.com
+koddo.ch
 kodi.tv
 kodiapps.com
 kodub.com
@@ -3069,6 +3073,7 @@ lostsongshc.blogspot.com
 lovo.ai
 lowik.gitverse.site
 loyalbooks.com
+lrc.red
 lrclib.net
 lrclibup.boidu.dev
 lrcmaker.com
@@ -3376,6 +3381,7 @@ molotov.tv
 momovod.app
 monal-im.org
 monochrome.samidy.com
+monochrome.st
 monochrome.tf
 monoskop.org
 moocs.ggte.unicamp.br

@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1131
-! Updated: 2026-09-21 08:08:06 UTC
+! Total Rules: 1133
+! Updated: 2026-09-21 08:39:09 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -439,6 +439,7 @@
 ||hollymoviehd.cc^
 ||homemovies100.it^
 ||hoofoot.com^
+||hoofoot.net^
 ||hoofoot.ru^
 ||hoopladigital.com^
 ||hotflix.to^
@@ -502,6 +503,7 @@
 ||kitsunekko.net^
 ||kmmovies.shop^
 ||kodasusaka.com^
+||koddo.ch^
 ||kodi.tv^
 ||kofi.mov^
 ||kontrast.top^

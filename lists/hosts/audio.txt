@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 897
-# Updated: 2026-09-21 08:08:06 UTC
+# Total Rules: 899
+# Updated: 2026-09-21 08:39:09 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -406,6 +406,7 @@ lossless.wtf
 losslessalbums.club
 lostmyspace.com
 lostsongshc.blogspot.com
+lrc.red
 lrclib.net
 lrclibup.boidu.dev
 lrcmaker.com
@@ -448,6 +449,7 @@ mixxx.org
 modarchive.org
 moises.ai
 monochrome.samidy.com
+monochrome.st
 monochrome.tf
 moodist.app
 moodist.mvze.net
