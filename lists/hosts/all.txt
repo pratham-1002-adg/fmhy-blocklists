@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6197
-# Updated: 2026-09-22 07:07:32 UTC
+# Total Rules: 6198
+# Updated: 2026-09-22 07:38:38 UTC
 
 0mag.net
 0xdb.org
@@ -4974,6 +4974,7 @@ soundsofmaine.life
 soundtracktracklist.com
 soundux.rocks
 source.openmpt.org
+sourcesfx.com
 sous-titres.eu
 sovietbooksinbengali.blogspot.com
 sovietmoviesonline.com
