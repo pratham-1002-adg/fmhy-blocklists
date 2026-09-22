@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 1498
-# Updated: 2026-09-22 00:09:59 UTC
+# Updated: 2026-09-22 00:41:53 UTC
 
 1jour1film0626.site
 1lou.me
