@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1133
-# Updated: 2026-09-22 01:06:03 UTC
+# Total Rules: 1138
+# Updated: 2026-09-22 01:37:32 UTC
 
 0xdb.org
 123animehub.cc
@@ -852,6 +852,7 @@ stagatv.com
 starringthecomputer.com
 status.animaxanime.dpdns.org
 status.miruro.com
+status.streamea.st
 stellar.gdn
 stellar.rip
 stiftung-imai.de
@@ -861,6 +862,10 @@ streamcorner.cloud
 streamcorner.foo
 streamcorner.fun
 streamcorner.st
+streameast.cf
+streameast.ch
+streameast.ec
+streameast.fi
 streameast.ga
 streameast.ph
 streamed.pk

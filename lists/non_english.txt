@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1498
-! Updated: 2026-09-22 01:06:03 UTC
+! Total Rules: 1500
+! Updated: 2026-09-22 01:37:32 UTC
 
 ||1jour1film0626.site^
 ||1lou.me^
@@ -405,12 +405,14 @@
 ||dokumentalne.net^
 ||dokustreams.de^
 ||dolthpt.vn^
+||dominiosgnulahd.com^
 ||dominioshdfull.com^
 ||dongmanmanhua.cn^
 ||donnons.org^
 ||donproxies.com^
 ||dontaz.vercel.app^
 ||dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion^
+||doramasflix.co^
 ||doramasflix.in^
 ||doramasflix.io^
 ||doramasyt.com^
