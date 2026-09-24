@@ -2,8 +2,8 @@
 # Description: AI scrapers, unsanctioned bot mirrors, model rippers, and jailbreaks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 275
-# Updated: 2026-09-24 17:06:37 UTC
+# Total Rules: 276
+# Updated: 2026-09-24 17:37:03 UTC
 
 acapella-extractor.com
 addons.mozilla.org
@@ -40,6 +40,7 @@ bandlab.com
 beta.4wall.ai
 beta.ish.chat
 bibcit.com
+bohrium.com
 boomy.com
 bots.miku.gg
 build.nvidia.com

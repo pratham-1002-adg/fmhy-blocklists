@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1037
-# Updated: 2026-09-24 17:06:37 UTC
+# Total Rules: 1039
+# Updated: 2026-09-24 17:37:03 UTC
 
 18xx.games
 247freepoker.com
@@ -701,6 +701,8 @@ pokeonecommunity.com
 pokernow.club
 pokernow.com
 pokerogue.net
+pokevoid.com
+pokevoid.wiki
 poki.com
 politicsandwar.com
 polkadotgame.com

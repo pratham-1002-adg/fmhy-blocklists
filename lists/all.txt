@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6302
-! Updated: 2026-09-24 17:06:37 UTC
+! Total Rules: 6323
+! Updated: 2026-09-24 17:37:03 UTC
 
 ||0mag.net^
 ||0xdb.org^
@@ -345,6 +345,7 @@
 ||animechiby.com^
 ||animeclipse.com^
 ||animecountdown.com^
+||animed23.com^
 ||animedex.fun^
 ||animedrive.hu^
 ||animedubhindi.link^
@@ -420,6 +421,7 @@
 ||anitube.in.ua^
 ||anivibe.live^
 ||aniwatch.icu^
+||aniwatch.rest^
 ||aniwatchtv.cx^
 ||aniwaves.ru^
 ||aniworld.domains^
@@ -774,6 +776,7 @@
 ||bimiacg14.net^
 ||bin.disroot.org^
 ||binaural-audio.slite.page^
+||bingebang.st^
 ||bingebang.tv^
 ||bingebox.ac^
 ||bingeclock.com^
@@ -820,6 +823,7 @@
 ||boards.4channel.org^
 ||boardspace.net^
 ||boerse.am^
+||bohrium.com^
 ||boierthikana.com^
 ||boimate.com^
 ||bolidesoft.com^
@@ -1679,6 +1683,7 @@
 ||elonet.finna.fi^
 ||elsubtitle.com^
 ||eltube.gr^
+||elvideoclubargento.com.ar^
 ||email.faircode.eu^
 ||emmau680.driveraudiencej2zeu49.sbs^
 ||emnexmovies.tech^
@@ -1844,6 +1849,7 @@
 ||fcpic.nesbbs.com^
 ||fctv33.lat^
 ||fctv33hd.bar^
+||fctv33hd.co^
 ||fdroid.tabler.dev^
 ||federal.tv^
 ||federica.eu^
@@ -1953,6 +1959,7 @@
 ||flipax2.me^
 ||fliphtml5.aivaded.com^
 ||fliphtml5.com^
+||flive.dpdns.org^
 ||flixer.cx^
 ||flixer.gd^
 ||flixer.su^
@@ -2027,6 +2034,7 @@
 ||foulabook.com^
 ||foundfootagecritic.com^
 ||four.lol^
+||fourondafloor.com^
 ||fourtoutici.cc^
 ||foxit.com^
 ||fp.mysqil.com^
@@ -2539,6 +2547,7 @@
 ||iitk.ac.in^
 ||iitv.info^
 ||ikemengo.com^
+||ikigaimangas.com^
 ||ikmultimedia.com^
 ||iknowwhatyoudownload.com^
 ||ilkpop.in^
@@ -2572,6 +2581,7 @@
 ||indie.fun^
 ||infinibrowser.wiki^
 ||infinitewordles.org^
+||infinityanime.net^
 ||infobooks.org^
 ||information-superhighway.net^
 ||infotorrent.tnl.one^
@@ -2869,6 +2879,7 @@
 ||konversation.kde.org^
 ||koodoreader.com^
 ||kool.to^
+||kool.ws^
 ||kordoz.com^
 ||koreader.rocks^
 ||koreandrama.org^
@@ -3159,6 +3170,7 @@
 ||m2v.ru^
 ||m3u-ip.tv^
 ||m3u4u.com^
+||m440.in^
 ||m4ckd0ge-repacks.site^
 ||m4uhd.vip^
 ||m80.pt^
@@ -3855,6 +3867,8 @@
 ||oll.libertyfund.org^
 ||ollama.com^
 ||olympicstreams.im^
+||olympicweb.me^
+||olympusxyz.com^
 ||omega.gg^
 ||omicronlab.com^
 ||omnibusreaders.com^
@@ -4237,6 +4251,8 @@
 ||pokernow.club^
 ||pokernow.com^
 ||pokerogue.net^
+||pokevoid.com^
+||pokevoid.wiki^
 ||poki.com^
 ||poland.gg^
 ||polish-abandonware.pl^
@@ -4942,6 +4958,7 @@
 ||slowroads.io^
 ||slsknet.org^
 ||slumberland.it^
+||smacke.net^
 ||smallgames.ch^
 ||smartlauncher.net^
 ||smartquantai.com^
@@ -5782,6 +5799,7 @@
 ||v2.sherpa.ac.uk^
 ||v2.sportsurge.net^
 ||v2ex.com^
+||v5.gostreameast.link^
 ||vagalume.fm^
 ||vaizdopamokos.lt^
 ||vals.ai^
@@ -5855,6 +5873,7 @@
 ||vimm.net^
 ||vincenzoscarpa.it^
 ||vinylengine.com^
+||vipleague.me^
 ||vipleague.vg^
 ||vipotv.com^
 ||vipvgm.net^
@@ -5965,6 +5984,7 @@
 ||watchsports.st^
 ||watchsports.su^
 ||watchsurface.stream^
+||watchttn.com^
 ||watchtvs.live^
 ||watchwrestling.ae^
 ||watomatic.app^
@@ -6255,6 +6275,7 @@
 ||yukisubs.wordpress.com^
 ||yumemi.moe^
 ||yummyanime.tv^
+||yupmanga.com^
 ||yurisizov.itch.io^
 ||z-gen-turbo.vercel.app^
 ||z-lib.fm^

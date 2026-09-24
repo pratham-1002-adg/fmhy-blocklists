@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1162
-# Updated: 2026-09-24 17:06:37 UTC
+# Total Rules: 1172
+# Updated: 2026-09-24 17:37:03 UTC
 
 0xdb.org
 123animehub.cc
@@ -130,6 +130,7 @@ anisurge.lol
 anitaku.online
 anivibe.live
 aniwatch.icu
+aniwatch.rest
 aniwatchtv.cx
 aniwaves.ru
 anixtv.in
@@ -185,6 +186,7 @@ beta.way2movies.live
 bfi.org.uk
 bilibili.com
 bilibili.tv
+bingebang.st
 bingebang.tv
 bingebox.ac
 bingeclock.com
@@ -347,6 +349,7 @@ fbstream.cc
 fcast.org
 fctv33.lat
 fctv33hd.bar
+fctv33hd.co
 ffmovies.org
 filmcave.ru
 filmfans.org
@@ -368,6 +371,7 @@ flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
 flikhub.net
+flive.dpdns.org
 flixer.cx
 flixer.gd
 flixer.su
@@ -516,6 +520,7 @@ kodi.tv
 kofi.mov
 kontrast.top
 kool.to
+kool.ws
 koreandrama.org
 koryo.tv
 kototv.to
@@ -683,6 +688,7 @@ oha.to
 ok.ru
 olamovies.dad
 olympicstreams.im
+olympicweb.me
 omega.gg
 ondemandchina.com
 onhockey.tv
@@ -842,6 +848,7 @@ silent-hall-of-fame.org
 simkl.com
 simplyscripts.com
 siptv.eu
+smacke.net
 smashystream.xyz
 smovies.co
 snowstream.vercel.app
@@ -1040,6 +1047,7 @@ uptime.ibbylabs.dev
 uruworks.net
 v2.gostreameast.link
 v2.sportsurge.net
+v5.gostreameast.link
 vaughn.live
 vaultplayer.co.uk
 vavoo.to
@@ -1056,6 +1064,7 @@ videodictionary.kwebpia.net
 videohelp.com
 vidplay.to
 vimeo.com
+vipleague.me
 vipleague.vg
 vipotv.com
 viv.st
@@ -1090,6 +1099,7 @@ watchseries.show
 watchsports.st
 watchsports.su
 watchsurface.stream
+watchttn.com
 watchtvs.live
 watchwrestling.ae
 way2movies.live
