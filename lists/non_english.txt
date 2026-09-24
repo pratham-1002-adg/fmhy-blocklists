@@ -2,14 +2,17 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1502
-! Updated: 2026-09-23 23:35:09 UTC
+! Total Rules: 1565
+! Updated: 2026-09-24 00:09:06 UTC
 
+||17db.pw^
 ||1jour1film0626.site^
+||1jour1film0926.cyou^
 ||1lou.me^
 ||1tamilblasters.luxe^
 ||1tamilblasters.tech^
 ||1tamilcrow.net^
+||1tamilmv.lease^
 ||1tamilmv.meme^
 ||1tamilmv.observer^
 ||1tamilyogi.me^
@@ -29,11 +32,14 @@
 ||5165.org^
 ||52shuku.net^
 ||52shuku.vip^
+||5movierulz.fitness^
 ||5movierulz.markets^
 ||5nd.com^
 ||69shuba.com^
+||7movies.ac^
 ||7movies.in^
 ||7movies.pro^
+||888dl.ps^
 ||99.media^
 ||99csw.com^
 ||a-zmanga.net^
@@ -58,7 +64,10 @@
 ||aether.cx^
 ||aether.ist^
 ||afghanistandl.nyu.edu^
+||ageapp.app^
+||agedm.io^
 ||agedm.tv^
+||ahs.turkish123.com^
 ||aifindy.com^
 ||akiba-online.com^
 ||akiba-team.org^
@@ -93,6 +102,7 @@
 ||anime-loads.org^
 ||anime-odcinki.pl^
 ||anime-sama.pw^
+||anime-sama.to^
 ||anime-sama.tv^
 ||anime1.me^
 ||anime3rb.com^
@@ -118,6 +128,7 @@
 ||animesalt.cx^
 ||animesaturn.cx^
 ||animesaturn.me^
+||animesaturn.net^
 ||animeslayer.to^
 ||animesrbija.com^
 ||animesss.com^
@@ -131,6 +142,7 @@
 ||animeworld.ac^
 ||animeworlditalia.com^
 ||animexx.de^
+||animezid.cam^
 ||animezid.net^
 ||animezone.pl^
 ||animoye.com^
@@ -146,6 +158,7 @@
 ||anslayer.com^
 ||antena1.com.br^
 ||anti-ad.net^
+||anzmanga25.com^
 ||anzmangashd.com^
 ||api.altstore.io^
 ||app.f-online.at^
@@ -236,6 +249,7 @@
 ||boierthikana.com^
 ||boimate.com^
 ||bollymod.forum^
+||bollymod.study^
 ||bollyzone.to^
 ||bombozila.com^
 ||bombuj.si^
@@ -273,6 +287,7 @@
 ||carto.tchoo.net^
 ||catatannusantara.com^
 ||catocr.com^
+||cb01uno.cyou^
 ||cb01uno.homes^
 ||cb01uno.world^
 ||cbeta.org^
@@ -293,6 +308,7 @@
 ||cine24h.online^
 ||cineaste.co.kr^
 ||cineblog01.red^
+||cinecalidad.am^
 ||cinecalidad.ec^
 ||cineclasicodcc.com^
 ||cinedeantes2.weebly.com^
@@ -343,8 +359,10 @@
 ||cxradio.com.br^
 ||cxtv.com.br^
 ||cyberleninka.ru^
+||d10.downloadhub.food^
 ||daemonanime.net^
 ||danet.vn^
+||darklight.to^
 ||databazeknih.cz^
 ||datoid.cz^
 ||datoid.to^
@@ -381,6 +399,7 @@
 ||digital.bbm.usp.br^
 ||dio.me^
 ||divxclasico.com^
+||diycraftsguide.com^
 ||dizibox.live^
 ||diziizle.now^
 ||diziizle.tel^
@@ -491,6 +510,7 @@
 ||ex-fs.net^
 ||exploradoresp2p.com^
 ||extreme-down.poker^
+||extreme-down.press^
 ||exvagos.org^
 ||fajer.show^
 ||faneo.es^
@@ -499,6 +519,7 @@
 ||fantlab.ru^
 ||fanyi.qq.com^
 ||fanyi.youdao.com^
+||fasel-hd.co^
 ||fast-torrent.ru^
 ||fastshare.cloud^
 ||federal.tv^
@@ -535,6 +556,7 @@
 ||fiuxy2.co^
 ||flemmix.fast^
 ||flemmix.kim^
+||flemmix.party^
 ||flibusta.i2p^
 ||flibusta.is^
 ||flibusta.site^
@@ -561,14 +583,18 @@
 ||french-anime.com^
 ||french-stream.one^
 ||frixysubs.pl^
+||fs27.lol^
 ||fstream.info^
 ||fstv.rest^
 ||fukou-da.net^
 ||fullhdfilmizlesene.mx^
+||fullhdfilmizlesene.now^
 ||fuseji.net^
+||futbol-libre.com.co^
 ||futbollibre.gg^
 ||fuun.fun^
 ||gallica.bnf.fr^
+||gamatotv.com.co^
 ||gamatotv.info^
 ||gamatotv.miami^
 ||gameland.ru^
@@ -756,6 +782,8 @@
 ||klikxxi.com^
 ||klikxxi.shop^
 ||klyingshi.com^
+||klyingshi.top^
+||klyingshi4.com^
 ||klz9.com^
 ||kmmovies.life^
 ||kokotv.me^
@@ -814,6 +842,7 @@
 ||livestream.ad^
 ||livetv.sx^
 ||livrosnarrados.blogspot.com^
+||llaroza.monster^
 ||loadix.fun^
 ||lofter.com^
 ||loigiaihay.com^
@@ -834,6 +863,7 @@
 ||maid.my.id^
 ||manben.com^
 ||manga-zip.is^
+||manga-zip.my^
 ||manga-zip.tv^
 ||manga-zone.org^
 ||manga.bilibili.com^
@@ -845,6 +875,7 @@
 ||mangadraft.com^
 ||mangafree.me^
 ||mangahub.ru^
+||mangajikan.is^
 ||mangajikan.net^
 ||mangakoma.net^
 ||mangakoma01.net^
@@ -873,6 +904,7 @@
 ||megacomicstv3.blogspot.com^
 ||megakino14.com^
 ||megakino18.com^
+||megakino20.com^
 ||megalodon.jp^
 ||megapeliculasrip.me^
 ||megogo.net^
@@ -909,6 +941,7 @@
 ||movie2k.cx^
 ||moviedrive.hu^
 ||moviesleech.bar^
+||moviesleech.club^
 ||moviesnipipay.me^
 ||movio.club^
 ||movix.chat^
@@ -953,6 +986,7 @@
 ||new.cloudmoviez.shop^
 ||new.katmoviehd.top^
 ||new2.moviesdrive.christmas^
+||new39.ngefilm.site^
 ||ng-tech.icu^
 ||ngefilm.live^
 ||nhaccuatui.com^
@@ -1030,6 +1064,7 @@
 ||pinoyalbums.com^
 ||pinoymoviepedia.ru^
 ||pinoymovieshub.cv^
+||pinoymovieshub.win^
 ||pirataria.link^
 ||piratbit.top^
 ||pirate-punk.net^
@@ -1118,6 +1153,7 @@
 ||rgfootball.net^
 ||rips.club^
 ||ristoanime.com^
+||ristoanime.me^
 ||rj.hoseinwave.ir^
 ||rncalation.online^
 ||rocketalert.live^
@@ -1161,7 +1197,9 @@
 ||seedhub.cc^
 ||segoideas.com^
 ||seireshd.com^
+||seirsanduk.online^
 ||selcukflix.co^
+||selcukflix.com^
 ||selezen.club^
 ||serien.domains^
 ||serienstream.to^
@@ -1197,7 +1235,9 @@
 ||slumberland.it^
 ||smotret.tv^
 ||snow-raws.com^
+||so.11klasov.net^
 ||sofaflix.shop^
+||softkomik.co^
 ||softkomik.com^
 ||sogou.com^
 ||sololatino.net^
@@ -1219,8 +1259,10 @@
 ||sport.tvp.pl^
 ||srf.ch^
 ||srtku.com^
+||ssrmovies.blue^
 ||ssrmovies.com^
 ||stardima.com^
+||start.litt.ly^
 ||stellarsaber.pro^
 ||stiftung-imai.de^
 ||stigstream.ru^
@@ -1232,9 +1274,12 @@
 ||streaming-integral.top^
 ||streaming-integrale.com^
 ||streaming.cineverse.com^
+||streamingcommunityz.photos^
 ||streamingcommunityz.red^
 ||streamingunity.dog^
 ||streamingunity.vip^
+||streamingunity.win^
+||streamkiste.bid^
 ||streamkiste.taxi^
 ||streamx-hd.com^
 ||streamxhd.com^
@@ -1271,6 +1316,7 @@
 ||talkinghands.co.in^
 ||tamilbulb.cc^
 ||tamilgun.group^
+||tamilgun.now^
 ||tancpol.net^
 ||tangos78rpm.com^
 ||tathyakosh.in^
@@ -1282,11 +1328,13 @@
 ||tegnsprog.dk^
 ||tekstowo.pl^
 ||tel.1kkk.com^
+||tele-libre.live^
 ||telegra.ph^
 ||telegram.dog^
 ||telelibree.com^
 ||teleonline.org^
 ||telequebec.tv^
+||televizor24.tv^
 ||televizor24tochka.ru^
 ||telik.top^
 ||tenies-online.best^
@@ -1313,6 +1361,7 @@
 ||toloka.to^
 ||tonarinoyj.jp^
 ||tool.lu^
+||toonhub4u.co^
 ||toonhub4u.me^
 ||toonitalia.xyz^
 ||toonshub.my.id^
@@ -1321,6 +1370,7 @@
 ||toonworld4all.me^
 ||top-radio.ru^
 ||top.xdmovies.wtf^
+||topcinema.io^
 ||topcinemaa.co^
 ||tophub.today^
 ||toptracker.ru^
@@ -1332,16 +1382,20 @@
 ||tramphim4.org^
 ||tramphim5.org^
 ||tranimeizle.co^
+||tranimeizle.io^
 ||trdizin.gov.tr^
 ||trmanga.com^
 ||tropabrscans.blogspot.com^
 ||trsoundtrack.blogspot.com^
 ||trtag.com^
+||truyenfull.live^
 ||truyenfull.vision^
+||truyenqqko.com^
 ||truyenqqviet.com^
 ||trwebtoon.com^
 ||tseret.com^
 ||tsf.pt^
+||tstrs.me^
 ||tsundoku.com.br^
 ||ttkan.co^
 ||tubepelis.com^
@@ -1366,7 +1420,9 @@
 ||tv.laroza.now^
 ||tv.naver.com^
 ||tv.nrk.no^
+||tv10.egydead.live^
 ||tv360.vn^
+||tv5plus.ca^
 ||tv5unis.ca^
 ||tvgazeta.com.br^
 ||tvkaista.org^
@@ -1375,6 +1431,7 @@
 ||twirpx.com^
 ||twitcasting.tv^
 ||tzevaadom.co.il^
+||uakino-bay.biz^
 ||uakino-bay.net^
 ||uaserials.my^
 ||uaserials.pro^
@@ -1405,6 +1462,7 @@
 ||viddla.fi^
 ||videotuts.ru^
 ||vidhub.me^
+||vidhub2.top^
 ||vieon.vn^
 ||vietjack.com^
 ||viewdns.info^
@@ -1414,6 +1472,7 @@
 ||vix.com^
 ||vk.com^
 ||vn-z.vn^
+||vn.bab.la^
 ||vndoc.com^
 ||vod.tvp.pl^
 ||voicevox.hiroshiba.jp^
@@ -1436,11 +1495,13 @@
 ||wawacity-info.com^
 ||wawacity.feedback^
 ||wawacity.irish^
+||wawacity.press^
 ||web-ace.jp^
 ||web860x.faselhdx.life^
 ||webarchiv.cz^
 ||webdramaturkey2.com^
 ||webshare.cz^
+||webteizle.info^
 ||webteizle3.xyz^
 ||weibomiaopai.com^
 ||wenyuange.org^
@@ -1448,6 +1509,7 @@
 ||wiidatabase.de^
 ||wikidex.net^
 ||winmoes.com^
+||witanime.net^
 ||witanime.you^
 ||witv.football^
 ||wizdom.xyz^
@@ -1506,4 +1568,5 @@
 ||zoom.lk^
 ||zoowomaniacos.org^
 ||zradio.co.il^
+||zradio.live^
 ||ztv.tw^

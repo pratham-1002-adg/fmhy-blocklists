@@ -2,8 +2,8 @@
 # Description: Public & private torrent trackers, indexers, and P2P search engines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 99
-# Updated: 2026-09-23 23:35:09 UTC
+# Total Rules: 100
+# Updated: 2026-09-24 00:09:05 UTC
 
 0mag.net
 1337x-status.org
@@ -37,6 +37,7 @@ greasyfork.org
 iknowwhatyoudownload.com
 infotorrent.tnl.one
 invent.kde.org
+itorrents.net
 itorrents.org
 knaben.info
 knaben.org

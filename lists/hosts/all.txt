@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6204
-# Updated: 2026-09-23 23:35:09 UTC
+# Total Rules: 6302
+# Updated: 2026-09-24 00:09:06 UTC
 
 0mag.net
 0xdb.org
@@ -24,6 +24,7 @@
 16-bits.org
 16bap.theclassicgamer.net
 16mag.net
+17db.pw
 18xx.games
 1ani.me
 1ddl.org
@@ -31,6 +32,7 @@
 1flex.org
 1gabba.pw
 1jour1film0626.site
+1jour1film0926.cyou
 1lib.sk
 1lou.me
 1max.top
@@ -39,6 +41,7 @@
 1tamilblasters.luxe
 1tamilblasters.tech
 1tamilcrow.net
+1tamilmv.lease
 1tamilmv.meme
 1tamilmv.observer
 1tamilyogi.me
@@ -78,6 +81,7 @@
 5165.org
 52shuku.net
 52shuku.vip
+5movierulz.fitness
 5movierulz.markets
 5nd.com
 64dd.org
@@ -91,6 +95,7 @@
 7reels.cc
 80bee.com
 84000.co
+888dl.ps
 8beats.co
 8spine-modules.vercel.app
 90minutes.pro
@@ -174,12 +179,15 @@ afterplay.io
 aftvnews.com
 agame.com
 agar.io
+ageapp.app
+agedm.io
 agedm.tv
 agent.minimax.io
 ageratingjuju.com
 aggrocrab.itch.io
 agnai.chat
 aha-music.com
+ahs.turkish123.com
 ai-bingo.lipsumar.io
 aider.chat
 aidoku.app
@@ -287,6 +295,7 @@ anidao.to
 anidap.lol
 anidb.app
 anidb.net
+anidl.org
 anidoor.me
 anidub.pro
 anifilm.net
@@ -315,6 +324,7 @@ anime-loads.org
 anime-odcinki.pl
 anime-planet.com
 anime-sama.pw
+anime-sama.to
 anime-sama.tv
 anime-sharing.com
 anime-skip.com
@@ -364,6 +374,7 @@ animesalt.cx
 animesalt.top
 animesaturn.cx
 animesaturn.me
+animesaturn.net
 animeschedule.net
 animesilo.cc
 animeslayer.to
@@ -388,6 +399,7 @@ animeworlditalia.com
 animex.one
 animexin.dev
 animexx.de
+animezid.cam
 animezid.net
 animezone.pl
 animoye.com
@@ -443,6 +455,7 @@ anyipa.me
 anymex.vercel.app
 anythingllm.com
 anyvoicelab.com
+anzmanga25.com
 anzmangashd.com
 aoty.prigoana.pw
 apexmovies.net
@@ -473,6 +486,7 @@ app.litmaps.com
 app.readomni.com
 app.reve.com
 app.toolbaz.com
+app.trakt.tv
 app.volta-music.com
 app.wakingup.com
 app.webadb.com
@@ -802,6 +816,7 @@ board.darklight.to
 boardgame-online.com
 boardgamegeek.com
 boardgameplay.com
+boards.4chan.org
 boards.4channel.org
 boardspace.net
 boerse.am
@@ -809,6 +824,7 @@ boierthikana.com
 boimate.com
 bolidesoft.com
 bollymod.forum
+bollymod.study
 bollyzone.to
 bombozila.com
 bombuj.si
@@ -818,6 +834,7 @@ book-filter.com
 book-prize-index.vercel.app
 book.tstrs.me
 bookaudiobook.net
+bookaudiobooks.com
 bookdna.com
 bookfrom.net
 bookgoldmine.com
@@ -942,6 +959,7 @@ catclass.net
 catfishing.net
 catima.app
 catocr.com
+cb01uno.cyou
 cb01uno.homes
 cb01uno.world
 cbeta.org
@@ -1035,6 +1053,7 @@ cineaste.co.kr
 cineblog01.red
 cineby.gdn
 cinebytv.com
+cinecalidad.am
 cinecalidad.ec
 cinecat.eu
 cineclasicodcc.com
@@ -1047,6 +1066,7 @@ cinego.co
 cinegram.tv
 cinehd.app
 cinehd.dev
+cinehd.vc
 cinehdplus.org
 cinejoy.pk
 cinejoy.to
@@ -1074,7 +1094,9 @@ cinetaro.to
 cinetimes.org
 cinetrii.com
 cinevaro.app
+cinevibe.cc
 cinevibe.to
+cinevid.st
 cinezo.org
 ciniverse.site
 cirrusretro.com
@@ -1268,6 +1290,7 @@ cyrisia.com
 cytoid.io
 cytu.be
 d.lib.msu.edu
+d10.downloadhub.food
 daddylive.app
 daddylive.li
 daddylive.mov
@@ -1288,6 +1311,7 @@ dancemusic.wtf
 danet.vn
 danstore-ms.vercel.app
 darkbooks.org
+darklight.to
 darkroom.film
 dashboard.sarvam.ai
 dashbud.dev
@@ -1393,6 +1417,7 @@ digibites.nl
 digilibraries.com
 digimoviez.com
 digital.bbm.usp.br
+digital.library.ucsb.edu
 digitalcollections.nypl.org
 digitalcomicmuseum.com
 digitaldreamdoor.com
@@ -1423,6 +1448,7 @@ distro.fedesito.me
 diva.sfsu.edu
 divxclasico.com
 diybookscanner.org
+diycraftsguide.com
 dizibox.live
 diziizle.now
 diziizle.tel
@@ -1463,6 +1489,7 @@ docs.sillytavern.app
 docs.slimevr.dev
 docs.udroid.org
 docs.unsloth.ai
+docs.wyzie.io
 docs.wyzie.ru
 docsgpt.cloud
 docstream.fr
@@ -1568,6 +1595,7 @@ dynast.io
 dzierzan.itch.io
 e-booksdirectory.com
 e-ir.info
+e-ir.org
 e-publishing.af.mil
 e-radio.gr
 e-sword.net
@@ -1757,6 +1785,7 @@ ext.to
 extranet.torrentbay.st
 extratorrent.st
 extreme-down.poker
+extreme-down.press
 exvagos.org
 exystence.net
 eyedex.org
@@ -1802,6 +1831,7 @@ fanyi.youdao.com
 faq.altstore.io
 farsroid.com
 farter.cn
+fasel-hd.co
 fast-torrent.ru
 fastshare.cloud
 fastsign.dev
@@ -1905,6 +1935,7 @@ flatblackandclassical.com
 flaviocopes.com
 flemmix.fast
 flemmix.kim
+flemmix.party
 flexget.com
 flibusta.i2p
 flibusta.is
@@ -2044,6 +2075,7 @@ freesfonline.net
 freesound.org
 freesoundslibrary.com
 freestreams-live1a.pk
+freestreams-live1h.pk
 freesub.live
 freetogame.com
 freetouse.com
@@ -2061,6 +2093,7 @@ friv.com
 frixysubs.pl
 frontpages.com
 frostyapp.io
+fs27.lol
 fsh.zone
 fsharetv.co
 fstream.app
@@ -2070,6 +2103,7 @@ fuckdm.ca
 fuel.io
 fukou-da.net
 fullhdfilmizlesene.mx
+fullhdfilmizlesene.now
 fulllengthaudiobooks.com
 fullmatchshows.com
 fullraces.com
@@ -2081,6 +2115,7 @@ funtrivia.com
 furia.com
 fuseji.net
 fusele.netlify.app
+futbol-libre.com.co
 futbol-x.sryze.cc
 futbol-x.top
 futbol-x.xyz
@@ -2105,6 +2140,7 @@ galaxy.spotifytrack.net
 galaxyofgames.neocities.org
 gallica.bnf.fr
 gam.onl
+gamatotv.com.co
 gamatotv.info
 gamatotv.miami
 gamdie.com
@@ -2604,6 +2640,7 @@ iteraplay.com
 itgmania.com
 ithome.com
 itizso.itch.io
+itorrents.net
 itorrents.org
 itsbetterwithai.com
 iudesk.com
@@ -2802,6 +2839,8 @@ klikxxi.com
 klikxxi.shop
 klipy.com
 klyingshi.com
+klyingshi.top
+klyingshi4.com
 klz9.com
 kmmovies.life
 kmmovies.shop
@@ -3019,6 +3058,7 @@ livius.org
 livrosnarrados.blogspot.com
 llama.app
 llamalab.com
+llaroza.monster
 llm-explorer.com
 llm-prices.com
 llm-stats.com
@@ -3127,6 +3167,7 @@ maddymakesgamesinc.itch.io
 madebyevan.com
 madrotter-treasure-hunt.blogspot.com
 magazinelib.com
+magdownload.com
 magdownload.org
 mage.space
 magenta.tensorflow.org
@@ -3147,6 +3188,7 @@ makeitmeme.com
 manatan.com
 manben.com
 manga-zip.is
+manga-zip.my
 manga-zip.tv
 manga-zone.org
 manga.bilibili.com
@@ -3169,6 +3211,7 @@ mangafree.me
 mangahere.cc
 mangahub.io
 mangahub.ru
+mangajikan.is
 mangajikan.net
 mangak.io
 mangakakalot.gg
@@ -3263,6 +3306,7 @@ megacartoons.net
 megacomicstv3.blogspot.com
 megakino14.com
 megakino18.com
+megakino20.com
 megalodon.jp
 megamanmaker.com
 megapeliculasrip.me
@@ -3424,6 +3468,7 @@ moviedrive.hu
 movielens.org
 movieloci.com
 moviemistakes.com
+movienestbd.best
 movienestbd.pics
 movienig.ht
 movieo.me
@@ -3434,9 +3479,11 @@ moviescenemap.com
 moviescountdown.com
 moviesfoundonline.com
 moviesleech.bar
+moviesleech.club
 moviesnipipay.me
 moviestowatch.top
 movietomovie.com
+moviezmad.co
 movingimage.nls.uk
 movio.club
 movish.to
@@ -3613,6 +3660,7 @@ new.anidl.org
 new.cloudmoviez.shop
 new.katmoviehd.top
 new2.moviesdrive.christmas
+new39.ngefilm.site
 newage.one
 newalbumreleases.net
 newerteam.com
@@ -3687,6 +3735,7 @@ notscare.me
 novahd.cc
 novamovie.net
 novanon.net
+novashow.live
 novelarchive.cc
 novelasligeras.net
 novelbuddy.com
@@ -3886,6 +3935,7 @@ openstax.org
 opensubtitles.com
 opensubtitles.org
 opentrackers.org
+opentracks.com
 openttd.org
 openuserjs.org
 openutau.com
@@ -3895,6 +3945,7 @@ openwebui.com
 openwhyd.org
 operaonvideo.com
 operavision.eu
+opslagify.app
 opslagify.deruever.nl
 opstream.fun
 oraedes.fr
@@ -3908,6 +3959,7 @@ orga.cat
 organism.earth
 orgzlyrevived.com
 orion.lukasbach.com
+orionbrowser.com
 orionoid.com
 orionsarm.com
 orpheus.network
@@ -4029,6 +4081,7 @@ phish.in
 phland.org
 phoenixplace.xyz
 phoenixpwn.com
+phonofilm.cc
 phonofilm.net
 photogpt.io
 pianobook.co.uk
@@ -4047,6 +4100,7 @@ pinokio.co
 pinoyalbums.com
 pinoymoviepedia.ru
 pinoymovieshub.cv
+pinoymovieshub.win
 piperka.net
 pippinbarr.com
 pirataria.link
@@ -4064,6 +4118,7 @@ pixelgunmayhem.net
 pixelrun.localplayer.dev
 pixiv.net
 pixletters.com
+pixoguess.com
 pixoguess.io
 pixomatic.us
 pixsoriginadventures.co.uk
@@ -4090,6 +4145,7 @@ play.cplegacy.com
 play.fancade.com
 play.history.com
 play.hypersomnia.io
+play.js13kgames.com
 play.m3o.xyz
 play.nova.bg
 play.pocketcasts.com
@@ -4179,6 +4235,7 @@ pokemonrevolution.net
 pokemonshowdown.com
 pokeonecommunity.com
 pokernow.club
+pokernow.com
 pokerogue.net
 poki.com
 poland.gg
@@ -4396,6 +4453,7 @@ rateyourmusic.com
 ratingraph.com
 ratm.live
 ravebooksearch.com
+ravencentri.cc
 ravencentric.cc
 raw-cans.net
 raw-zip.com
@@ -4419,6 +4477,7 @@ readera.org
 readerbackdrop.com
 readermode.io
 readest.com
+readfrom.net
 readinglength.com
 readnovelfull.com
 readow.ai
@@ -4471,6 +4530,7 @@ reedstreams.watch
 reedstreams.ws
 reelix.ac
 reelscary.com
+reelzone.icu
 refooty.com
 regexcrossword.com
 reindex.to
@@ -4547,6 +4607,7 @@ rinse.fm
 rips.cc
 rips.club
 ristoanime.com
+ristoanime.me
 rivestream.app
 rivestream.pw
 rivestream.ru
@@ -4715,6 +4776,7 @@ scottishpoetrylibrary.org.uk
 scp-wiki.wikidot.com
 screenchat.live
 screenpi.pe
+screenpipe.com
 screenscape.me
 screentop.gg
 screenzen.co
@@ -4756,7 +4818,9 @@ sefaria.org
 sega-play.online
 segoideas.com
 seireshd.com
+seirsanduk.online
 selcukflix.co
+selcukflix.com
 selenite.cc
 selenite.skys.day
 selenite.skysthelimit.dev
@@ -4902,6 +4966,7 @@ snow-raws.com
 snowfl.com
 snowify.cc
 snowstream.vercel.app
+so.11klasov.net
 soapgo.to
 soarxiv.org
 sobrief.com
@@ -4913,6 +4978,7 @@ soft98.ir
 softarchive.download
 softarchive.is
 softgoods.app
+softkomik.co
 softkomik.com
 softpedia.com
 software.annas-archive.gl
@@ -4941,6 +5007,7 @@ songmeanings.com
 songs.nghmat.com
 songslikex.com
 songslover.li
+songslover.net
 songstems.net
 sonic-pi.net
 sonic3air.boards.net
@@ -5052,6 +5119,7 @@ srrdb.com
 srstop.link
 srtku.com
 ssega.com
+ssrmovies.blue
 ssrmovies.com
 ssrn.com
 stableaudio.com
@@ -5061,6 +5129,7 @@ standardebooks.org
 stardima.com
 starringthecomputer.com
 starshine-legacy.starstable.com
+start.litt.ly
 stats.fm
 statt-land-song.ch
 status.animaxanime.dpdns.org
@@ -5108,14 +5177,18 @@ streamed.st
 streamex.sh
 streamex.ws
 streamfree.top
+streamgoblin.cc
 streamgoblin.com
 streamic.st
 streaming-integral.top
 streaming-integrale.com
 streaming.cineverse.com
+streamingcommunityz.photos
 streamingcommunityz.red
 streamingunity.dog
 streamingunity.vip
+streamingunity.win
+streamkiste.bid
 streamkiste.taxi
 streamo.pro
 streamsports99.ru
@@ -5233,6 +5306,7 @@ talpasearch.com
 tamanotchi.world
 tamilbulb.cc
 tamilgun.group
+tamilgun.now
 tancpol.net
 tangos78rpm.com
 tankionline.com
@@ -5271,12 +5345,14 @@ tegnsprog.dk
 tehparadox.net
 tekstowo.pl
 tel.1kkk.com
+tele-libre.live
 telegra.ph
 telegram.dog
 telelibree.com
 telemelt.com
 teleonline.org
 telequebec.tv
+televizor24.tv
 televizor24tochka.ru
 telik.top
 tenacityaudio.org
@@ -5347,6 +5423,7 @@ themoviedb.org
 themoviesboss.fans
 themoviespoiler.com
 thenakedscientists.com
+thenkiri.com
 thenonstopradio.com
 theoatmeal.com
 theodyssey.dev
@@ -5371,6 +5448,7 @@ theshowgrid.com
 thesilentlibrary.com
 thestorygraph.com
 thetradersden.org
+thetvapp.plus
 thewebcomiclist.com
 thewhitenoisemachine.com
 thewiki.moe
@@ -5432,6 +5510,7 @@ tokyotosho.info
 tolkiengateway.net
 toloka.to
 tomlehrersongs.com
+tonalics.com
 tonarinoyj.jp
 tone.yojihan.com
 tone3000.com
@@ -5442,6 +5521,7 @@ tonocracy.com
 tool.lu
 toolbaz.com
 tooldriveproject.net
+toonhub4u.co
 toonhub4u.me
 toonily.com
 toonitalia.xyz
@@ -5453,6 +5533,7 @@ toontone.games
 toonworld4all.me
 top-radio.ru
 top.xdmovies.wtf
+topcinema.io
 topcinemaa.co
 topdjmixes.com
 topeaglerservers.com
@@ -5480,6 +5561,7 @@ torrents.youplex.site
 torrentsurf.to
 torrenttags.com
 tortugaceviri.com
+total-sportekk.st
 totaljerkface.com
 totally-not.spyware.lol
 totallynormalchess.com
@@ -5501,6 +5583,7 @@ tramphim5.org
 trancebase.fm
 trancefix.nl
 tranimeizle.co
+tranimeizle.io
 transcripts.foreverdreaming.org
 transdroid.org
 transitapp.com
@@ -5532,7 +5615,9 @@ trsoundtrack.blogspot.com
 trtag.com
 truffled.lol
 truncate.town
+truyenfull.live
 truyenfull.vision
+truyenqqko.com
 truyenqqviet.com
 trwebtoon.com
 tryingopen.com
@@ -5542,6 +5627,7 @@ tsbeta.dan63.by
 tseret.com
 tsf.pt
 tsquareplaza.blogspot.com
+tstrs.me
 tsukihime.org
 tsundoku.com.br
 ttkan.co
@@ -5582,7 +5668,9 @@ tv.kinohub.vip
 tv.laroza.now
 tv.naver.com
 tv.nrk.no
+tv10.egydead.live
 tv360.vn
+tv5plus.ca
 tv5unis.ca
 tvapp.ws
 tvark.org
@@ -5623,6 +5711,7 @@ typetype.video
 typo.rip
 tytel.org
 tzevaadom.co.il
+uakino-bay.biz
 uakino-bay.net
 uaserials.my
 uaserials.pro
@@ -5757,6 +5846,7 @@ videohelp.com
 videolan.org
 videotuts.ru
 vidhub.me
+vidhub2.top
 vidplay.to
 vieon.vn
 vietjack.com
@@ -5790,6 +5880,7 @@ vk.com
 vknext.net
 vkvideo.ru
 vn-z.vn
+vn.bab.la
 vndoc.com
 vo.odgn.net
 vocadb.net
@@ -5801,6 +5892,7 @@ vod.tvp.pl
 voice-models.com
 voice.woitaschek.de
 voiceinput.futo.org
+voiceinput.futo.tech
 voiceofindia.ai
 voicestudio.sh
 voicevox.hiroshiba.jp
@@ -5884,6 +5976,7 @@ wavetracker.org
 wawacity-info.com
 wawacity.feedback
 wawacity.irish
+wawacity.press
 way2movies.live
 wco.tv
 wcoanimedub.tv
@@ -5917,6 +6010,7 @@ webpbn.com
 webshare.cz
 websites.umich.edu
 websynths.com
+webteizle.info
 webteizle3.xyz
 webtoons.com
 webtor.io
@@ -5993,6 +6087,7 @@ windjview.sourceforge.io
 winmoes.com
 wintools.info
 wisdomlib.org
+witanime.net
 witanime.you
 withsubtitles.com
 witv.football
@@ -6023,6 +6118,7 @@ world-newspapers.com
 worldbank.org
 worldcat.org
 worldconcerthall.com
+worldfree4u.expert
 worldfree4u.gd
 worldfree4u.moe
 worldguessr.com
@@ -6059,6 +6155,7 @@ ww.sledujfilmy.io
 ww0.13dl.app
 ww1-fmovies.com
 ww1.goojara.to
+ww1.sportsurge.st
 ww1.wiflix-adresses.fun
 ww1.yesmovies.ag
 ww13.manga-zip.app
@@ -6202,6 +6299,7 @@ zoowomaniacos.org
 zophar.net
 zotero.org
 zradio.co.il
+zradio.live
 zrythm.org
 zstream.mov
 ztv.tw

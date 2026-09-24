@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 858
-# Updated: 2026-09-23 23:35:09 UTC
+# Total Rules: 865
+# Updated: 2026-09-24 00:09:05 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -91,11 +91,13 @@ biology.com.pk
 biomedcentral.com
 biorxiv.org
 bkv.unifr.ch
+boards.4chan.org
 boards.4channel.org
 bolidesoft.com
 book-filter.com
 book-prize-index.vercel.app
 bookaudiobook.net
+bookaudiobooks.com
 bookdna.com
 bookfrom.net
 bookgoldmine.com
@@ -192,6 +194,7 @@ dhushara.com
 diamm.ac.uk
 digi.vatlib.it
 digilibraries.com
+digital.library.ucsb.edu
 digitalcollections.nypl.org
 digitalcomicmuseum.com
 digitaltransgenderarchive.net
@@ -207,6 +210,7 @@ dp.la
 dpgroup.org
 e-booksdirectory.com
 e-ir.info
+e-ir.org
 e-publishing.af.mil
 e-sword.net
 earlychristianwritings.com
@@ -440,6 +444,7 @@ ludditus.com
 lumina.sh
 madcoversite.com
 magazinelib.com
+magdownload.com
 magdownload.org
 magzter.com
 mangabaka.org
@@ -472,6 +477,7 @@ manualsnet.com
 manualzz.com
 manuzoid.com
 manybooks.net
+mapple.fun
 mapplee.com
 marines.mil
 marxists.org
@@ -646,6 +652,7 @@ reader.ttsu.app
 readerbackdrop.com
 readermode.io
 readest.com
+readfrom.net
 readinglength.com
 readnovelfull.com
 readow.ai

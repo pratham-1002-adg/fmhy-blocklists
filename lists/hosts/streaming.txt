@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1141
-# Updated: 2026-09-23 23:35:09 UTC
+# Total Rules: 1162
+# Updated: 2026-09-24 00:09:05 UTC
 
 0xdb.org
 123animehub.cc
@@ -69,6 +69,7 @@ anidao.to
 anidap.lol
 anidb.app
 anidb.net
+anidl.org
 anidoor.me
 anify.to
 anihq.cc
@@ -140,6 +141,7 @@ anymex.vercel.app
 apexmovies.net
 app-lgwebos.pluto.tv
 app.asbplayer.dev
+app.trakt.tv
 apps.apple.com
 arc018.stream
 arrowtv.net
@@ -222,6 +224,7 @@ cinefy.cc
 cinego.co
 cinegram.tv
 cinehd.app
+cinehd.vc
 cinejoy.pk
 cinejoy.to
 cinelove.live
@@ -240,7 +243,9 @@ cinetaro.to
 cinetimes.org
 cinetrii.com
 cinevaro.app
+cinevibe.cc
 cinevibe.to
+cinevid.st
 cinezo.org
 ciniverse.site
 cksub.org
@@ -292,6 +297,7 @@ dlive.sx
 dmtalkies.com
 docs.aiostreams.viren070.me
 docs.pstream.cfd
+docs.wyzie.io
 docs.wyzie.ru
 donghua4k.net
 download.duafile.com
@@ -389,6 +395,7 @@ free-movies.to
 freegreatmovies.com
 freeintertv.com
 freestreams-live1a.pk
+freestreams-live1h.pk
 freesub.live
 freetvgarden.com
 freetvz.com
@@ -584,6 +591,7 @@ movieboxonline.net
 movielens.org
 movieloci.com
 moviemistakes.com
+movienestbd.best
 movienestbd.pics
 movienig.ht
 movieo.me
@@ -595,6 +603,7 @@ moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
 moviestowatch.top
+moviezmad.co
 movingimage.nls.uk
 movish.to
 movy.sx
@@ -623,6 +632,7 @@ netnaija.film
 netplayz.icu
 netshows.xyz
 new.anidl.org
+new.katmoviehd.top
 next-box.su
 next-episode.net
 nextbox.uno
@@ -648,6 +658,7 @@ nothing-to-watch.port80.ch
 notscare.me
 novahd.cc
 novamovie.net
+novashow.live
 novera.tv
 noxx.gg
 noxx.to
@@ -694,6 +705,7 @@ peestream.in
 phantomflix.net
 phi-phenomenon.org
 phland.org
+phonofilm.cc
 phonofilm.net
 piratexplay.cc
 piratexplay.com
@@ -743,6 +755,7 @@ rar.to
 raredoramas.com
 rarefilmm.com
 ratingraph.com
+ravencentri.cc
 ravencentric.cc
 react.tv
 realfight.top
@@ -760,6 +773,7 @@ reedstreams.watch
 reedstreams.ws
 reelix.ac
 reelscary.com
+reelzone.icu
 refooty.com
 reindex.to
 relatedanime.com
@@ -849,6 +863,7 @@ sportsurge.st
 sprocketschool.org
 squidtv.net
 srstop.link
+ssrmovies.blue
 ssrmovies.com
 stagatv.com
 starringthecomputer.com
@@ -875,6 +890,7 @@ streamed.st
 streamex.sh
 streamex.ws
 streamfree.top
+streamgoblin.cc
 streamgoblin.com
 streamic.st
 streaming.cineverse.com
@@ -946,10 +962,12 @@ theintrodb.org
 themoviebox.org
 themoviedb.org
 themoviespoiler.com
+thenkiri.com
 thepiratebay.org
 therokuchannel.roku.com
 theshowgrid.com
 thesilentlibrary.com
+thetvapp.plus
 thewiki.moe
 thewutangcollection.com
 theyshootpictures.com
@@ -974,6 +992,7 @@ topsrs.day
 torlink.bairon.dev
 torrents.youplex.site
 torrentsurf.to
+total-sportekk.st
 totalsportek.st
 trace.moe
 trailerpunk.com
@@ -1107,12 +1126,14 @@ willow.arlen.icu
 willowmovies.com
 withsubtitles.com
 wiztorrent.com
+worldfree4u.expert
 worldfree4u.gd
 worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 ww1-fmovies.com
 ww1.goojara.to
+ww1.sportsurge.st
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
 wwv21.kissasian.com.lv

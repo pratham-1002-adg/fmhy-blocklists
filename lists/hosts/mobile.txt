@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 494
-# Updated: 2026-09-23 23:35:09 UTC
+# Total Rules: 496
+# Updated: 2026-09-24 00:09:05 UTC
 
 4pda.to
 80bee.com
@@ -345,6 +345,7 @@ openvibe.social
 orangefox.download
 orbot.app
 orgzlyrevived.com
+orionbrowser.com
 ottrun.com
 outplayer.app
 overcast.fm
@@ -475,6 +476,7 @@ videolan.org
 virgil.samidy.com
 voice.woitaschek.de
 voiceinput.futo.org
+voiceinput.futo.tech
 volta-music.com
 vyla.cc
 vyla.qzz.io
