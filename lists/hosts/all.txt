@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6323
-# Updated: 2026-09-25 16:08:01 UTC
+# Total Rules: 6338
+# Updated: 2026-09-25 16:41:04 UTC
 
 0mag.net
 0xdb.org
@@ -389,6 +389,7 @@ animesuge.bid
 animesuge.cz
 animesultra.org
 animethemes.moe
+animetosho.net
 animetosho.xyz
 animetvn.com
 animeunity.so
@@ -1516,6 +1517,7 @@ donnons.org
 donotcall.gov
 donotnotify.com
 donproxies.com
+dontaz.com
 dontaz.vercel.app
 dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion
 donut80.com
@@ -1884,6 +1886,7 @@ filmarevoirnad.blogspot.com
 filmatic.online
 filmbot.tv
 filmcave.ru
+filmdilemma.com
 filmepealese.com
 filmezek.com
 filmfans.org
@@ -2108,6 +2111,7 @@ fstream.app
 fstream.info
 fstv.rest
 fuckdm.ca
+fuegocine.com
 fuel.io
 fukou-da.net
 fullhdfilmizlesene.mx
@@ -2416,6 +2420,7 @@ hellspy.to
 helltorrents.com
 help.iheart.com
 help.openai.com
+help.shiopa.com
 help.transitapp.com
 helpotnopat.fi
 heptaveegesimal.com
@@ -2904,6 +2909,7 @@ kudos.wiki
 kuku-kube.com
 kultfilmler.net
 kultivi.com
+kumanga.com
 kupdf.net
 kurdcinama.com
 kurdsubtitle.net
@@ -3240,6 +3246,7 @@ mangashelf.co.il
 mangataro.org
 mangatown.com
 mangaupdates.com
+mangavault.lat
 mangaworld.mx
 mangaz.com
 mangowave.app
@@ -3248,6 +3255,7 @@ manhuapi.cc
 manhuazhan.com
 manhuazhan.org
 manhwaclan.com
+manhwaweb.top
 maniacsvault.net
 manned.org
 manua.ls
@@ -3835,6 +3843,7 @@ oceanofpdf.com
 ocecomic.com
 ocenaudio.com
 ocremix.org
+octavestreaming.com
 octogram.me
 odcrawler.xyz
 odesli.co
@@ -4069,6 +4078,7 @@ peliculas-dvdrip.com
 peliculasgd.net
 pelisenhd.org
 pelisforte.se
+pelisgo.online
 pelispedia.is
 pelispedia.mov
 penfight.xyz
@@ -4272,6 +4282,7 @@ portableappz.blogspot.com
 portablefreeware.com
 portal.uniasselvi.com.br
 portapps.io
+portsdr.com
 postmarketos.org
 potionsandsnitches.org
 pouet.net
@@ -4863,6 +4874,7 @@ setlist.fm
 sfbgames.itch.io
 sfxr.me
 sgb-fss.ch
+shademanga.com
 shadowrangers.net
 shafilm.vip
 shahiid-anime.net
@@ -5090,6 +5102,7 @@ spin.moe
 spinneretrepacks.qzz.io
 split-tv.co.il
 splix.io
+spnmanga.com
 spoilerplus.tv
 spojenka.cz
 spoqify.com
@@ -5890,6 +5903,7 @@ virustotal.com
 vital.audio
 viu.tv
 viv.st
+vivaldi.com
 vivarium.wtf
 vivatorrents.org
 vix.com
@@ -6083,6 +6097,7 @@ wiki.musichoarders.xyz
 wiki.pokeclicker.com
 wiki.pokerogue.net
 wiki.restarters.net
+wiki.rhythia.net
 wiki.servarr.com
 wikia.schneedc.com
 wikibooks.org

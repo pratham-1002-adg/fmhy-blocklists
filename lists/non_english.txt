@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1572
-! Updated: 2026-09-25 16:08:01 UTC
+! Total Rules: 1581
+! Updated: 2026-09-25 16:41:04 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -432,6 +432,7 @@
 ||dongmanmanhua.cn^
 ||donnons.org^
 ||donproxies.com^
+||dontaz.com^
 ||dontaz.vercel.app^
 ||dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion^
 ||doramasflix.co^
@@ -588,6 +589,7 @@
 ||fs27.lol^
 ||fstream.info^
 ||fstv.rest^
+||fuegocine.com^
 ||fukou-da.net^
 ||fullhdfilmizlesene.mx^
 ||fullhdfilmizlesene.now^
@@ -804,6 +806,7 @@
 ||ktuvit.me^
 ||kultfilmler.net^
 ||kultivi.com^
+||kumanga.com^
 ||kurdcinama.com^
 ||kurdsubtitle.net^
 ||kusonime.com^
@@ -888,12 +891,14 @@
 ||mangapoisk.me^
 ||mangas-origines.fr^
 ||mangashelf.co.il^
+||mangavault.lat^
 ||mangaworld.mx^
 ||mangaz.com^
 ||manhuagui.com^
 ||manhuapi.cc^
 ||manhuazhan.com^
 ||manhuazhan.org^
+||manhwaweb.top^
 ||manualpdf.es^
 ||marketfiyati.org.tr^
 ||markiza.sk^
@@ -1058,6 +1063,7 @@
 ||peliculasgd.net^
 ||pelisenhd.org^
 ||pelisforte.se^
+||pelisgo.online^
 ||pelispedia.is^
 ||pelispedia.mov^
 ||pensarcursos.com.br^
@@ -1212,6 +1218,7 @@
 ||series.ly^
 ||seriesperu.com^
 ||sgb-fss.ch^
+||shademanga.com^
 ||shadowrangers.net^
 ||shafilm.vip^
 ||shahiid-anime.net^
@@ -1260,6 +1267,7 @@
 ||special.moe.gov.tw^
 ||sphinxanime.com^
 ||split-tv.co.il^
+||spnmanga.com^
 ||spoilerplus.tv^
 ||spojenka.cz^
 ||sport.tvp.pl^
@@ -1497,6 +1505,7 @@
 ||warez.ge^
 ||warezhr.org^
 ||wasm.in^
+||watch.plex.tv^
 ||watchanimeworld.one^
 ||wawacity-info.com^
 ||wawacity.feedback^
