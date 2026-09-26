@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 865
-# Updated: 2026-09-26 17:06:26 UTC
+# Total Rules: 866
+# Updated: 2026-09-26 17:37:29 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -805,6 +805,7 @@ vault.fbi.gov
 vdoc.pub
 vedabase.io
 veridiansoftware.com
+versedb.com
 vertsluisants.fr
 vestalreview.net
 vk.com

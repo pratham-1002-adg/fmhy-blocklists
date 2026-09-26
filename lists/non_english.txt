@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1581
-! Updated: 2026-09-26 17:06:26 UTC
+! Total Rules: 1582
+! Updated: 2026-09-26 17:37:30 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -1254,6 +1254,7 @@
 ||softkomik.com^
 ||sogou.com^
 ||sololatino.net^
+||somosmovies.org^
 ||sonako.fandom.com^
 ||songs.nghmat.com^
 ||sora-ich.vercel.app^

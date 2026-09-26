@@ -2,10 +2,11 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6340
-! Updated: 2026-09-26 17:06:26 UTC
+! Total Rules: 6349
+! Updated: 2026-09-26 17:37:30 UTC
 
 ||0mag.net^
+||0x00-8191.com^
 ||0xdb.org^
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -978,6 +979,7 @@
 ||cd.textfiles.com^
 ||cdisplayex.com^
 ||cdromance.org^
+||celenity.dev^
 ||celsoazevedo.com^
 ||celt.ucc.ie^
 ||cemetech.net^
@@ -1331,6 +1333,7 @@
 ||datoid.to^
 ||dats.site^
 ||david-peter.de^
+||davx5.com^
 ||dbkpop.com^
 ||dbpedia.org^
 ||dc.railgun.works^
@@ -2757,6 +2760,7 @@
 ||kaoskrew.org^
 ||kara.moe^
 ||karaoke-eternal.com^
+||karaoke.zoryva.me^
 ||kartoons.fun^
 ||kartoons.me^
 ||kashcal.onekash.org^
@@ -4276,6 +4280,7 @@
 ||poolsuite.net^
 ||popcornflix.com^
 ||popcornmovies.ac^
+||popify.cc^
 ||popuw.com^
 ||popwatch.cc^
 ||popwatch.to^
@@ -5027,6 +5032,7 @@
 ||solutionarchive.com^
 ||somafm.com^
 ||somerandomstuff1.wordpress.com^
+||somosmovies.org^
 ||sonako.fandom.com^
 ||sonar.dphn.ai^
 ||sonarr.tv^
@@ -5534,6 +5540,7 @@
 ||todaytvseries1.com^
 ||todaytvseries6.com^
 ||tododvdfull.com^
+||toflix.co^
 ||toggl.com^
 ||toggo.de^
 ||toku.fun^
@@ -5847,6 +5854,7 @@
 ||vermanhwa.com^
 ||verpeliculasonline.org^
 ||verpeliculasultra.com^
+||versedb.com^
 ||versefy.app^
 ||vertsluisants.fr^
 ||vestalreview.net^
@@ -5976,6 +5984,7 @@
 ||warflix.cv^
 ||warflix.im^
 ||wasm.in^
+||wasm.rip^
 ||watabou.itch.io^
 ||watch-tvseries.net^
 ||watch-wrestling.eu^

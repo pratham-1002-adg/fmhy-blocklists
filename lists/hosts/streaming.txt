@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1176
-# Updated: 2026-09-26 17:06:26 UTC
+# Total Rules: 1177
+# Updated: 2026-09-26 17:37:29 UTC
 
 0xdb.org
 123animehub.cc
@@ -993,6 +993,7 @@ tiz-cycling.tv
 tizentube.app
 todaytvseries1.com
 todaytvseries6.com
+toflix.co
 toku.fun
 tokyoinsider.com
 tokyotosho.info
