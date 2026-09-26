@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 908
-# Updated: 2026-09-26 17:37:29 UTC
+# Updated: 2026-09-26 18:08:32 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
