@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1582
-# Updated: 2026-09-27 09:06:38 UTC
+# Total Rules: 1583
+# Updated: 2026-09-27 09:38:23 UTC
 
 17db.pw
 1jour1film0626.site
@@ -378,6 +378,7 @@ dealabs.com
 deildu.net
 dergipark.org.tr
 descargasdd.org
+descargatepelis.com
 desciclopedia.org
 desenefaine.com
 deseneledublate.com

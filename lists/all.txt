@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6349
-! Updated: 2026-09-27 09:06:38 UTC
+! Total Rules: 6360
+! Updated: 2026-09-27 09:38:23 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -1159,6 +1159,7 @@
 ||cmvlinks.lovable.app^
 ||cmvsp.lovable.app^
 ||cmvv.lovable.app^
+||cmvwd.lovable.app^
 ||cn.chinadaily.com.cn^
 ||cnblogs.com^
 ||cobalt.tools^
@@ -1387,6 +1388,7 @@
 ||departures.to^
 ||dergipark.org.tr^
 ||descargasdd.org^
+||descargatepelis.com^
 ||descent.live^
 ||desciclopedia.org^
 ||desenefaine.com^
@@ -1593,6 +1595,7 @@
 ||dublab.com^
 ||dubolt.com^
 ||dulo.cx^
+||dulo.mov^
 ||dulourd.boo^
 ||dumanwu.com^
 ||duotrigordle.com^
@@ -1852,6 +1855,7 @@
 ||fawesome.tv^
 ||fbreader.org^
 ||fbstream.cc^
+||fbstream.is^
 ||fcast.org^
 ||fcpic.nesbbs.com^
 ||fctv33.lat^
@@ -2987,6 +2991,7 @@
 ||levidia.ch^
 ||lex-books.com^
 ||lexmangas.com^
+||lfmx.app^
 ||li-ma.nl^
 ||lib.ru^
 ||libbyapp.com^
@@ -3072,6 +3077,7 @@
 ||livebootlegconcert.blogspot.com^
 ||livechart.me^
 ||livelive24.com^
+||livelive24.st^
 ||liveonlineradio.net^
 ||liveplasma.com^
 ||livepush.io^
@@ -3494,12 +3500,14 @@
 ||movielens.org^
 ||movieloci.com^
 ||moviemistakes.com^
+||movienerds.site^
 ||movienestbd.best^
 ||movienestbd.pics^
 ||movienig.ht^
 ||movieo.me^
 ||movieparadise.org^
 ||moviepire.org^
+||movieplex.online^
 ||moviepooper.com^
 ||moviescenemap.com^
 ||moviescountdown.com^
@@ -5055,6 +5063,7 @@
 ||sonicvisualiser.org^
 ||sonniss.com^
 ||sonolus.com^
+||sonorahq.org^
 ||sophiesfloorboard.blogspot.com^
 ||sophon.at^
 ||sora-ich.vercel.app^
@@ -5607,6 +5616,7 @@
 ||totalsportek.st^
 ||toughlovearena.com^
 ||touhoudb.com^
+||toustream.xyz^
 ||toutiao.com^
 ||tr4ker.net^
 ||trace.moe^
@@ -5886,6 +5896,7 @@
 ||videohelp.com^
 ||videolan.org^
 ||videotuts.ru^
+||vidflix.live^
 ||vidhub.me^
 ||vidhub2.top^
 ||vidplay.to^

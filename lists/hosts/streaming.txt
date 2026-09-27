@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1177
-# Updated: 2026-09-27 09:06:38 UTC
+# Total Rules: 1186
+# Updated: 2026-09-27 09:38:23 UTC
 
 0xdb.org
 123animehub.cc
@@ -260,6 +260,7 @@ closet-picks.com
 cmvlinks.lovable.app
 cmvsp.lovable.app
 cmvv.lovable.app
+cmvwd.lovable.app
 colonialfilm.org.uk
 commons.wikimedia.org
 commonsensemedia.org
@@ -317,6 +318,7 @@ dramahood.mom
 dramanice.boo
 duafile.net
 dulo.cx
+dulo.mov
 dvdsreleasedates.com
 dvidshub.net
 easterneuropeanmovies.com
@@ -349,6 +351,7 @@ fantasticsoda.com
 fawanews.sc
 fawesome.tv
 fbstream.cc
+fbstream.is
 fcast.org
 fctv33.lat
 fctv33hd.bar
@@ -536,6 +539,7 @@ latestmovies.net
 lecinemaclub.com
 letterboxd.com
 levidia.ch
+lfmx.app
 li-ma.nl
 library.cufiy.net
 libremdb.iket.me
@@ -546,6 +550,7 @@ linktr.ee
 listal.com
 livechart.me
 livelive24.com
+livelive24.st
 livepush.io
 livetv.sx
 lmanime.com
@@ -600,12 +605,14 @@ movieboxonline.net
 movielens.org
 movieloci.com
 moviemistakes.com
+movienerds.site
 movienestbd.best
 movienestbd.pics
 movienig.ht
 movieo.me
 movieparadise.org
 moviepire.org
+movieplex.online
 moviepooper.com
 moviescenemap.com
 moviescountdown.com
@@ -1006,6 +1013,7 @@ torrents.youplex.site
 torrentsurf.to
 total-sportekk.st
 totalsportek.st
+toustream.xyz
 trace.moe
 trailerpunk.com
 trakt.tv
@@ -1067,6 +1075,7 @@ viddsee.com
 videa.hu
 videodictionary.kwebpia.net
 videohelp.com
+vidflix.live
 vidplay.to
 vimeo.com
 vipleague.me
