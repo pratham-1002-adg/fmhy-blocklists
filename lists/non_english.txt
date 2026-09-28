@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1583
-! Updated: 2026-09-28 12:09:13 UTC
+! Total Rules: 1585
+! Updated: 2026-09-28 12:46:00 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -249,6 +249,7 @@
 ||boerse.am^
 ||boierthikana.com^
 ||boimate.com^
+||bollyflix.bi^
 ||bollymod.forum^
 ||bollymod.study^
 ||bollyzone.to^
@@ -325,6 +326,7 @@
 ||cineru.lk^
 ||cinestream.info^
 ||cinezo.org^
+||cinezo.st^
 ||cizgimax.online^
 ||clasicoshistoria.blogspot.com^
 ||click-sud.pro^

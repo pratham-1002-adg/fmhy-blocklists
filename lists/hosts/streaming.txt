@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1186
-# Updated: 2026-09-28 12:09:13 UTC
+# Total Rules: 1197
+# Updated: 2026-09-28 12:46:00 UTC
 
 0xdb.org
 123animehub.cc
@@ -57,6 +57,7 @@ allyoucanwatch.net
 amazon.com
 amberflix.xyz
 androidtv-guide.com
+ani.pm
 anianimax.dpdns.org
 anibase.net
 anica.jp
@@ -73,6 +74,7 @@ anidl.org
 anidoor.me
 anify.to
 anihq.cc
+anikage.cc
 anikoto.site
 anikototv.to
 anikura.club
@@ -179,6 +181,7 @@ bazarr.media
 bbc.co.uk
 bbflix.one
 bcine.ru
+bciney.to
 beacons.ai
 bechdeltest.com
 behindthevoiceactors.com
@@ -251,7 +254,9 @@ cinevaro.app
 cinevibe.cc
 cinevibe.to
 cinevid.st
+cinex.lol
 cinezo.org
+cinezo.st
 ciniverse.site
 cksub.org
 classics.nascar.com
@@ -356,6 +361,7 @@ fcast.org
 fctv33.lat
 fctv33hd.bar
 fctv33hd.co
+fctv33hd.uno
 ffmovies.org
 filmcave.ru
 filmdilemma.com
@@ -584,6 +590,7 @@ mirrors.st
 miru.js.org
 miruro.bz
 miruro.com
+miruro.cx
 miruro.ru
 miruro.to
 miruro.tv
@@ -779,6 +786,7 @@ realfight.top
 reanime.cz
 reanime.to
 reanime.wtf
+redbull.tv
 redd.it
 redflix.club
 redflix.one
@@ -928,6 +936,7 @@ strexoplayer.onrender.com
 strims24.pl
 strmd.link
 strmfree.link
+strmfree.st
 strumyk.domains
 strumyk.pk
 stumfilm.dk
@@ -1060,7 +1069,9 @@ uptime.ibbylabs.dev
 uruworks.net
 v2.gostreameast.link
 v2.sportsurge.net
+v2.streameast.ga
 v5.gostreameast.link
+vanillo.tv
 vaughn.live
 vaultplayer.co.uk
 vavoo.to

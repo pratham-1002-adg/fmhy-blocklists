@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6360
-# Updated: 2026-09-28 12:09:13 UTC
+# Total Rules: 6373
+# Updated: 2026-09-28 12:46:00 UTC
 
 0mag.net
 0x00-8191.com
@@ -284,6 +284,7 @@ androidtv-guide.com
 andropalace.org
 androz2091.fr
 ani-cli-arabic.dev
+ani.pm
 anianimax.dpdns.org
 anibase.net
 anica.jp
@@ -306,6 +307,7 @@ anify.to
 aniguessr.com
 anihq.cc
 anihub.com.tr
+anikage.cc
 anikoto.site
 anikototv.to
 anikura.club
@@ -713,6 +715,7 @@ bbcmicro.co.uk
 bbflix.one
 bbs.itzmx.com
 bcine.ru
+bciney.to
 bdebooks.com
 bdh.bne.es
 beacons.ai
@@ -831,6 +834,7 @@ bohrium.com
 boierthikana.com
 boimate.com
 bolidesoft.com
+bollyflix.bi
 bollymod.forum
 bollymod.study
 bollyzone.to
@@ -1106,7 +1110,9 @@ cinevaro.app
 cinevibe.cc
 cinevibe.to
 cinevid.st
+cinex.lol
 cinezo.org
+cinezo.st
 ciniverse.site
 cirrusretro.com
 citizen-dj.labs.loc.gov
@@ -1637,6 +1643,7 @@ ebookoz.net
 ebookpdf.com
 ebooks-it.org
 ebooks.i2p
+ebooks1001.com
 ebooksbrasil.org
 ebooksyard.com
 ebookzy.com
@@ -1861,6 +1868,7 @@ fcpic.nesbbs.com
 fctv33.lat
 fctv33hd.bar
 fctv33hd.co
+fctv33hd.uno
 fdroid.tabler.dev
 federal.tv
 federica.eu
@@ -3411,6 +3419,7 @@ mirrors.st
 miru.js.org
 miruro.bz
 miruro.com
+miruro.cx
 miruro.ru
 miruro.to
 miruro.tv
@@ -4552,6 +4561,7 @@ recraft.ai
 recroom.network
 redacted.sh
 redalert.me
+redbull.tv
 redcoats.io
 redd.it
 redditreads.com
@@ -5257,6 +5267,7 @@ strflow.app
 strims24.pl
 strmd.link
 strmfree.link
+strmfree.st
 strudel.cc
 strumyk.domains
 strumyk.pk
@@ -5830,6 +5841,7 @@ v.qq.com
 v2.gostreameast.link
 v2.sherpa.ac.uk
 v2.sportsurge.net
+v2.streameast.ga
 v2ex.com
 v5.gostreameast.link
 vagalume.fm
@@ -5837,6 +5849,7 @@ vaizdopamokos.lt
 vals.ai
 vangoghletters.org
 vanillavoice.com
+vanillo.tv
 vanya-games.site
 vaporarchive.neocities.org
 vaughn.live
