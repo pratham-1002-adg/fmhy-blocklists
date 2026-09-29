@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1043
-# Updated: 2026-09-29 01:08:39 UTC
+# Total Rules: 1044
+# Updated: 2026-09-29 01:38:43 UTC
 
 0x00-8191.com
 18xx.games
@@ -46,6 +46,7 @@ andkon.com
 aniguessr.com
 animemusicquiz.com
 ankergames.net
+ankergames.to
 anthropeum.com
 appnetica.com
 arcadespace.org

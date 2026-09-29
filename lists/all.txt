@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6373
-! Updated: 2026-09-29 01:08:40 UTC
+! Total Rules: 6374
+! Updated: 2026-09-29 01:38:43 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -438,6 +438,7 @@
 ||anizm.net^
 ||anizone.to^
 ||ankergames.net^
+||ankergames.to^
 ||anm.cx^
 ||annas-archive.gd^
 ||annas-archive.gl^
