@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 500
-# Updated: 2026-09-29 06:44:55 UTC
+# Total Rules: 501
+# Updated: 2026-09-29 07:09:42 UTC
 
 4pda.to
 80bee.com
@@ -335,6 +335,7 @@ notesplus.com
 novelist.app
 nsaneforums.com
 ntfy.sh
+nura.eco
 nuvio-plugin-library.vercel.app
 nuvio.tv
 nuvio.wiki

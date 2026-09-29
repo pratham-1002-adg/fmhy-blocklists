@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1585
-# Updated: 2026-09-29 06:44:55 UTC
+# Total Rules: 1586
+# Updated: 2026-09-29 07:09:42 UTC
 
 17db.pw
 1jour1film0626.site
@@ -1104,6 +1104,7 @@ portal.uniasselvi.com.br
 powanjuan.cc
 prehraj.to
 primecursos.com.br
+primevideo.com
 prirucka.ujc.cas.cz
 privacidad.me
 privtr.ee

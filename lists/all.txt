@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6374
-! Updated: 2026-09-29 06:44:55 UTC
+! Total Rules: 6377
+! Updated: 2026-09-29 07:09:42 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -3830,6 +3830,7 @@
 ||numb3rs.stream^
 ||nunubook.com^
 ||nunuju.com^
+||nura.eco^
 ||nuvaporwave.neocities.org^
 ||nuvio-plugin-library.vercel.app^
 ||nuvio.tv^
@@ -4336,6 +4337,7 @@
 ||pricepoint.gg^
 ||primecursos.com.br^
 ||primeshows.org^
+||primevideo.com^
 ||primewire.mov^
 ||primewire.nexus^
 ||primewire.pw^
@@ -4665,6 +4667,7 @@
 ||rivestream.pw^
 ||rivestream.ru^
 ||rivestream.vip^
+||rivestream.win^
 ||rizon.net^
 ||rizzking.org^
 ||rizzking.xo.je^

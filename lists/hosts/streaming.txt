@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1197
-# Updated: 2026-09-29 06:44:55 UTC
+# Total Rules: 1198
+# Updated: 2026-09-29 07:09:42 UTC
 
 0xdb.org
 123animehub.cc
@@ -815,6 +815,7 @@ rivestream.app
 rivestream.pw
 rivestream.ru
 rivestream.vip
+rivestream.win
 rizzking.org
 rizzking.xo.je
 rlsxtvt.icu
