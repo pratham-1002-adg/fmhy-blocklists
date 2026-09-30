@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6377
-# Updated: 2026-09-30 08:09:55 UTC
+# Total Rules: 6382
+# Updated: 2026-09-30 08:42:05 UTC
 
 0mag.net
 0x00-8191.com
@@ -4262,6 +4262,8 @@ podcasttomp3.com
 podchaser.com
 podnews.net
 podparadise.com
+podreczniki.cfd
+podreczniki.lol
 podscripts.co
 podstatus.com
 poeltl.nbpa.com
@@ -4594,6 +4596,7 @@ rekt.network
 relampagomovies.com
 relatedanime.com
 relay.fm
+releasehive.com
 releases.com
 releases.moe
 relicradio.com
@@ -5942,6 +5945,7 @@ vital.audio
 viu.tv
 viv.st
 vivaldi.com
+vivarium.su
 vivarium.wtf
 vivatorrents.org
 vix.com
@@ -6032,6 +6036,7 @@ watchott.org
 watchprowrestling.store
 watchreplay.net
 watchseries.bar
+watchseries.free
 watchseries.plus
 watchseries.show
 watchsports.st

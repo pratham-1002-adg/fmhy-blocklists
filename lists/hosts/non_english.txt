@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1586
-# Updated: 2026-09-30 08:09:55 UTC
+# Total Rules: 1588
+# Updated: 2026-09-30 08:42:04 UTC
 
 17db.pw
 1jour1film0626.site
@@ -1095,6 +1095,8 @@ playstationhaber.com
 playtorrio.xyz
 pluto.tv
 podcast24.fi
+podreczniki.cfd
+podreczniki.lol
 poemassemerros.wordpress.com
 poesiasonline.com
 poipiku.com

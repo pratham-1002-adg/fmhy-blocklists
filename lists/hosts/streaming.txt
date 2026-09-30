@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1198
-# Updated: 2026-09-30 08:09:55 UTC
+# Total Rules: 1200
+# Updated: 2026-09-30 08:42:04 UTC
 
 0xdb.org
 123animehub.cc
@@ -1094,6 +1094,7 @@ vipleague.me
 vipleague.vg
 vipotv.com
 viv.st
+vivarium.su
 vivarium.wtf
 vknext.net
 vkvideo.ru
@@ -1120,6 +1121,7 @@ watchott.org
 watchprowrestling.store
 watchreplay.net
 watchseries.bar
+watchseries.free
 watchseries.plus
 watchseries.show
 watchsports.st
