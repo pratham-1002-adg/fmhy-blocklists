@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 6382
-! Updated: 2026-10-01 06:46:42 UTC
+! Updated: 2026-10-01 07:09:50 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
