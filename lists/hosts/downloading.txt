@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 153
-# Updated: 2026-10-01 16:40:15 UTC
+# Updated: 2026-10-01 17:09:27 UTC
 
 1024teradl.com
 1ddl.org
