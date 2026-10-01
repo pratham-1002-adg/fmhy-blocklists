@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6382
-# Updated: 2026-10-01 12:47:09 UTC
+# Total Rules: 6384
+# Updated: 2026-10-01 13:11:11 UTC
 
 0mag.net
 0x00-8191.com
@@ -2971,6 +2971,7 @@ lazytetris.com
 lbl.fm
 leagueofcomicgeeks.com
 leaked.cx
+learn.microsoft.com
 learnablemeta.com
 learnjapanese.moe
 learnoutloud.com
@@ -3533,6 +3534,7 @@ movio.club
 movish.to
 movix.chat
 movix.online
+movy.fyi
 movy.sx
 mp3db.pro
 mp3indirdur.com.tr

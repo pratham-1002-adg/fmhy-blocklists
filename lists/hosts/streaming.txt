@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1200
-# Updated: 2026-10-01 12:47:08 UTC
+# Total Rules: 1201
+# Updated: 2026-10-01 13:11:10 UTC
 
 0xdb.org
 123animehub.cc
@@ -629,6 +629,7 @@ moviestowatch.top
 moviezmad.co
 movingimage.nls.uk
 movish.to
+movy.fyi
 movy.sx
 mrqe.com
 msearch.vercel.app

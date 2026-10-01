@@ -2,8 +2,8 @@
 # Description: AI scrapers, unsanctioned bot mirrors, model rippers, and jailbreaks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 276
-# Updated: 2026-10-01 12:47:09 UTC
+# Total Rules: 277
+# Updated: 2026-10-01 13:11:11 UTC
 
 acapella-extractor.com
 addons.mozilla.org
@@ -144,6 +144,7 @@ kyutai.org
 labs.google
 labs.scale.com
 lazypy.ro
+learn.microsoft.com
 learnprompting.org
 lemmy.world
 lemonade-server.ai
