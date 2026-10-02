@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
 # Total Rules: 6384
-# Updated: 2026-10-02 01:08:55 UTC
+# Updated: 2026-10-02 01:40:09 UTC
 
 0mag.net
 0x00-8191.com
