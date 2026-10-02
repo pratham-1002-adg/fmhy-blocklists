@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1588
-! Updated: 2026-10-02 14:09:36 UTC
+! Total Rules: 1589
+! Updated: 2026-10-02 14:42:48 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -1568,6 +1568,7 @@
 ||xtrance.info^
 ||yabancidizi.so^
 ||yablom.com^
+||yam.ahwaktv.net^
 ||yavka.net^
 ||yibenmanhua.com^
 ||yoda.az^

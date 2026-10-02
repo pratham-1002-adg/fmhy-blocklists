@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1201
-! Updated: 2026-10-02 14:09:35 UTC
+! Total Rules: 1204
+! Updated: 2026-10-02 14:42:48 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -678,6 +678,7 @@
 ||noirx.me^
 ||nomorflix.cc^
 ||nomorflix.com^
+||notebin.de^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
 ||novahd.cc^
@@ -725,6 +726,7 @@
 ||pahe.ink^
 ||panix.com^
 ||pantyflix.com^
+||paste.to^
 ||pawflix.foo.ng^
 ||peestream.in^
 ||phantomflix.net^
@@ -1004,6 +1006,7 @@
 ||tiii.me^
 ||timesoccertv.com^
 ||timst.cfd^
+||timst.top^
 ||timstreams.st^
 ||titantv.com^
 ||tivimate.com^

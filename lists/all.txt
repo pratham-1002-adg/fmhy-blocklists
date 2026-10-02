@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6384
-! Updated: 2026-10-02 14:09:36 UTC
+! Total Rules: 6391
+! Updated: 2026-10-02 14:42:48 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -1949,6 +1949,7 @@
 ||fivebooks.com^
 ||fivefilters.org^
 ||fixmyspeakers.com^
+||fizzpoker.com^
 ||flac.music.hi.cn^
 ||flacattack.net^
 ||flacmusic.info^
@@ -2982,6 +2983,7 @@
 ||lectuepublibre6.com^
 ||leeapk.com^
 ||leereilly.net^
+||legacystore.app^
 ||legendaoficial.net^
 ||legendas.net^
 ||legendasbrasil.org^
@@ -3691,6 +3693,7 @@
 ||nethd.org^
 ||netmovies.com.br^
 ||netnaija.film^
+||netnewswire.com^
 ||netplayfinder.com^
 ||netplayz.icu^
 ||netshare.app^
@@ -3774,6 +3777,7 @@
 ||noramusic.netlify.app^
 ||noslivres.net^
 ||nostalgiktv.org^
+||notebin.de^
 ||notesplus.com^
 ||nothing-to-watch.port80.ch^
 ||notrisfoes.com^
@@ -4077,6 +4081,7 @@
 ||particle-clicker.web.cern.ch^
 ||particle.news^
 ||pasateatorrent.org^
+||paste.to^
 ||patrickzedler.com^
 ||pawflix.foo.ng^
 ||pb.wtf^
@@ -5548,6 +5553,7 @@
 ||timeto.me^
 ||timetreeapp.com^
 ||timst.cfd^
+||timst.top^
 ||timstreams.st^
 ||tinfoil.com^
 ||tinybots.net^
@@ -6289,6 +6295,7 @@
 ||yablom.com^
 ||yacreader.com^
 ||yag.im^
+||yam.ahwaktv.net^
 ||yamagi.org^
 ||yandex.com^
 ||yarg.in^

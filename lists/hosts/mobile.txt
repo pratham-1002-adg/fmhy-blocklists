@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 501
-# Updated: 2026-10-02 14:09:36 UTC
+# Total Rules: 503
+# Updated: 2026-10-02 14:42:48 UTC
 
 4pda.to
 80bee.com
@@ -279,6 +279,7 @@ kylecorry.com
 lab.zhs.moe
 lawnchair.app
 leeapk.com
+legacystore.app
 lens.google
 library.cufiy.net
 libreoffice.org
@@ -324,6 +325,7 @@ myal.vercel.app
 needrom.com
 netclicker.tv
 netguard.me
+netnewswire.com
 netshare.app
 networksurvey.app
 newpipe.net
