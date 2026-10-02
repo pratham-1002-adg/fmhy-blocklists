@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 277
-! Updated: 2026-10-02 04:08:05 UTC
+! Updated: 2026-10-02 04:41:40 UTC
 
 ||acapella-extractor.com^
 ||addons.mozilla.org^
