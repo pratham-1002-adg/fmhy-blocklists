@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1204
-! Updated: 2026-10-03 16:44:35 UTC
+! Total Rules: 1212
+! Updated: 2026-10-03 20:33:06 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -296,6 +296,7 @@
 ||deafmovie.org^
 ||deafvideo.tv^
 ||defenceimagery.mod.uk^
+||dexter.pw^
 ||digitaldreamdoor.com^
 ||digitaler-lesesaal.bundesarchiv.de^
 ||digitalfilmarchive.net^
@@ -311,6 +312,7 @@
 ||docs.wyzie.io^
 ||docs.wyzie.ru^
 ||donghua4k.net^
+||donghuastream.org^
 ||download.duafile.com^
 ||downloads-anymovies.co^
 ||downsub.com^
@@ -569,6 +571,7 @@
 ||lumotv.co.uk^
 ||luna-stream.me^
 ||lunarx.to^
+||m-zone.org^
 ||m2box.org^
 ||m3u-ip.tv^
 ||m3u4u.com^
@@ -825,6 +828,7 @@
 ||rmz.cr^
 ||rmzmirrors.com^
 ||rottentomatoes.com^
+||roxiestreams.biz^
 ||roxiestreams.cc^
 ||roxiestreams.info^
 ||roxiestreams.su^
@@ -836,6 +840,7 @@
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
+||sakusaku.to^
 ||samsungtvplus.com^
 ||savesubs.com^
 ||score808hd.tv^
@@ -853,6 +858,7 @@
 ||seriesgraph.com^
 ||seriesvault.org^
 ||seriesvault.win^
+||shahflix.net^
 ||shanaproject.com^
 ||sharebb.me^
 ||sharemania.us^
@@ -1003,6 +1009,7 @@
 ||thewutangcollection.com^
 ||theyshootpictures.com^
 ||theyshootzombies.com^
+||thugtv.online^
 ||tiii.me^
 ||timesoccertv.com^
 ||timst.cfd^
@@ -1207,5 +1214,6 @@
 ||zetmoon.live^
 ||zflix.me^
 ||zlive.st^
+||zoryva.me^
 ||zstream.mov^
 ||zxcprime.icu^

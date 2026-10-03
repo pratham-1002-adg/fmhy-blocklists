@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 909
-# Updated: 2026-10-03 16:44:35 UTC
+# Total Rules: 912
+# Updated: 2026-10-03 20:33:07 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -59,6 +59,7 @@ animethemes.moe
 aniplaylist.com
 antra.hoshi.cfd
 anydecentmusic.com
+anything.rip
 aoty.prigoana.pw
 app.chillhop.com
 app.volta-music.com
@@ -756,6 +757,7 @@ squid-board.org
 squid.wtf
 squidify.net
 squidify.org
+squigly.link
 status.lucida.to
 stemroller.com
 stevenaleong.com
@@ -837,6 +839,7 @@ unheard.fm
 unify.fm
 unifycosmos.com
 unminus.com
+unmusic.xyz
 unreal-instruments.wixsite.com
 upbeat.pw
 upbeatradio.net

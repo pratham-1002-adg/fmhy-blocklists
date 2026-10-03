@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1045
-! Updated: 2026-10-03 16:44:35 UTC
+! Total Rules: 1046
+! Updated: 2026-10-03 20:33:07 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -377,6 +377,7 @@
 ||gta-geoguesser.com^
 ||gtoons.app^
 ||guess-the-year.davjhan.com^
+||guessdash.com^
 ||guessme.io^
 ||guessthe.game^
 ||guesstheprice.net^

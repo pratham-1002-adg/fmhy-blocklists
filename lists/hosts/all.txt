@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6391
-# Updated: 2026-10-03 16:44:35 UTC
+# Total Rules: 6407
+# Updated: 2026-10-03 20:33:07 UTC
 
 0mag.net
 0x00-8191.com
@@ -461,6 +461,7 @@ anydecentmusic.com
 anyflip.com
 anyipa.me
 anymex.vercel.app
+anything.rip
 anythingllm.com
 anyvoicelab.com
 anzmanga25.com
@@ -765,6 +766,7 @@ bhoot-fm.com
 bibcit.com
 bible.com
 biblegateway.com
+biblehub.com
 biblioreads.eu.org
 biblioteca-antologica.org
 bibliotecadigital.aemrt.pt
@@ -822,6 +824,7 @@ blu-ray.com
 bluemaxima.org
 blueroms.ws
 blueskytracker.app
+bmanga.dedyn.io
 bmz.absolutezero.fyi
 board.darklight.to
 boardgame-online.com
@@ -1415,6 +1418,7 @@ developers.openai.com
 devices.ubuntu-touch.io
 devil-torrents.pl
 devilutionx.com
+dexter.pw
 dezflight-underground.com
 dfworkshop.net
 dhammatalks.org
@@ -1526,6 +1530,7 @@ domarks.app
 dominiosgnulahd.com
 dominioshdfull.com
 donghua4k.net
+donghuastream.org
 dongmanmanhua.cn
 donnons.org
 donotcall.gov
@@ -2234,6 +2239,7 @@ gestdown.info
 get4all.org
 getcomics.org
 getdrafts.com
+getindevice.com
 getintra.org
 getleon.ai
 getlibation.com
@@ -2360,6 +2366,7 @@ gtav-radio-nine.vercel.app
 gtoons.app
 guardianproject.info
 guess-the-year.davjhan.com
+guessdash.com
 guessme.io
 guessthe.game
 guesstheprice.net
@@ -3193,6 +3200,7 @@ lyrics.com
 lyricsify.com
 lyricstranslate.com
 lyrion.org
+m-zone.org
 m.filmcity12.com
 m.mojevideo.sk
 m210.duke4.net
@@ -4727,6 +4735,7 @@ rottentomatoes.com
 roundgames.com
 routinehub.co
 rovr.live
+roxiestreams.biz
 roxiestreams.cc
 roxiestreams.info
 roxiestreams.su
@@ -4786,6 +4795,7 @@ sagexpo.org
 saicord.com
 sakuranovel.id
 sakuraost.com
+sakusaku.to
 salmosonline.com
 samehadaku.care
 samlib.ru
@@ -4860,6 +4870,7 @@ scriptslug.com
 scrobblerad.io
 scta.lombardpress.org
 sdtools.org
+sealplus.in
 seanime.app
 search-22.com
 search-ace.stream
@@ -4916,6 +4927,7 @@ sgb-fss.ch
 shademanga.com
 shadowrangers.net
 shafilm.vip
+shahflix.net
 shahiid-anime.net
 shamela.ws
 shanaproject.com
@@ -5179,6 +5191,7 @@ squidgeworld.org
 squidify.net
 squidify.org
 squidtv.net
+squigly.link
 squirdle.fireblend.com
 squishybilliards.com
 sqword.com
@@ -5535,6 +5548,7 @@ thorium.edrlab.org
 thoriumreader.com
 thoughtco.com
 threelettersgame.com
+thugtv.online
 thunderapp.dev
 thunderbird.net
 thuvienphapluat.vn
@@ -5820,6 +5834,7 @@ unikey.org
 uniquestream.net
 universia.net
 unminus.com
+unmusic.xyz
 unogs.com
 unpackerr.zip
 unreal-instruments.wixsite.com
@@ -6386,6 +6401,7 @@ zoom.lk
 zooniverse.org
 zoowomaniacos.org
 zophar.net
+zoryva.me
 zotero.org
 zradio.co.il
 zradio.live
