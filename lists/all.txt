@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6407
-! Updated: 2026-10-04 10:59:07 UTC
+! Total Rules: 6417
+! Updated: 2026-10-04 17:51:53 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -343,6 +343,7 @@
 ||animebalkan.gg^
 ||animebalkan.org^
 ||animebatch.id^
+||animebbg.net^
 ||animebloodsub.net^
 ||animecharactersdatabase.com^
 ||animechiby.com^
@@ -693,6 +694,7 @@
 ||bangumi.moe^
 ||bangumi.tv^
 ||banime.dedyn.io^
+||banime.top^
 ||baomoi.com^
 ||baozimh.com^
 ||baozimh.one^
@@ -1115,6 +1117,7 @@
 ||cinevibe.to^
 ||cinevid.st^
 ||cinex.lol^
+||cineyz.com^
 ||cinezo.org^
 ||cinezo.st^
 ||ciniverse.site^
@@ -1229,6 +1232,7 @@
 ||constituteproject.org^
 ||contempaesthetics.org^
 ||contextarena.ai^
+||convert.pipepipe.dev^
 ||convos.chat^
 ||cool-etv.net^
 ||coollib.xyz^
@@ -1944,6 +1948,7 @@
 ||fintunes.app^
 ||fireani.me^
 ||firefox.com^
+||firesidereader.com^
 ||firstpersontetris.com^
 ||firstsounds.org^
 ||firstweek.de^
@@ -2707,6 +2712,7 @@
 ||japanesewiki.com^
 ||japanpaw.com^
 ||japantv.app^
+||javagames.cc^
 ||jazznblues.club^
 ||jdmfsm.info^
 ||jellymar.io^
@@ -2754,6 +2760,7 @@
 ||jtx.techbee.at^
 ||jubler.org^
 ||juegosdemugen.com^
+||jumble.top^
 ||jummb.us^
 ||justanime.site^
 ||justanime.to^
@@ -4170,6 +4177,7 @@
 ||pirataria.link^
 ||piratbit.top^
 ||pirate-punk.net^
+||piratefeeds.net^
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitchfork.com^
@@ -5217,6 +5225,7 @@
 ||stats.fm^
 ||statt-land-song.ch^
 ||status.animaxanime.dpdns.org^
+||status.banime.top^
 ||status.lucida.to^
 ||status.miruro.com^
 ||status.streamea.st^
@@ -6272,6 +6281,7 @@
 ||www3.anikai.cc^
 ||www3.fsonline.app^
 ||www36.mejortorrent.eu^
+||www46.mejortorrent.eu^
 ||www7.iplusfree.org^
 ||x-minus.pro^
 ||x1337x.cc^

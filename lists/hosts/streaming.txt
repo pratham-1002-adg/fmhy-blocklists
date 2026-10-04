@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1212
-# Updated: 2026-10-04 10:59:07 UTC
+# Total Rules: 1215
+# Updated: 2026-10-04 17:51:53 UTC
 
 0xdb.org
 123animehub.cc
@@ -172,6 +172,7 @@ baechusquad.download
 bakabt.me
 baked.live
 banime.dedyn.io
+banime.top
 basementx.lol
 basementx.pro
 basementx.xyz
@@ -255,6 +256,7 @@ cinevibe.cc
 cinevibe.to
 cinevid.st
 cinex.lol
+cineyz.com
 cinezo.org
 cinezo.st
 ciniverse.site
@@ -904,6 +906,7 @@ ssrmovies.com
 stagatv.com
 starringthecomputer.com
 status.animaxanime.dpdns.org
+status.banime.top
 status.miruro.com
 status.streamea.st
 stellar.gdn

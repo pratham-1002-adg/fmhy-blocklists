@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1046
-! Updated: 2026-10-04 10:59:07 UTC
+! Total Rules: 1047
+! Updated: 2026-10-04 17:51:53 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -437,6 +437,7 @@
 ||itgmania.com^
 ||itizso.itch.io^
 ||japanesepccompendium.blogspot.com^
+||javagames.cc^
 ||jellymar.io^
 ||jeopardy.app^
 ||jetholt.com^

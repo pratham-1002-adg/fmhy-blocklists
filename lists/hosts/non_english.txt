@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1589
-# Updated: 2026-10-04 10:59:07 UTC
+# Total Rules: 1591
+# Updated: 2026-10-04 17:51:53 UTC
 
 17db.pw
 1jour1film0626.site
@@ -110,6 +110,7 @@ animeav1.com
 animebalkan.gg
 animebalkan.org
 animebatch.id
+animebbg.net
 animebloodsub.net
 animeclipse.com
 animed23.com
@@ -1555,6 +1556,7 @@ wwv.veranimes.net
 www21.kinox.to
 www3.fsonline.app
 www36.mejortorrent.eu
+www46.mejortorrent.eu
 xcinema.ro
 xdccmule.org
 xfilme.ro

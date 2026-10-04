@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 504
-# Updated: 2026-10-04 10:59:07 UTC
+# Total Rules: 506
+# Updated: 2026-10-04 17:51:53 UTC
 
 4pda.to
 80bee.com
@@ -110,6 +110,7 @@ cleanlinks.app
 cloudstream.miraheze.org
 coconut-flavour.com
 connectbot.org
+convert.pipepipe.dev
 coolstar.org
 crookcatcher.app
 customromhardware.miraheze.org
@@ -170,6 +171,7 @@ felixnuesse.de
 fing.com
 fintunes.app
 firefox.com
+firesidereader.com
 fixmyspeakers.com
 flixquest.beamlak.dev
 florisboard.org
