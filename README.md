@@ -65,4 +65,4 @@ Automated, high-frequency AdGuard / DNS / uBlock / personalDNSfilter blocklists 
 5. Click **Save**.
 
 ---
-*Last automated sync: `2026-10-05 04:59:50 UTC`*
+*Last automated sync: `2026-10-05 05:24:48 UTC`*
