@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6418
-# Updated: 2026-10-06 09:42:05 UTC
+# Total Rules: 6425
+# Updated: 2026-10-06 10:08:45 UTC
 
 0mag.net
 0x00-8191.com
@@ -189,6 +189,7 @@ aggrocrab.itch.io
 agnai.chat
 aha-music.com
 ahs.turkish123.com
+ahwaktv.beer
 ai-bingo.lipsumar.io
 aider.chat
 aidoku.app
@@ -325,6 +326,7 @@ animatsiya.net
 animaxanime.dpdns.org
 anime-loads.org
 anime-odcinki.pl
+anime-phoenix.com
 anime-planet.com
 anime-sama.pw
 anime-sama.to
@@ -605,6 +607,7 @@ atarimagazines.com
 atarimania.com
 athome.fandango.com
 atlantic.st
+atlas.hls.lol
 atlasofwonders.com
 atmadharma.com
 atomcentral.com
@@ -1371,6 +1374,7 @@ deaffestonlinecinema.eventive.org
 deafmovie.org
 deafvideo.tv
 dealabs.com
+death.fm
 deathbyai.gg
 debridmediamanager.com
 debridr.com
@@ -3120,6 +3124,7 @@ llm-prices.com
 llm-stats.com
 llm.datasette.io
 llmresourceshub.vercel.app
+llmrun.dev
 lmanime.com
 lmcouncil.ai
 lmms.io
@@ -4635,6 +4640,7 @@ repair.wiki
 repec.org
 rephonic.com
 replay.nontonx.com
+repo.omix4.one
 reports.exodus-privacy.eu.org
 repository.alt.ac.uk
 repository.apptesters.org
@@ -6022,6 +6028,7 @@ voz.vn
 vpforums.org
 vpn.maximkatz.com
 vrcarena.com
+vselect.neocities.org
 vstskins.com
 vtudien.com
 vtuner.com

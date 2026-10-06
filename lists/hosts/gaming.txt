@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1047
-# Updated: 2026-10-06 09:42:05 UTC
+# Total Rules: 1048
+# Updated: 2026-10-06 10:08:44 UTC
 
 0x00-8191.com
 18xx.games
@@ -976,6 +976,7 @@ voxiom.io
 voxjong.com
 vpforums.org
 vrcarena.com
+vselect.neocities.org
 war.app
 warclicks.com
 wasm.rip

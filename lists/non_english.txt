@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1591
-! Updated: 2026-10-06 09:42:05 UTC
+! Total Rules: 1593
+! Updated: 2026-10-06 10:08:45 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -68,6 +68,7 @@
 ||agedm.io^
 ||agedm.tv^
 ||ahs.turkish123.com^
+||ahwaktv.beer^
 ||aifindy.com^
 ||akiba-online.com^
 ||akiba-team.org^
@@ -101,6 +102,7 @@
 ||animatsiya.net^
 ||anime-loads.org^
 ||anime-odcinki.pl^
+||anime-phoenix.com^
 ||anime-sama.pw^
 ||anime-sama.to^
 ||anime-sama.tv^
