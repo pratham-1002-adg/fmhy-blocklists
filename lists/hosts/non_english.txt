@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 1593
-# Updated: 2026-10-07 15:18:49 UTC
+# Updated: 2026-10-07 15:47:55 UTC
 
 17db.pw
 1jour1film0626.site
