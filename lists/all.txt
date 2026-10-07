@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6425
-! Updated: 2026-10-07 05:09:04 UTC
+! Total Rules: 6429
+! Updated: 2026-10-07 05:41:50 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -641,6 +641,7 @@
 ||audiozaic.com^
 ||audius.co^
 ||augustocampos.net^
+||aurasports.xyz^
 ||auroraoss.com^
 ||aurorascreen.org^
 ||authors.library.caltech.edu^
@@ -1620,6 +1621,7 @@
 ||dumanwu.com^
 ||duotrigordle.com^
 ||dupe.cz^
+||dvdeez.top^
 ||dvdsreleasedates.com^
 ||dvidshub.net^
 ||dw-anime.net^
@@ -3587,6 +3589,7 @@
 ||mult-fan.tv^
 ||multi.tonkacine.watch^
 ||multimovies.wtf^
+||multinime.site^
 ||multishows.top^
 ||multiup.io^
 ||mumuplayer.com^
@@ -6358,6 +6361,7 @@
 ||you.radio^
 ||youarelistening.to^
 ||youflex.top^
+||youplex.cc^
 ||youraislopbores.me^
 ||yourcountdown.to^
 ||youshows.org^

@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1216
-# Updated: 2026-10-07 05:09:04 UTC
+# Total Rules: 1220
+# Updated: 2026-10-07 05:41:50 UTC
 
 0xdb.org
 123animehub.cc
@@ -162,6 +162,7 @@ atlas.hls.lol
 atlasofwonders.com
 atomcentral.com
 audiovault.net
+aurasports.xyz
 aurorascreen.org
 av1core.cyou
 averotv.top
@@ -329,6 +330,7 @@ dramanice.boo
 duafile.net
 dulo.cx
 dulo.mov
+dvdeez.top
 dvdsreleasedates.com
 dvidshub.net
 easterneuropeanmovies.com
@@ -640,6 +642,7 @@ movy.sx
 mrqe.com
 msearch.vercel.app
 multi.tonkacine.watch
+multinime.site
 multishows.top
 myanime.live
 myanimelist.net
@@ -1202,6 +1205,7 @@ yifystatus.com
 yifysubtitles.ch
 yomi.to
 youflex.top
+youplex.cc
 yourcountdown.to
 youshows.org
 yow.tv
