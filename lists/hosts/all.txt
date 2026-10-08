@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6435
-# Updated: 2026-10-08 11:05:56 UTC
+# Total Rules: 6441
+# Updated: 2026-10-08 17:56:45 UTC
 
 0mag.net
 0x00-8191.com
@@ -176,6 +176,7 @@ aether.ist
 aether.st
 afghanistandl.nyu.edu
 afreestudio.com
+aftergleam.app
 afterplay.io
 aftvnews.com
 agame.com
@@ -225,6 +226,7 @@ alfy.com
 alirezakj.com
 allaboutberlin.com
 allaboutcircuits.com
+allaboutmovies.xyz
 allbanglaboi.com
 allbanglanewspaper.xyz
 allchemy.io
@@ -2006,6 +2008,7 @@ flixer.gd
 flixer.su
 flixfilmplus.de
 flixhouse.com
+flixmix.site
 flixquest.beamlak.dev
 flixsix.com
 flixtrz.com
@@ -3419,6 +3422,7 @@ midloop.net
 mihon.app
 mikanani.me
 militera.org
+milkbox.sytes.net
 milkie.cc
 milkytracker.org
 mindexpandingbooks.com
@@ -4478,6 +4482,7 @@ quotev.com
 quran.com
 r-a-d.io
 rabanetecomquiabo.blogspot.com
+rabbitmeow.online
 raccoon.onyxbits.de
 rachacuca.com.br
 racing.pmnd.rs
@@ -6368,6 +6373,7 @@ you.radio
 youarelistening.to
 youflex.top
 youplex.cc
+youplex.site
 youraislopbores.me
 yourcountdown.to
 youshows.org

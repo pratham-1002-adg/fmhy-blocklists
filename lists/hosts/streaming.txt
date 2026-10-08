@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1221
-# Updated: 2026-10-08 11:05:56 UTC
+# Total Rules: 1226
+# Updated: 2026-10-08 17:56:45 UTC
 
 0xdb.org
 123animehub.cc
@@ -49,6 +49,7 @@ aether.ist
 aether.st
 aftvnews.com
 ageratingjuju.com
+allaboutmovies.xyz
 allmanga.to
 allmovie.com
 allthebestfights.com
@@ -396,6 +397,7 @@ flixer.cx
 flixer.gd
 flixer.su
 flixhouse.com
+flixmix.site
 flixtrz.com
 flixvo.fun
 flixvo.live
@@ -594,6 +596,7 @@ meowly.qzz.io
 meowtv.ru
 mgdb.himitsukichi.com
 midloop.net
+milkbox.sytes.net
 mirrors.st
 miru.js.org
 miruro.bz
@@ -786,6 +789,7 @@ puffer.stanford.edu
 pwrestling.com
 pymedusa.com
 quodb.com
+rabbitmeow.online
 radarr.video
 rar.to
 raredoramas.com
@@ -1207,6 +1211,7 @@ yifysubtitles.ch
 yomi.to
 youflex.top
 youplex.cc
+youplex.site
 yourcountdown.to
 youshows.org
 yow.tv
