@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6429
-! Updated: 2026-10-08 03:43:27 UTC
+! Total Rules: 6435
+! Updated: 2026-10-08 11:05:56 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -673,6 +673,7 @@
 ||babla.vn^
 ||babyanime.top^
 ||bacalightnovel.co^
+||backloggd.com^
 ||backofyourhand.com^
 ||backrooms-wiki.wikidot.com^
 ||bad.cards^
@@ -858,6 +859,7 @@
 ||bookaudiobook.net^
 ||bookaudiobooks.com^
 ||bookdna.com^
+||bookfeed.io^
 ||bookfrom.net^
 ||bookgoldmine.com^
 ||bookhype.com^
@@ -1649,6 +1651,7 @@
 ||ebiblioteca.org^
 ||eblong.com^
 ||ebook-converter.com^
+||ebook-fonts.nicoverbruggen.be^
 ||ebook-land.cc^
 ||ebook-mecca.com^
 ||ebook.online-convert.com^
@@ -2230,6 +2233,7 @@
 ||gebaerdenlernen.de^
 ||geev.com^
 ||geminiwatermarkremover.io^
+||gemtowerdefense.com^
 ||generals.io^
 ||generation-msx.nl^
 ||generative.fm^
@@ -4992,6 +4996,7 @@
 ||sickw.com^
 ||sideloadly.io^
 ||sidequestvr.com^
+||siderite.dev^
 ||sidestore.io^
 ||sigil-ebook.com^
 ||signalmidi.app^
@@ -6254,6 +6259,7 @@
 ||worldradiohistory.com^
 ||worldradiomap.com^
 ||worldsbiggestpacman.com^
+||worldscinema.org^
 ||worldsrc.net^
 ||worteldrie.com^
 ||wotaku.wiki^

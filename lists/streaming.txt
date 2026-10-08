@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1220
-! Updated: 2026-10-08 03:43:27 UTC
+! Total Rules: 1221
+! Updated: 2026-10-08 11:05:56 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -1186,6 +1186,7 @@
 ||worldfree4u.gd^
 ||worldfree4u.moe^
 ||worldnews24.tv^
+||worldscinema.org^
 ||wotaku.wiki^
 ||ww1-fmovies.com^
 ||ww1.goojara.to^

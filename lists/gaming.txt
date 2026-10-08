@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1048
-! Updated: 2026-10-08 03:43:27 UTC
+! Total Rules: 1051
+! Updated: 2026-10-08 11:05:56 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -62,6 +62,7 @@
 ||atarimania.com^
 ||awbw.amarriner.com^
 ||axekin.com^
+||backloggd.com^
 ||backofyourhand.com^
 ||bad.cards^
 ||bandle.app^
@@ -340,6 +341,7 @@
 ||gats.io^
 ||gbatemp.net^
 ||gearoid.me^
+||gemtowerdefense.com^
 ||generals.io^
 ||generation-msx.nl^
 ||genesismud.org^
@@ -827,6 +829,7 @@
 ||shellshock.io^
 ||shipofharkinian.com^
 ||sidequestvr.com^
+||siderite.dev^
 ||sims.willby.info^
 ||simublast.com^
 ||simulator.money^
