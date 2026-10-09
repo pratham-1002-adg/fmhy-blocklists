@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1051
-! Updated: 2026-10-09 16:46:04 UTC
+! Total Rules: 1052
+! Updated: 2026-10-09 21:25:31 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -803,6 +803,7 @@
 ||romstation.fr^
 ||romstime.com^
 ||rooms.xyz^
+||roughly.is^
 ||roundgames.com^
 ||rpggeek.com^
 ||rpgonly.com^

@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6442
-# Updated: 2026-10-09 16:46:04 UTC
+# Total Rules: 6446
+# Updated: 2026-10-09 21:25:32 UTC
 
 0mag.net
 0x00-8191.com
@@ -296,6 +296,7 @@ anichan.to
 anichart.net
 anicine.xyz
 aniclipse.com
+aniclover.cc
 anidao.to
 anidap.lol
 anidb.app
@@ -4760,6 +4761,7 @@ romstime.com
 rooms.xyz
 rosegardenmusic.com
 rottentomatoes.com
+roughly.is
 roundgames.com
 routinehub.co
 rovr.live
@@ -5862,6 +5864,7 @@ unify.fm
 unifycosmos.com
 unikey.org
 uniquestream.net
+unison.betterlyrics.org
 universia.net
 unminus.com
 unmusic.xyz
@@ -6408,6 +6411,7 @@ zangetsu.online
 zdevs.ru
 zdf.de
 zeigames.com
+zen-bu.cc
 zencine.org
 zeno.fm
 zenodo.org

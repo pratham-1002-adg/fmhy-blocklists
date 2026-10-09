@@ -2,8 +2,8 @@
 ! Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 915
-! Updated: 2026-10-09 16:46:04 UTC
+! Total Rules: 916
+! Updated: 2026-10-09 21:25:31 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -841,6 +841,7 @@
 ||unheard.fm^
 ||unify.fm^
 ||unifycosmos.com^
+||unison.betterlyrics.org^
 ||unminus.com^
 ||unmusic.xyz^
 ||unreal-instruments.wixsite.com^

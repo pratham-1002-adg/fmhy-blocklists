@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1227
-# Updated: 2026-10-09 16:46:04 UTC
+# Total Rules: 1230
+# Updated: 2026-10-09 21:25:31 UTC
 
 0xdb.org
 123animehub.cc
@@ -67,6 +67,7 @@ anichan.to
 anichart.net
 anicine.xyz
 aniclipse.com
+aniclover.cc
 anidao.to
 anidap.lol
 anidb.app
@@ -459,6 +460,7 @@ hashtagiptv.com
 hayase.watch
 hdclump.com
 hdencode.org
+hdhub4u.bi
 hdmovieshub.fyi
 hdmoviez.name
 hexa.su
@@ -1222,6 +1224,7 @@ yts.gg
 ytsproxies.com
 ytsubdl.com
 yukisubs.wordpress.com
+zen-bu.cc
 zencine.org
 zenox.lol
 zero1cine.com
