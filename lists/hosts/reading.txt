@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 873
-# Updated: 2026-10-10 01:04:41 UTC
+# Total Rules: 874
+# Updated: 2026-10-10 07:27:17 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -795,6 +795,7 @@ thoughtco.com
 tobari.moe
 tolkiengateway.net
 toonily.com
+toonkotsu.com
 topostext.org
 translator.bookfere.com
 trl.org

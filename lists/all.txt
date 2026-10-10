@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6446
-! Updated: 2026-10-10 01:04:42 UTC
+! Total Rules: 6449
+! Updated: 2026-10-10 07:27:17 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -1552,6 +1552,7 @@
 ||donproxies.com^
 ||dontaz.com^
 ||dontaz.vercel.app^
+||dontorrent.moi^
 ||dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion^
 ||donut80.com^
 ||doot.games^
@@ -4268,6 +4269,7 @@
 ||playlistor.io^
 ||playlists.at^
 ||playlost.fm^
+||playobsidian.com^
 ||playok.com^
 ||playpicklechess.com^
 ||plays.org^
@@ -5645,6 +5647,7 @@
 ||toonhub4u.me^
 ||toonily.com^
 ||toonitalia.xyz^
+||toonkotsu.com^
 ||toonshub.my.id^
 ||toonshub.xyz^
 ||toonstream.vip^

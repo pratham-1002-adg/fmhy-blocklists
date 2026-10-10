@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1593
-! Updated: 2026-10-10 01:04:42 UTC
+! Total Rules: 1594
+! Updated: 2026-10-10 07:27:17 UTC
 
 ||17db.pw^
 ||1jour1film0626.site^
@@ -440,6 +440,7 @@
 ||donproxies.com^
 ||dontaz.com^
 ||dontaz.vercel.app^
+||dontorrent.moi^
 ||dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion^
 ||doramasflix.co^
 ||doramasflix.in^
