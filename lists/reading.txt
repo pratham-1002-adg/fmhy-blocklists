@@ -2,8 +2,8 @@
 ! Description: E-books, textbooks, comics, manga, light novels, and magazines.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 874
-! Updated: 2026-10-11 13:43:30 UTC
+! Total Rules: 876
+! Updated: 2026-10-11 18:34:48 UTC
 
 ||1lib.sk^
 ||2012books.lardbucket.org^
@@ -871,7 +871,9 @@
 ||z-lib.fm^
 ||z-lib.gd^
 ||z-lib.sk^
+||z-library.gy^
 ||z-library.im^
+||z-library.qa^
 ||z-library.sk^
 ||zachvorhies.com^
 ||zenodo.org^

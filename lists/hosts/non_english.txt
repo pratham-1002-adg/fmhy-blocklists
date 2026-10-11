@@ -2,13 +2,15 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1594
-# Updated: 2026-10-11 13:43:31 UTC
+# Total Rules: 1598
+# Updated: 2026-10-11 18:34:48 UTC
 
 17db.pw
+1flex.org
 1jour1film0626.site
 1jour1film0926.cyou
 1lou.me
+1shows.bz
 1tamilblasters.luxe
 1tamilblasters.tech
 1tamilcrow.net
@@ -1089,6 +1091,7 @@ piratbit.top
 pirate-punk.net
 piratexplay.cc
 piratexplay.com
+pirvab.com
 pixiv.net
 plancompare.in
 planete-bd.org
@@ -1309,6 +1312,7 @@ streamkiste.taxi
 streamx-hd.com
 streamxhd.com
 strims24.pl
+strims24.st
 strumyk.domains
 strumyk.pk
 studyflix.de

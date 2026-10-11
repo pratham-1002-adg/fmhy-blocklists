@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1230
-! Updated: 2026-10-11 13:43:30 UTC
+! Total Rules: 1236
+! Updated: 2026-10-11 18:34:48 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -107,6 +107,7 @@
 ||animekhor.org^
 ||animelok.live^
 ||animelok.to^
+||animelover.site^
 ||animenosub.to^
 ||animeonsen.xyz^
 ||animeout.xyz^
@@ -177,6 +178,7 @@
 ||baked.live^
 ||banime.dedyn.io^
 ||banime.top^
+||barelystarted.miruro.tv^
 ||basementx.lol^
 ||basementx.pro^
 ||basementx.xyz^
@@ -269,6 +271,7 @@
 ||classreal.com^
 ||closet-picks.com^
 ||cmvlinks.lovable.app^
+||cmvlr.lovable.app^
 ||cmvsp.lovable.app^
 ||cmvv.lovable.app^
 ||cmvwd.lovable.app^
@@ -418,6 +421,7 @@
 ||foundfootagecritic.com^
 ||framemovie.online^
 ||framextv.tech^
+||framextv.xyz^
 ||free-movies.to^
 ||freegreatmovies.com^
 ||freeintertv.com^
@@ -599,6 +603,7 @@
 ||meowtv.ru^
 ||mgdb.himitsukichi.com^
 ||midloop.net^
+||milkbox.ddns.net^
 ||milkbox.sytes.net^
 ||mirrors.st^
 ||miru.js.org^
@@ -958,6 +963,7 @@
 ||stremio.com^
 ||strexoplayer.onrender.com^
 ||strims24.pl^
+||strims24.st^
 ||strmd.link^
 ||strmfree.link^
 ||strmfree.st^
