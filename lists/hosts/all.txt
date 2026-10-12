@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6460
-# Updated: 2026-10-12 02:00:20 UTC
+# Total Rules: 6464
+# Updated: 2026-10-12 09:32:23 UTC
 
 0mag.net
 0x00-8191.com
@@ -430,6 +430,7 @@ anisurge.lol
 anitaku.online
 anitrend.co
 anitube.in.ua
+anivault.tv
 anivibe.live
 aniwatch.icu
 aniwatch.rest
@@ -4385,6 +4386,7 @@ premierproducts-uk.co.uk
 prepaid-data-sim-card.fandom.com
 presetshare.com
 presidency.ucsb.edu
+pressplayx.to
 pressplayz.to
 preterhuman.net
 pricepertoken.com
@@ -4482,6 +4484,7 @@ qinkan.net
 qiufengshuwu.com
 qpmegathread.top
 qqszz.net
+quackle.org
 quantrimang.com
 quanxue.cn
 quavergame.com
@@ -5652,6 +5655,7 @@ tonocracy.com
 tool.lu
 toolbaz.com
 tooldriveproject.net
+toonamiaftermath.com
 toonhub4u.co
 toonhub4u.me
 toonily.com

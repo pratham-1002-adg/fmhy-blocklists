@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1053
-! Updated: 2026-10-12 02:00:20 UTC
+! Total Rules: 1054
+! Updated: 2026-10-12 09:32:23 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -745,6 +745,7 @@
 ||pyx-1.pretendyoure.xyz^
 ||qbreader.org^
 ||qpmegathread.top^
+||quackle.org^
 ||quavergame.com^
 ||queensgame.io^
 ||quenq.com^
