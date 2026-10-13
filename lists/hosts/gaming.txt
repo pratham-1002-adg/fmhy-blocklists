@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1054
-# Updated: 2026-10-13 01:46:16 UTC
+# Total Rules: 1055
+# Updated: 2026-10-13 08:51:26 UTC
 
 0x00-8191.com
 18xx.games
@@ -895,6 +895,7 @@ sudokuwiki.org
 superpsx.com
 supersmashflash.com
 suppilulemur.neocities.org
+surfd.net
 suroi.io
 survev.io
 swarmsim.com

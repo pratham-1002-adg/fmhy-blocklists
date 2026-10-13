@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6464
-# Updated: 2026-10-13 01:46:17 UTC
+# Total Rules: 6471
+# Updated: 2026-10-13 08:51:26 UTC
 
 0mag.net
 0x00-8191.com
@@ -13,6 +13,7 @@
 1001tracklists.com
 101soundboards.com
 1024teradl.com
+10kdrummachines.com
 120minutes.org
 123animehub.cc
 123movie.app
@@ -50,6 +51,7 @@
 1techno.org
 1trance.org
 1tube.org
+1vegamovies.baby
 1xanimes.com
 2012books.lardbucket.org
 21dzk.l.u-tokyo.ac.jp
@@ -343,6 +345,7 @@ anime.uniquestream.net
 anime1.me
 anime2enjoy.com
 anime3rb.com
+anime4up.rest
 anime7.download
 animeav1.com
 animebalkan.gg
@@ -3344,6 +3347,7 @@ marines.mil
 mariopartylegacy.com
 marketfiyati.org.tr
 markiza.sk
+marmota.me
 mars3d-game.wixsite.com
 martinbarker.me
 marxists.org
@@ -5126,6 +5130,7 @@ sonar.dphn.ai
 sonarr.tv
 songfinder.dev
 songfinder.gg
+songfinder.tech
 songguesser.com
 songkick.com
 songmeanings.com
@@ -5395,6 +5400,7 @@ supersmashflash.com
 suppilulemur.neocities.org
 support.image-line.com
 support.mozilla.org
+surfd.net
 suroi.io
 survev.io
 sushiscan.net
@@ -5600,6 +5606,7 @@ thunderbird.net
 thuvienphapluat.vn
 thvli.vn
 tic80.com
+tidal.odskyler.com
 tide-api.moreless.io
 tierify.app
 tieulun.hd.free.fr

@@ -2,13 +2,14 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 916
-# Updated: 2026-10-13 01:46:16 UTC
+# Total Rules: 919
+# Updated: 2026-10-13 08:51:26 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
 1001tracklists.com
 101soundboards.com
+10kdrummachines.com
 120minutes.org
 16-bits.org
 16bap.theclassicgamer.net
@@ -710,6 +711,7 @@ snowify.cc
 somafm.com
 songfinder.dev
 songfinder.gg
+songfinder.tech
 songguesser.com
 songkick.com
 songmeanings.com
@@ -800,6 +802,7 @@ thepiratebay.org
 theshfl.com
 thetradersden.org
 thewhitenoisemachine.com
+tidal.odskyler.com
 tierify.app
 tildearrow.org
 tilderadio.org

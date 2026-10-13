@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1598
-! Updated: 2026-10-13 01:46:17 UTC
+! Total Rules: 1602
+! Updated: 2026-10-13 08:51:26 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -20,6 +20,7 @@
 ||1tamilyogi.me^
 ||1tamilyogi.ro^
 ||1tube.org^
+||1vegamovies.baby^
 ||1xanimes.com^
 ||21dzk.l.u-tokyo.ac.jp^
 ||233heji.com^
@@ -30,6 +31,7 @@
 ||35mm.online^
 ||35ppt.com^
 ||36mh.org^
+||4khdhub.one^
 ||4pda.to^
 ||5165.org^
 ||52shuku.net^
@@ -110,6 +112,7 @@
 ||anime-sama.tv^
 ||anime1.me^
 ||anime3rb.com^
+||anime4up.rest^
 ||animeav1.com^
 ||animebalkan.gg^
 ||animebalkan.org^
@@ -911,6 +914,7 @@
 ||manualpdf.es^
 ||marketfiyati.org.tr^
 ||markiza.sk^
+||marmota.me^
 ||matka.fintraffic.fi^
 ||maxima-library.com^
 ||mazepa.to^

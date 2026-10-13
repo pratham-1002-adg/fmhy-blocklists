@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1239
-! Updated: 2026-10-13 01:46:16 UTC
+! Total Rules: 1240
+! Updated: 2026-10-13 08:51:26 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -19,6 +19,7 @@
 ||1shows.bz^
 ||1shows.org^
 ||1tube.org^
+||1vegamovies.baby^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||321movies.xyz^
 ||35mm.online^
