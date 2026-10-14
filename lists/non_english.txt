@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1602
-! Updated: 2026-10-14 11:01:42 UTC
+! Total Rules: 1603
+! Updated: 2026-10-14 15:52:39 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -134,6 +134,7 @@
 ||animelok.live^
 ||animelok.online^
 ||animelok.to^
+||animerco.org^
 ||animesalt.cx^
 ||animesaturn.cx^
 ||animesaturn.me^

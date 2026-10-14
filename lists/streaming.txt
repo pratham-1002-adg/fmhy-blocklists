@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1240
-! Updated: 2026-10-14 11:01:42 UTC
+! Total Rules: 1247
+! Updated: 2026-10-14 15:52:39 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -151,6 +151,7 @@
 ||apexmovies.net^
 ||app-lgwebos.pluto.tv^
 ||app.asbplayer.dev^
+||app.kosmi.io^
 ||app.trakt.tv^
 ||apps.apple.com^
 ||arc018.stream^
@@ -205,6 +206,7 @@
 ||bingebang.tv^
 ||bingebox.ac^
 ||bingeclock.com^
+||binged.net^
 ||bingeflix.tv^
 ||bingey.cfd^
 ||bingr.one^
@@ -427,6 +429,7 @@
 ||free-movies.to^
 ||freegreatmovies.com^
 ||freeintertv.com^
+||freekz.to^
 ||freestreams-live1a.pk^
 ||freestreams-live1h.pk^
 ||freesub.live^
@@ -472,6 +475,7 @@
 ||hexa.su^
 ||hi10anime.com^
 ||hianime.ad^
+||hianime.help^
 ||hianimes.ru^
 ||highdefdigest.com^
 ||hindmoviez.cafe^
@@ -516,6 +520,7 @@
 ||jubler.org^
 ||justanime.site^
 ||justanime.to^
+||justindex.cc^
 ||justsubtitles.com^
 ||justwatch.com^
 ||k-drama.in^
@@ -911,6 +916,7 @@
 ||space.olamovies.dad^
 ||spacedom.live^
 ||spaghetti-western.net^
+||spelunkr.tv^
 ||sport-video.org.ua^
 ||sportarr.net^
 ||sportontv.click^
@@ -1234,6 +1240,7 @@
 ||ytsproxies.com^
 ||ytsubdl.com^
 ||yukisubs.wordpress.com^
+||yumezone.live^
 ||zen-bu.cc^
 ||zencine.org^
 ||zenox.lol^

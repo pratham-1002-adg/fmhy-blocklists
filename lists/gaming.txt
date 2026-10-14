@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1055
-! Updated: 2026-10-14 11:01:42 UTC
+! Total Rules: 1057
+! Updated: 2026-10-14 15:52:39 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -199,6 +199,7 @@
 ||dinoswords.gg^
 ||discord.sonicfangameshq.com^
 ||distro.fedesito.me^
+||dlc.kernal.bid^
 ||dles.aukspot.com^
 ||dles.gg^
 ||dlpsgame.com^
@@ -230,6 +231,7 @@
 ||eblong.com^
 ||echochess.com^
 ||eclipseemu.me^
+||edmdle.vercel.app^
 ||edu-games.org^
 ||eduke32.com^
 ||edward-la-barbera.itch.io^
