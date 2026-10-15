@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1247
-# Updated: 2026-10-15 06:07:53 UTC
+# Total Rules: 1252
+# Updated: 2026-10-15 11:51:42 UTC
 
 0xdb.org
 123animehub.cc
@@ -126,6 +126,7 @@ animevilla.in
 animevilla.org
 animex.one
 animexin.dev
+animey.to
 aninami.site
 anineko.to
 anisearch.com
@@ -612,6 +613,7 @@ mgdb.himitsukichi.com
 midloop.net
 milkbox.ddns.net
 milkbox.sytes.net
+milkbox.zapto.org
 mirrors.st
 miru.js.org
 miruro.bz
@@ -951,6 +953,7 @@ streameast.ga
 streameast.ph
 streamed.pk
 streamed.st
+streamex.hn
 streamex.sh
 streamex.ws
 streamfree.top
@@ -1162,6 +1165,8 @@ watchott.org
 watchprowrestling.store
 watchreplay.net
 watchseries.bar
+watchseries.cool
+watchseries.domain
 watchseries.free
 watchseries.plus
 watchseries.show

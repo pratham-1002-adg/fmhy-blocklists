@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6484
-# Updated: 2026-10-15 06:07:53 UTC
+# Total Rules: 6493
+# Updated: 2026-10-15 11:51:43 UTC
 
 0mag.net
 0x00-8191.com
@@ -415,6 +415,7 @@ animeworlditalia.com
 animex.one
 animexin.dev
 animexx.de
+animey.to
 animezid.cam
 animezid.net
 animezone.pl
@@ -3448,6 +3449,7 @@ mikanani.me
 militera.org
 milkbox.ddns.net
 milkbox.sytes.net
+milkbox.zapto.org
 milkie.cc
 milkytracker.org
 mindexpandingbooks.com
@@ -4356,6 +4358,7 @@ pokeonecommunity.com
 pokernow.club
 pokernow.com
 pokerogue.net
+pokesurvivor.com
 pokevoid.com
 pokevoid.wiki
 poki.com
@@ -4843,6 +4846,7 @@ rym.fm
 rytr.me
 ryuusei.moe
 s1.sliwbl.com
+saavn.odskyler.com
 sabnzbd.org
 sachhayonline.com
 sacred-texts.com
@@ -5111,6 +5115,7 @@ soarxiv.org
 sobrief.com
 soccerfull.net
 socket-jb.app
+sofaflix.beer
 sofaflix.shop
 soft.ac
 soft98.ir
@@ -5320,6 +5325,7 @@ streameast.ga
 streameast.ph
 streamed.pk
 streamed.st
+streamex.hn
 streamex.sh
 streamex.ws
 streamfree.top
@@ -5734,6 +5740,7 @@ trackid.net
 tracktion.com
 trailerpunk.com
 trakt.tv
+tramphim.tech
 tramphim4.org
 tramphim5.org
 trancebase.fm
@@ -6128,6 +6135,8 @@ watchott.org
 watchprowrestling.store
 watchreplay.net
 watchseries.bar
+watchseries.cool
+watchseries.domain
 watchseries.free
 watchseries.plus
 watchseries.show
