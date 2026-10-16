@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1256
-# Updated: 2026-10-16 10:32:07 UTC
+# Total Rules: 1258
+# Updated: 2026-10-16 15:07:40 UTC
 
 0xdb.org
 123animehub.cc
@@ -123,6 +123,7 @@ animesuge.bid
 animesuge.cz
 animetosho.net
 animetosho.xyz
+animetvplus.xyz
 animevilla.in
 animevilla.org
 animex.one
@@ -1079,6 +1080,7 @@ translatesubtitles.com
 travelfilmarchive.com
 troypoint.com
 tsukihime.org
+tsukuyomi.tv
 tubitv.com
 turboscribe.ai
 tv.jest.one

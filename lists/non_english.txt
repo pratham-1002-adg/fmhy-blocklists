@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1605
-! Updated: 2026-10-16 10:32:07 UTC
+! Total Rules: 1607
+! Updated: 2026-10-16 15:07:40 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -346,6 +346,7 @@
 ||cn.chinadaily.com.cn^
 ||cnblogs.com^
 ||colamanga.com^
+||com-x.life^
 ||comi.mobi^
 ||comic-walker.com^
 ||comic.acgn.cc^
@@ -1541,6 +1542,7 @@
 ||webteizle.info^
 ||webteizle3.xyz^
 ||weibomiaopai.com^
+||wenku.mojimoon.top^
 ||wenyuange.org^
 ||whitehat.vn^
 ||wiidatabase.de^

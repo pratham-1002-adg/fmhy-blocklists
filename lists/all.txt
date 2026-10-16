@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6498
-! Updated: 2026-10-16 10:32:07 UTC
+! Total Rules: 6509
+! Updated: 2026-10-16 15:07:40 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -407,6 +407,7 @@
 ||animetosho.net^
 ||animetosho.xyz^
 ||animetvn.com^
+||animetvplus.xyz^
 ||animeunity.so^
 ||animevietsub.link^
 ||animevilla.in^
@@ -1210,6 +1211,7 @@
 ||collectionchamber.blogspot.com^
 ||colonialfilm.org.uk^
 ||colonist.io^
+||com-x.life^
 ||comfy.org^
 ||comi.mobi^
 ||comic-rocket.com^
@@ -1332,6 +1334,7 @@
 ||cxtvlive.com^
 ||cyadonia.com^
 ||cyberleninka.ru^
+||cybrox.pro^
 ||cylinders.library.ucsb.edu^
 ||cyrisia.com^
 ||cytoid.io^
@@ -2872,6 +2875,7 @@
 ||kimoitv.com^
 ||kindanice.itch.io^
 ||kindle-epub-fix.netlify.app^
+||kindle.hrincar.eu^
 ||kindlebangla.com^
 ||kindlemodding.org^
 ||kindlemodshelf.me^
@@ -3620,6 +3624,7 @@
 ||mudlet.org^
 ||muds.fandom.com^
 ||muffon.netlify.app^
+||mugen.doomjoshuaboy.com^
 ||mugen.karaokes.moe^
 ||mugenfreeforall.com^
 ||mugenguild.com^
@@ -3642,6 +3647,7 @@
 ||musebootlegs.com^
 ||museeks.io^
 ||musescore.org^
+||music-atlas.app^
 ||music-republic-world-traditional.blogspot.com^
 ||music.163.com^
 ||music.com.bd^
@@ -4210,6 +4216,7 @@
 ||picturecards.online^
 ||picturedots.com^
 ||pidantuan.com^
+||pigeonpod.cloud^
 ||pikatorrent.com^
 ||pilot.wp.pl^
 ||pinball.alula.me^
@@ -4293,6 +4300,7 @@
 ||playingcards.io^
 ||playlethal.fun^
 ||playlin.io^
+||playlister.cc^
 ||playlisthospital.com^
 ||playlistor.io^
 ||playlists.at^
@@ -4383,6 +4391,7 @@
 ||portablefreeware.com^
 ||portal.uniasselvi.com.br^
 ||portapps.io^
+||ported2browser.com^
 ||portsdr.com^
 ||postmarketos.org^
 ||potionsandsnitches.org^
@@ -5795,6 +5804,7 @@
 ||tsquareplaza.blogspot.com^
 ||tstrs.me^
 ||tsukihime.org^
+||tsukuyomi.tv^
 ||tsundoku.com.br^
 ||ttkan.co^
 ||ttorrent.org^
@@ -6203,6 +6213,7 @@
 ||welib.org^
 ||welib.st^
 ||wen-ware.com^
+||wenku.mojimoon.top^
 ||wenyuange.org^
 ||weplaydos.games^
 ||wetrakr.com^
