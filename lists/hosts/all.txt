@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6509
-# Updated: 2026-10-16 15:07:40 UTC
+# Total Rules: 6513
+# Updated: 2026-10-16 18:53:12 UTC
 
 0mag.net
 0x00-8191.com
@@ -1114,6 +1114,7 @@ cinejoy.pk
 cinejoy.to
 cinelibre.fr
 cinelibreonline.com
+cinelite.xyz
 cinelove.live
 cinema.army
 cinema.com.ph
@@ -1129,6 +1130,7 @@ cinemove.cc
 cinenerdle.app
 cinepro.fstream.app
 cineru.lk
+cineruv.website
 cinestream.info
 cinestream.kje.us
 cinestream.studio
@@ -1821,6 +1823,7 @@ europeanfilmgateway.eu
 euskal-encodings.eus
 ev-map.app
 ev.io
+ev01.ws
 eveningkid.com
 eventoshq.me
 everyculture.com
@@ -5309,6 +5312,7 @@ stemroller.com
 stevenaleong.com
 stevvgame.com
 sti.nasa.gov
+stickfrag.com
 stiftung-imai.de
 stigstream.ru
 stillgrid.app

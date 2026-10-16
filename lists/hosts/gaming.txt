@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1060
-# Updated: 2026-10-16 15:07:40 UTC
+# Total Rules: 1061
+# Updated: 2026-10-16 18:53:12 UTC
 
 0x00-8191.com
 18xx.games
@@ -893,6 +893,7 @@ steamora.net
 steamrip.com
 steamunderground.net
 stevvgame.com
+stickfrag.com
 stillgrid.app
 store.steampowered.com
 stravaeger.com
