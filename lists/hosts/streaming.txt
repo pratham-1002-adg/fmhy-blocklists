@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1252
-# Updated: 2026-10-15 22:55:25 UTC
+# Total Rules: 1256
+# Updated: 2026-10-16 00:58:29 UTC
 
 0xdb.org
 123animehub.cc
@@ -66,6 +66,7 @@ anica.jp
 anichan.net
 anichan.to
 anichart.net
+anicine.sbs
 anicine.xyz
 aniclipse.com
 aniclover.cc
@@ -964,6 +965,7 @@ streaming.cineverse.com
 streamingunity.dog
 streamingunity.vip
 streamo.pro
+streamo.st
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1167,6 +1169,7 @@ watchreplay.net
 watchseries.bar
 watchseries.cool
 watchseries.domain
+watchseries.domains
 watchseries.free
 watchseries.plus
 watchseries.show
@@ -1257,3 +1260,4 @@ zlive.st
 zoryva.me
 zstream.mov
 zxcprime.icu
+zxcstream.com

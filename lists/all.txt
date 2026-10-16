@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6493
-! Updated: 2026-10-15 22:55:25 UTC
+! Total Rules: 6498
+! Updated: 2026-10-16 00:58:30 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -296,6 +296,7 @@
 ||anichan.net^
 ||anichan.to^
 ||anichart.net^
+||anicine.sbs^
 ||anicine.xyz^
 ||aniclipse.com^
 ||aniclover.cc^
@@ -2812,6 +2813,7 @@
 ||kaa.lt^
 ||kagakueizo.org^
 ||kagane.org^
+||kagane.si^
 ||kagane.to^
 ||kaggle.com^
 ||kagi.com^
@@ -5343,6 +5345,7 @@
 ||streamkiste.bid^
 ||streamkiste.taxi^
 ||streamo.pro^
+||streamo.st^
 ||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
@@ -6137,6 +6140,7 @@
 ||watchseries.bar^
 ||watchseries.cool^
 ||watchseries.domain^
+||watchseries.domains^
 ||watchseries.free^
 ||watchseries.plus^
 ||watchseries.show^
@@ -6497,4 +6501,5 @@
 ||zvitor.com^
 ||zvu4it.org^
 ||zxcprime.icu^
+||zxcstream.com^
 ||zxpinstaller.com^
