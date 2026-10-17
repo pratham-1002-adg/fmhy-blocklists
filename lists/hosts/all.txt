@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6513
-# Updated: 2026-10-17 04:46:54 UTC
+# Total Rules: 6514
+# Updated: 2026-10-17 08:58:20 UTC
 
 0mag.net
 0x00-8191.com
@@ -94,6 +94,7 @@
 7movies.ac
 7movies.in
 7movies.pro
+7movies.ws
 7plus.com.au
 7reels.cc
 80bee.com
