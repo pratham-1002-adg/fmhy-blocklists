@@ -2,14 +2,15 @@
 # Description: Public & private torrent trackers, indexers, and P2P search engines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 100
-# Updated: 2026-10-18 18:13:44 UTC
+# Total Rules: 101
+# Updated: 2026-10-18 20:56:17 UTC
 
 0mag.net
 1337x-status.org
 1337x.st
 1337x.to
 16mag.net
+addons.mozilla.org
 apps.gnome.org
 apps.kde.org
 archiv.pw

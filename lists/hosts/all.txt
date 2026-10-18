@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6515
-# Updated: 2026-10-18 18:13:44 UTC
+# Total Rules: 6524
+# Updated: 2026-10-18 20:56:17 UTC
 
 0mag.net
 0x00-8191.com
@@ -471,6 +471,7 @@ anti-ad.net
 antiqueradio.org
 anton.likesyou.org
 antra.hoshi.cfd
+anv.to
 anx.anxcye.com
 any.do
 anydecentmusic.com
@@ -824,6 +825,7 @@ bioline.org.br
 biology.com.pk
 biomedcentral.com
 biorxiv.org
+bitchord.kushagrasingh.in
 bitflu.workaround.ch
 bitmagnet.io
 bitmidi.com
@@ -2395,6 +2397,7 @@ greekdocumentaries2.blogspot.com
 greeksubs.net
 greektv.app
 gregcameron.com
+greyboxtv.vercel.app
 gridland.doublespeakgames.com
 grimearchive.org
 grimmory.org
@@ -2506,6 +2509,7 @@ hexcodle.com
 hexdroid.org
 hexhearth.live
 hexhearth.lovable.app
+hexnovels.me
 hexrom.com
 hexxagon.com
 heystacks.com
@@ -2547,6 +2551,7 @@ hoofoot.net
 hoofoot.ru
 hoopladigital.com
 hordes.io
+hos.com
 hostrider.com
 hotaudiobooks.com
 hotfix.fun
@@ -2825,6 +2830,7 @@ kagane.si
 kagane.to
 kaggle.com
 kagi.com
+kaitotv.com
 kaitovault.com
 kakuro-puzzle.online
 kallax.io
@@ -2924,6 +2930,7 @@ kisskh.or.at
 kisskh.ovh
 kisskh.red
 kisslauncher.com
+kissneo.co
 kitab-evi.com
 kits4beats.com
 kitsu.io
@@ -4524,6 +4531,7 @@ quanxue.cn
 quavergame.com
 queensgame.io
 quenq.com
+quiverlauncher.com
 quod.lib.umich.edu
 quodb.com
 quotegarden.com
@@ -4875,6 +4883,7 @@ sakuranovel.id
 sakuraost.com
 sakusaku.to
 salmosonline.com
+sama3y.net
 samehadaku.care
 samlib.ru
 sampleroulette.io

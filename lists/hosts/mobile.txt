@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 510
-# Updated: 2026-10-18 18:13:44 UTC
+# Total Rules: 511
+# Updated: 2026-10-18 20:56:17 UTC
 
 4pda.to
 80bee.com
@@ -91,6 +91,7 @@ beatboss.thevolecitor.qzz.io
 beeper.com
 beta.syncler.net
 bignox.com
+bitchord.kushagrasingh.in
 blatants.fyi
 blueskytracker.app
 bmz.absolutezero.fyi

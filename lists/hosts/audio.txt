@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 925
-# Updated: 2026-10-18 18:13:44 UTC
+# Total Rules: 926
+# Updated: 2026-10-18 20:56:16 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -312,6 +312,7 @@ help.iheart.com
 hiphopa.net
 hipstrumentals.com
 hollowearthradio.org
+hos.com
 hostrider.com
 housetime.fm
 humnom.net

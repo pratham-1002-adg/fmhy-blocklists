@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1607
-! Updated: 2026-10-18 18:13:44 UTC
+! Total Rules: 1609
+! Updated: 2026-10-18 20:56:17 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -684,6 +684,7 @@
 ||helltorrents.com^
 ||helpotnopat.fi^
 ||hetushu.com^
+||hexnovels.me^
 ||hijala.com^
 ||hikoca.co.uk^
 ||hindawi.org^
@@ -1211,6 +1212,7 @@
 ||saicord.com^
 ||sakuranovel.id^
 ||salmosonline.com^
+||sama3y.net^
 ||samehadaku.care^
 ||samlib.ru^
 ||sanskritdocuments.org^

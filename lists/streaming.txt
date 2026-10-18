@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1263
-! Updated: 2026-10-18 18:13:44 UTC
+! Total Rules: 1267
+! Updated: 2026-10-18 20:56:16 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -151,6 +151,7 @@
 ||anixx.fun^
 ||anizone.to^
 ||anton.likesyou.org^
+||anv.to^
 ||anymex.vercel.app^
 ||apexmovies.net^
 ||app-lgwebos.pluto.tv^
@@ -466,6 +467,7 @@
 ||gptsubtitler.com^
 ||graph.org^
 ||greasyfork.org^
+||greyboxtv.vercel.app^
 ||grindhousedatabase.com^
 ||guides.viren070.me^
 ||guidetv.live^
@@ -533,6 +535,7 @@
 ||justwatch.com^
 ||k-drama.in^
 ||kaa.lt^
+||kaitotv.com^
 ||kaitovault.com^
 ||kanopy.com^
 ||katworld.net^
@@ -554,6 +557,7 @@
 ||kisskh.or.at^
 ||kisskh.ovh^
 ||kisskh.red^
+||kissneo.co^
 ||kitsu.io^
 ||kitsunekko.net^
 ||kmmovies.shop^
