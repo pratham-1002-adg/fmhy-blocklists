@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1062
-! Updated: 2026-10-19 22:32:06 UTC
+! Total Rules: 1065
+! Updated: 2026-10-20 01:28:30 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -587,6 +587,7 @@
 ||nationstates.net^
 ||neal.fun^
 ||necromanthus.com^
+||neonwardens.com^
 ||neopets.com^
 ||nerdlegame.com^
 ||nerdyteachers.com^
@@ -611,6 +612,7 @@
 ||nswdb.com^
 ||nswgame.com^
 ||nswgf.com^
+||nswpure.com^
 ||nswtl.info^
 ||nxbrew.net^
 ||nycguessr.vercel.app^
@@ -760,6 +762,7 @@
 ||re-two-torial.xyz^
 ||really.boring.website^
 ||rebelwithoutarootcause.com^
+||recomp.fyi^
 ||recroom.network^
 ||redcoats.io^
 ||redd.it^

@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1267
-# Updated: 2026-10-19 22:32:06 UTC
+# Total Rules: 1270
+# Updated: 2026-10-20 01:28:30 UTC
 
 0xdb.org
 123animehub.cc
@@ -281,11 +281,13 @@ cksub.org
 classics.nascar.com
 classreal.com
 closet-picks.com
+cmvh.lovable.app
 cmvlinks.lovable.app
 cmvlr.lovable.app
 cmvsp.lovable.app
 cmvv.lovable.app
 cmvwd.lovable.app
+cno.to
 colonialfilm.org.uk
 commons.wikimedia.org
 commonsensemedia.org
@@ -1140,6 +1142,7 @@ venuevault.live
 vidbox.dev
 vidbox.vc
 vidbox.website
+vidbox.wtf
 viddsee.com
 videa.hu
 videodictionary.kwebpia.net

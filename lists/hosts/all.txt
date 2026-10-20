@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6524
-# Updated: 2026-10-19 22:32:06 UTC
+# Total Rules: 6531
+# Updated: 2026-10-20 01:28:30 UTC
 
 0mag.net
 0x00-8191.com
@@ -558,6 +558,7 @@ archivepdf.net
 archives.gov
 archives.parliament.uk
 archivetune.koiiverse.cloud
+archivetune.miuka.moe
 archlinuxcn.org
 arcod.xyz
 arcoiris.tv
@@ -1197,6 +1198,7 @@ clpgs.org.uk
 clucomics.org
 cluesbysam.com
 cmoa.jp
+cmvh.lovable.app
 cmvlinks.lovable.app
 cmvlr.lovable.app
 cmvsp.lovable.app
@@ -1204,6 +1206,7 @@ cmvv.lovable.app
 cmvwd.lovable.app
 cn.chinadaily.com.cn
 cnblogs.com
+cno.to
 cobalt.tools
 coconut-flavour.com
 codecpack.co
@@ -3755,6 +3758,7 @@ nelomanga.net
 neobam.com
 neoko.site
 neonflix.st
+neonwardens.com
 neopets.com
 nepu.app
 nepu.io
@@ -3898,6 +3902,7 @@ nsmbhd.net
 nswdb.com
 nswgame.com
 nswgf.com
+nswpure.com
 nswtl.info
 ntfy.sh
 ntrs.nasa.gov
@@ -4659,6 +4664,7 @@ rechapters.com
 recherche-ebook.fr
 reciprocard.com
 recommendmeabook.com
+recomp.fyi
 record.club
 recraft.ai
 recroom.network
@@ -6035,6 +6041,7 @@ vibes.ai
 vidbox.dev
 vidbox.vc
 vidbox.website
+vidbox.wtf
 viddla.fi
 viddsee.com
 videa.hu
