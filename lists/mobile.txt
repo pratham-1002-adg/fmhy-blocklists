@@ -2,8 +2,8 @@
 ! Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 513
-! Updated: 2026-10-21 12:40:47 UTC
+! Total Rules: 515
+! Updated: 2026-10-21 17:50:07 UTC
 
 ||4pda.to^
 ||80bee.com^
@@ -77,6 +77,7 @@
 ||armconverter.com^
 ||asoftmurmur.com^
 ||asteroidos.org^
+||atlantic.st^
 ||auroraoss.com^
 ||automatag.com^
 ||autoresponder.ai^
@@ -320,6 +321,7 @@
 ||moelist.net^
 ||monal-im.org^
 ||moondownload.com^
+||mornye.com^
 ||morphe-patches.software^
 ||morphe.software^
 ||msi.com^

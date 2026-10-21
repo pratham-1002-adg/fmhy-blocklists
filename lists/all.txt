@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6531
-! Updated: 2026-10-21 12:40:47 UTC
+! Total Rules: 6543
+! Updated: 2026-10-21 17:50:07 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -422,6 +422,7 @@
 ||animezid.cam^
 ||animezid.net^
 ||animezone.pl^
+||animotvslash.org^
 ||animoye.com^
 ||aninami.site^
 ||anineko.to^
@@ -2686,6 +2687,7 @@
 ||intratext.com^
 ||invent.kde.org^
 ||inventaire.io^
+||inverteddungeon.com^
 ||invertexto.com^
 ||invizible.net^
 ||invoke.ai^
@@ -2841,6 +2843,7 @@
 ||kanopy.com^
 ||kanunu8.com^
 ||kaoskrew.org^
+||kaptain.stream^
 ||kara.moe^
 ||karaoke-eternal.com^
 ||karaoke.zoryva.me^
@@ -2944,6 +2947,7 @@
 ||klikxxi.com^
 ||klikxxi.shop^
 ||klipy.com^
+||klisza.uk^
 ||klyingshi.com^
 ||klyingshi.top^
 ||klyingshi4.com^
@@ -3573,6 +3577,7 @@
 ||moreorless.io^
 ||morewords.com^
 ||moriyashrine.org^
+||mornye.com^
 ||morphe-patches.software^
 ||morphe.software^
 ||mors-games.itch.io^
@@ -3849,6 +3854,7 @@
 ||noirx.live^
 ||noirx.me^
 ||noisecraft.app^
+||noiseloop.app^
 ||noisyloop.com^
 ||nomic.ai^
 ||nomorflix.cc^
@@ -3904,6 +3910,7 @@
 ||nswgf.com^
 ||nswpure.com^
 ||nswtl.info^
+||nswvault.com^
 ||ntfy.sh^
 ||ntrs.nasa.gov^
 ||nts.live^
@@ -4548,6 +4555,7 @@
 ||raccoon.onyxbits.de^
 ||rachacuca.com.br^
 ||racing.pmnd.rs^
+||racinglap.net^
 ||radarr.video^
 ||raddio.net^
 ||radicalscatters.unl.edu^
@@ -5185,6 +5193,7 @@
 ||songslikex.com^
 ||songslover.li^
 ||songslover.net^
+||songslower.com^
 ||songstems.net^
 ||sonic-pi.net^
 ||sonic3air.boards.net^
@@ -5457,6 +5466,7 @@
 ||sushiscan.net^
 ||suttacentral.net^
 ||suvi.viittomat.net^
+||sv-archive.surge.sh^
 ||svetserialu.io^
 ||svstream.cc^
 ||svtplay.se^
@@ -6164,6 +6174,7 @@
 ||watch.typetype.video^
 ||watch.versusmedia.com^
 ||watchanimeworld.one^
+||watchanimez.me^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.org^
@@ -6181,6 +6192,7 @@
 ||watchsurface.stream^
 ||watchttn.com^
 ||watchtvs.live^
+||watchwave.pro^
 ||watchwrestling.ae^
 ||watomatic.app^
 ||wattpad.com^

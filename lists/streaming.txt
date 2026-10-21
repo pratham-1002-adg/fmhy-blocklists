@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1270
-! Updated: 2026-10-21 12:40:47 UTC
+! Total Rules: 1276
+! Updated: 2026-10-21 17:50:07 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -130,6 +130,7 @@
 ||animex.one^
 ||animexin.dev^
 ||animey.to^
+||animotvslash.org^
 ||aninami.site^
 ||anineko.to^
 ||anisearch.com^
@@ -540,6 +541,7 @@
 ||kaitotv.com^
 ||kaitovault.com^
 ||kanopy.com^
+||kaptain.stream^
 ||katworld.net^
 ||kawaii-anime.com^
 ||kawaiianime.cc^
@@ -821,6 +823,7 @@
 ||pymedusa.com^
 ||quodb.com^
 ||rabbitmeow.online^
+||racinglap.net^
 ||radarr.video^
 ||rar.to^
 ||raredoramas.com^
@@ -1016,6 +1019,7 @@
 ||suggestream.com^
 ||supercartoons.net^
 ||supernova.to^
+||sv-archive.surge.sh^
 ||svstream.cc^
 ||syedgakbar.com^
 ||sync.coconono.org^
@@ -1175,6 +1179,7 @@
 ||watch.spencerdevs.xyz^
 ||watch.typetype.video^
 ||watch.versusmedia.com^
+||watchanimez.me^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.org^
@@ -1192,6 +1197,7 @@
 ||watchsurface.stream^
 ||watchttn.com^
 ||watchtvs.live^
+||watchwave.pro^
 ||watchwrestling.ae^
 ||way2movies.live^
 ||wco.tv^

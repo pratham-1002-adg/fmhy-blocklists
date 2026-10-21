@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1065
-# Updated: 2026-10-21 12:40:47 UTC
+# Total Rules: 1068
+# Updated: 2026-10-21 17:50:07 UTC
 
 0x00-8191.com
 18xx.games
@@ -430,6 +430,7 @@ indie.fun
 infinibrowser.wiki
 infinitewordles.org
 information-superhighway.net
+inverteddungeon.com
 iogames.party
 iogames.space
 ioquake3.org
@@ -466,6 +467,7 @@ kingdomofloathing.com
 kino.wtf
 kirka.io
 kittensgame.com
+klisza.uk
 koalabeast.com
 kodub.com
 kongregate.com
@@ -614,6 +616,7 @@ nswgame.com
 nswgf.com
 nswpure.com
 nswtl.info
+nswvault.com
 nxbrew.net
 nycguessr.vercel.app
 nytimes.com
