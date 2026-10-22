@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6543
-# Updated: 2026-10-22 10:23:22 UTC
+# Total Rules: 6551
+# Updated: 2026-10-22 15:26:49 UTC
 
 0mag.net
 0x00-8191.com
@@ -449,6 +449,7 @@ aniworld.domains
 aniworld.to
 anixart-app.com
 anixo.online
+anixohindi.cc
 anixtv.in
 anixtv.us.cc
 anixx.fun
@@ -1234,6 +1235,7 @@ comicbookreadingorders.com
 comicbookroundup.com
 comicfury.com
 comicreader.netlify.app
+comics.codes
 comics.org
 comics888.com
 comicskingdom.com
@@ -1305,6 +1307,7 @@ craft.hira.im
 crawl.develz.org
 crawli.net
 crazygames.com
+crazyphase.com
 create.wan.video
 creativenovels.com
 creativetechguy.com
@@ -2224,6 +2227,7 @@ gaiaonline.com
 galaxy.click
 galaxy.spotifytrack.net
 galaxyofgames.neocities.org
+galeragames.com
 gallica.bnf.fr
 gam.onl
 gamatotv.com.co
@@ -2376,6 +2380,7 @@ googlesnakemods.com
 goose-docs.ai
 gopeed.com
 goplay.su
+gotaku.to
 goto10.fr
 goyabu.io
 goyabu.to
@@ -2865,6 +2870,7 @@ kdice.com
 kdramaost.com
 keeperfx.net
 keeri.place
+kenku.fm
 kenmei.co
 kernelsu.org
 ketsu.app
@@ -3308,6 +3314,7 @@ makeayo.com
 makeitmeme.com
 manatan.com
 manben.com
+manga-oni.com
 manga-zip.is
 manga-zip.my
 manga-zip.tv
@@ -5556,6 +5563,7 @@ telik.top
 tenacityaudio.org
 tenies-online.best
 tennojim.xyz
+tensear.ch
 tensortrust.ai
 terafetch.com
 termoneplus.com

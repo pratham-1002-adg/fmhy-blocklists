@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1068
-! Updated: 2026-10-22 10:23:21 UTC
+! Total Rules: 1070
+! Updated: 2026-10-22 15:26:49 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -317,6 +317,7 @@
 ||gaiaonline.com^
 ||galaxy.click^
 ||galaxyofgames.neocities.org^
+||galeragames.com^
 ||gam.onl^
 ||gamdie.com^
 ||game-box.win^
@@ -924,6 +925,7 @@
 ||teamforeveronline.wixsite.com^
 ||teamwood.itch.io^
 ||telemelt.com^
+||tensear.ch^
 ||tensortrust.ai^
 ||territorial.io^
 ||tetr.io^

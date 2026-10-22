@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1609
-# Updated: 2026-10-22 10:23:22 UTC
+# Total Rules: 1611
+# Updated: 2026-10-22 15:26:49 UTC
 
 17db.pw
 1flex.org
@@ -161,6 +161,7 @@ anitube.in.ua
 aniworld.domains
 aniworld.to
 anixart-app.com
+anixohindi.cc
 anizm.net
 anm.cx
 annict.com
@@ -885,6 +886,7 @@ m80.pt
 madrotter-treasure-hunt.blogspot.com
 maid.my.id
 manben.com
+manga-oni.com
 manga-zip.is
 manga-zip.my
 manga-zip.tv
