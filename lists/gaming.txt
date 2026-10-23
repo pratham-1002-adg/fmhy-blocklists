@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 1070
-! Updated: 2026-10-22 22:34:14 UTC
+! Updated: 2026-10-23 01:08:38 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
