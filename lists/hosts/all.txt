@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6551
-# Updated: 2026-10-23 06:13:23 UTC
+# Total Rules: 6554
+# Updated: 2026-10-23 11:53:41 UTC
 
 0mag.net
 0x00-8191.com
@@ -2037,6 +2037,7 @@ flipax2.me
 fliphtml5.aivaded.com
 fliphtml5.com
 flive.dpdns.org
+flix.quest
 flixer.cx
 flixer.gd
 flixer.su
@@ -3552,6 +3553,7 @@ modd.io
 moddb.com
 models.dev
 modelscope.ai
+modelscope.cn
 modlist.in
 modrinth.com
 modsyndicate.com
@@ -4262,6 +4264,7 @@ pippinbarr.com
 pirataria.link
 piratbit.top
 pirate-punk.net
+pirateface.co
 piratefeeds.net
 piratexplay.cc
 piratexplay.com
