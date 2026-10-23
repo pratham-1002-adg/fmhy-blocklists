@@ -2,8 +2,8 @@
 # Description: AI scrapers, unsanctioned bot mirrors, model rippers, and jailbreaks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 283
-# Updated: 2026-10-23 11:53:41 UTC
+# Total Rules: 284
+# Updated: 2026-10-23 16:18:37 UTC
 
 acapella-extractor.com
 addons.mozilla.org
@@ -257,6 +257,7 @@ stablehorde.net
 suno.com
 sunoaiwiki.com
 swebench.com
+synthid.com
 tavernai.net
 tensortrust.ai
 text-to-speech.online

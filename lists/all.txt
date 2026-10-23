@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6554
-! Updated: 2026-10-23 11:53:41 UTC
+! Total Rules: 6562
+! Updated: 2026-10-23 16:18:37 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -179,6 +179,7 @@
 ||aether.st^
 ||afghanistandl.nyu.edu^
 ||afreestudio.com^
+||afterdusk.app^
 ||aftergleam.app^
 ||afterplay.io^
 ||aftvnews.com^
@@ -1266,6 +1267,7 @@
 ||console.upstage.ai^
 ||consoleroms.com^
 ||constituteproject.org^
+||consumit.online^
 ||contempaesthetics.org^
 ||contextarena.ai^
 ||convert.pipepipe.dev^
@@ -2578,6 +2580,7 @@
 ||htvc.com.vn^
 ||huedle.com^
 ||huggingface.co^
+||huh.xdmovies.wtf^
 ||huhu.to^
 ||hume.ai^
 ||humin.org^
@@ -3819,6 +3822,7 @@
 ||newspapers.com^
 ||newtrackon.com^
 ||newznab.com^
+||nexa.mov^
 ||next-box.su^
 ||next-episode.net^
 ||nextbox.uno^
@@ -5165,6 +5169,7 @@
 ||soccerfull.net^
 ||socket-jb.app^
 ||sofaflix.beer^
+||sofaflix.rest^
 ||sofaflix.shop^
 ||soft.ac^
 ||soft98.ir^
@@ -5495,6 +5500,7 @@
 ||sync.coconono.org^
 ||syncler.net^
 ||synesthesiagame.com^
+||synthid.com^
 ||syosetu.com^
 ||systemsofromance.com^
 ||szynalski.com^
@@ -5789,6 +5795,7 @@
 ||trace.moe^
 ||trackercontrol.org^
 ||trackerpathways.org^
+||trackersignup.org^
 ||trackerslist.com^
 ||trackid.net^
 ||tracktion.com^
@@ -6425,6 +6432,7 @@
 ||xdcc.eu^
 ||xdccmule.org^
 ||xdlab.ru^
+||xdmovies.com^
 ||xfilme.ro^
 ||xgcartoon.com^
 ||xiaobaotv.com^

@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1277
-! Updated: 2026-10-23 11:53:41 UTC
+! Total Rules: 1282
+! Updated: 2026-10-23 16:18:36 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -49,6 +49,7 @@
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
+||afterdusk.app^
 ||aftvnews.com^
 ||ageratingjuju.com^
 ||allaboutmovies.xyz^
@@ -293,6 +294,7 @@
 ||commons.wikimedia.org^
 ||commonsensemedia.org^
 ||condensedaudiocatalog.com^
+||consumit.online^
 ||coreflix.tv^
 ||corporate.tubitv.com^
 ||corsflix.net^
@@ -502,6 +504,7 @@
 ||hoofoot.ru^
 ||hoopladigital.com^
 ||hotflix.to^
+||huh.xdmovies.wtf^
 ||huhu.to^
 ||huntleyarchives.com^
 ||hydrahd.com^
@@ -702,6 +705,7 @@
 ||netshows.xyz^
 ||new.anidl.org^
 ||new.katmoviehd.top^
+||nexa.mov^
 ||next-box.su^
 ||next-episode.net^
 ||nextbox.uno^
@@ -1248,6 +1252,7 @@
 ||wwv21.kissasian.com.lv^
 ||www3.anikai.cc^
 ||xdaforums.com^
+||xdmovies.com^
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
 ||yenime.net^

@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1611
-! Updated: 2026-10-23 11:53:41 UTC
+! Total Rules: 1612
+! Updated: 2026-10-23 16:18:37 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -1273,6 +1273,7 @@
 ||snow-raws.com^
 ||so.11klasov.net^
 ||sofaflix.beer^
+||sofaflix.rest^
 ||sofaflix.shop^
 ||softkomik.co^
 ||softkomik.com^
