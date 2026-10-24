@@ -3,7 +3,7 @@
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
 ! Total Rules: 516
-! Updated: 2026-10-24 18:16:38 UTC
+! Updated: 2026-10-24 21:01:39 UTC
 
 ||4pda.to^
 ||80bee.com^
