@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1612
-! Updated: 2026-10-24 11:48:21 UTC
+! Total Rules: 1618
+! Updated: 2026-10-24 15:15:48 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -62,6 +62,7 @@
 ||acfun.cn^
 ||acg.rip^
 ||acgnx.se^
+||aco.dlib.nyu.edu^
 ||adapter.pl^
 ||addons.mozilla.org^
 ||adslgate.com^
@@ -413,6 +414,7 @@
 ||digimoviez.com^
 ||digital.bbm.usp.br^
 ||dio.me^
+||discourse.aosus.org^
 ||divxclasico.com^
 ||diycraftsguide.com^
 ||dizibox.live^
@@ -483,6 +485,7 @@
 ||ebs.co.kr^
 ||ecoutezvosoreilles.be^
 ||edels-stube.eu^
+||edraak.org^
 ||educamaisbrasil.com.br^
 ||efpfanfic.net^
 ||egybest.la^
@@ -921,6 +924,7 @@
 ||markiza.sk^
 ||marmota.me^
 ||matka.fintraffic.fi^
+||matrix.to^
 ||maxima-library.com^
 ||mazepa.to^
 ||mcpsp.com^
@@ -1208,6 +1212,7 @@
 ||rutracker.net^
 ||rutracker.org^
 ||rutube.ru^
+||rwaq.org^
 ||s1.sliwbl.com^
 ||sachhayonline.com^
 ||sagen.at^
@@ -1528,6 +1533,7 @@
 ||vtudien.com^
 ||w140.zona.plus^
 ||w2.animeko.ws^
+||waqfeya.net^
 ||war-forum.net^
 ||warcenter.cz^
 ||warez.ge^

@@ -2,8 +2,8 @@
 ! Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 930
-! Updated: 2026-10-24 11:48:21 UTC
+! Total Rules: 931
+! Updated: 2026-10-24 15:15:48 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -283,6 +283,7 @@
 ||gangster.su^
 ||generative.fm^
 ||genius.com^
+||genresampler.com^
 ||getmetal.club^
 ||getmusicbee.com^
 ||getrockmusic.net^

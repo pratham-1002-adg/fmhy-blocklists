@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1282
-! Updated: 2026-10-24 11:48:21 UTC
+! Total Rules: 1287
+! Updated: 2026-10-24 15:15:48 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -204,6 +204,7 @@
 ||behindthevoiceactors.com^
 ||best-moviez.ws^
 ||bestsimilar.com^
+||beta.cno.to^
 ||beta.way2movies.live^
 ||bfi.org.uk^
 ||bilibili.com^
@@ -267,6 +268,7 @@
 ||cineruv.website^
 ||cinestream.kje.us^
 ||cinestream.studio^
+||cinestream2.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -424,6 +426,7 @@
 ||flixvo.live^
 ||flixwatch.co^
 ||flixway.ru^
+||flixzy.mooo.com^
 ||flnk.fun^
 ||fluxtv.cc^
 ||fluxtv.co.uk^
@@ -650,6 +653,7 @@
 ||moonflix.com^
 ||moonflix.website^
 ||moovie.fun^
+||motomundo.net^
 ||movie-censorship.com^
 ||movie-locations.com^
 ||movie-sync-app.web.app^
@@ -860,6 +864,7 @@
 ||releases.com^
 ||releases.moe^
 ||replay.nontonx.com^
+||rerace.net^
 ||restatus.me^
 ||retroflix.org^
 ||retrostrange.com^

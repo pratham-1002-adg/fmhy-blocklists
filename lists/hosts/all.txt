@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6562
-# Updated: 2026-10-24 11:48:21 UTC
+# Total Rules: 6581
+# Updated: 2026-10-24 15:15:48 UTC
 
 0mag.net
 0x00-8191.com
@@ -148,6 +148,7 @@ acfun.cn
 acg.rip
 acgnx.se
 acid-play.com
+aco.dlib.nyu.edu
 acode.app
 acorn.blue
 across-multiverse.com
@@ -242,6 +243,7 @@ allmusic.com
 allnovel.org
 allthebestfights.com
 allvoicelab.com
+allwebgames.com
 allwrestling24.com
 allyoucanwatch.net
 almaany.com
@@ -776,6 +778,7 @@ bestoldgames.net
 bestsellingalbums.org
 bestsimilar.com
 beta.4wall.ai
+beta.cno.to
 beta.ish.chat
 beta.syncler.net
 beta.way2movies.live
@@ -1141,6 +1144,7 @@ cineruv.website
 cinestream.info
 cinestream.kje.us
 cinestream.studio
+cinestream2.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -1506,6 +1510,7 @@ discografiascompletas.com
 discogs.com
 discord.paperback.moe
 discord.sonicfangameshq.com
+discourse.aosus.org
 discoverpoetry.com
 discoverquickly.com
 discuss.grapheneos.org
@@ -1716,6 +1721,7 @@ editor.audio
 editoreric.com
 edmdle.vercel.app
 edmwaves.org
+edraak.org
 edu-games.org
 educamaisbrasil.com.br
 eduke32.com
@@ -2053,6 +2059,7 @@ flixvo.fun
 flixvo.live
 flixwatch.co
 flixway.ru
+flixzy.mooo.com
 flnk.fun
 flood.js.org
 florisboard.org
@@ -2253,9 +2260,11 @@ gamepcfull.com
 gamepix.com
 gamepuma.com
 games-by-will.com
+games.co.uk
 games.digipen.edu
 gamesforthebrain.com
 gamesfrog.com
+gamesgames.com
 gamesnostalgia.com
 gameye.app
 gamezhero.com
@@ -2283,6 +2292,7 @@ generative.fm
 genesismud.org
 genius.com
 genmo.ai
+genresampler.com
 genymotion.com
 geo-fs.com
 geo.emily.bz
@@ -2579,6 +2589,7 @@ html5.thebestarcadescript.com
 html5blackjack.net
 htvc.com.vn
 huedle.com
+huggingbay.xyz
 huggingface.co
 huh.xdmovies.wtf
 huhu.to
@@ -3184,6 +3195,7 @@ livetv.sx
 livius.org
 livrosnarrados.blogspot.com
 llama.app
+llama.garden
 llamalab.com
 llaroza.monster
 llm-explorer.com
@@ -3357,6 +3369,7 @@ mangapill.com
 mangapoisk.me
 mangas-origines.fr
 mangashelf.co.il
+mangastash.org
 mangataro.org
 mangatown.com
 mangaupdates.com
@@ -3595,6 +3608,7 @@ morphe.software
 mors-games.itch.io
 moss.garden
 mostrecommendedbooks.com
+motomundo.net
 moum.top
 movi.pk
 movie-censorship.com
@@ -4743,6 +4757,7 @@ repository.alt.ac.uk
 repository.apptesters.org
 repository.duke.edu
 repository.library.brown.edu
+rerace.net
 resanance.com
 researchgate.net
 restatus.me
@@ -4893,6 +4908,7 @@ rutracker.wiki
 rutube.ru
 ruverses.com
 ruwix.com
+rwaq.org
 rwmpelstilzchen.gitlab.io
 rym.fm
 rytr.me
@@ -4933,6 +4949,7 @@ sastatus.com
 sastra.org
 savefileconverter.com
 savesubs.com
+savigames.com
 savpdfviewer.com
 sbenny.com
 sc.maid.zone
@@ -5460,6 +5477,7 @@ suckless.org
 sudokuwiki.org
 suggestream.com
 sumatrapdfreader.org
+sumikiri.vercel.app
 summrize.com
 sunnah.com
 suno.com
@@ -6167,6 +6185,7 @@ wallwidgy.app
 wanderers-library.wikidot.com
 wantmymtv.vercel.app
 wantmymtv.xyz
+waqfeya.net
 war-forum.net
 war.app
 warcenter.cz

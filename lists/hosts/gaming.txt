@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1070
-# Updated: 2026-10-24 11:48:21 UTC
+# Total Rules: 1075
+# Updated: 2026-10-24 15:15:48 UTC
 
 0x00-8191.com
 18xx.games
@@ -36,6 +36,7 @@ alephone.lhowon.org
 alfy.com
 allchemy.io
 alldle.net
+allwebgames.com
 almostidle.com
 alphabetagamer.com
 alphabeticle.xyz
@@ -333,9 +334,11 @@ gamepcfull.com
 gamepix.com
 gamepuma.com
 games-by-will.com
+games.co.uk
 games.digipen.edu
 gamesforthebrain.com
 gamesfrog.com
+gamesgames.com
 gamesnostalgia.com
 gamezhero.com
 gamingcouch.com
@@ -832,6 +835,7 @@ rwmpelstilzchen.gitlab.io
 sagexpo.org
 sandtris.com
 savefileconverter.com
+savigames.com
 scenewise.io
 scorch2000.com
 screentop.gg
@@ -906,6 +910,7 @@ stillgrid.app
 store.steampowered.com
 stravaeger.com
 sudokuwiki.org
+sumikiri.vercel.app
 superpsx.com
 supersmashflash.com
 suppilulemur.neocities.org
