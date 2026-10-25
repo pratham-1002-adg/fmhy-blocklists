@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 516
-# Updated: 2026-10-25 16:56:28 UTC
+# Total Rules: 517
+# Updated: 2026-10-25 19:26:43 UTC
 
 4pda.to
 80bee.com
@@ -408,6 +408,7 @@ rejail.ru
 repo.omix4.one
 reports.exodus-privacy.eu.org
 repository.apptesters.org
+reseam.app
 rethinkdns.com
 retromusic.app
 revanced.app

@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1075
-! Updated: 2026-10-25 16:56:27 UTC
+! Total Rules: 1077
+! Updated: 2026-10-25 19:26:43 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -118,6 +118,7 @@
 ||cg-gamespc.net^
 ||channa.itch.io^
 ||char64.itch.io^
+||chdstation.com^
 ||cheatmsx.com^
 ||chess.com^
 ||chesschess.horse^
@@ -696,6 +697,7 @@
 ||player1.eu^
 ||playfootball.games^
 ||playgames.onl^
+||playhop.com^
 ||playingcards.io^
 ||playlethal.fun^
 ||playlin.io^

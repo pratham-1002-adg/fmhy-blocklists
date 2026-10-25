@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1287
-! Updated: 2026-10-25 16:56:27 UTC
+! Total Rules: 1294
+! Updated: 2026-10-25 19:26:43 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -430,6 +430,7 @@
 ||flnk.fun^
 ||fluxtv.cc^
 ||fluxtv.co.uk^
+||flyflix.cc^
 ||flyflix.net^
 ||flystream.net^
 ||fmfau.com^
@@ -574,6 +575,7 @@
 ||kmmovies.shop^
 ||kodasusaka.com^
 ||koddo.ch^
+||koddo.to^
 ||kodi.tv^
 ||kofi.mov^
 ||kontrast.top^
@@ -606,8 +608,12 @@
 ||livetv.sx^
 ||lmanime.com^
 ||loc.gov^
+||lookmovie0.to^
 ||lookmovie2.la^
 ||lookmovie2.to^
+||lookmovie4.to^
+||lookmovie5.to^
+||lookmovie6.to^
 ||luciferdonghua.in^
 ||luffytv.live^
 ||luffytv.online^
@@ -1222,6 +1228,7 @@
 ||web.watchargo.com^
 ||webosbrew.org^
 ||webtorrent.io^
+||weebtube.cc^
 ||wetrakr.com^
 ||wfty.link^
 ||whatismymovie.com^

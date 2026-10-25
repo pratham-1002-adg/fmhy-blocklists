@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1618
-# Updated: 2026-10-25 16:56:28 UTC
+# Total Rules: 1620
+# Updated: 2026-10-25 19:26:43 UTC
 
 17db.pw
 1flex.org
@@ -585,6 +585,7 @@ flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion
 flipax2.me
 flixfilmplus.de
 flixsix.com
+flixvision.xyz
 flowflix.vercel.app
 fluxradios.com
 foro.novenadimension.com
@@ -980,6 +981,7 @@ movix.chat
 movix.online
 mp3indirdur.com.tr
 mp3semti.com
+mrkaj.me
 mrkni.tv
 muaddib-sci-fi.blogspot.com
 muathongminh.vn

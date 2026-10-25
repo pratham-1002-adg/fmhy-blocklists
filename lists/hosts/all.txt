@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6581
-# Updated: 2026-10-25 16:56:28 UTC
+# Total Rules: 6594
+# Updated: 2026-10-25 19:26:43 UTC
 
 0mag.net
 0x00-8191.com
@@ -1060,6 +1060,7 @@ chatboxai.app
 chatgpt.com
 chatsen.app
 chatwave.crunchflix.site
+chdstation.com
 cheatmsx.com
 checkra.in
 chefkiss.dev
@@ -2055,6 +2056,7 @@ flixmix.site
 flixquest.beamlak.dev
 flixsix.com
 flixtrz.com
+flixvision.xyz
 flixvo.fun
 flixvo.live
 flixwatch.co
@@ -2075,6 +2077,7 @@ fluxer.gg
 fluxradios.com
 fluxtv.cc
 fluxtv.co.uk
+flyflix.cc
 flyflix.net
 flyordie.com
 flystream.net
@@ -2982,6 +2985,7 @@ koalabeast.com
 koboldai.com
 kodasusaka.com
 koddo.ch
+koddo.to
 kodi.tv
 kodiapps.com
 kodub.com
@@ -3245,8 +3249,12 @@ lolshot.io
 longcat.ai
 lonnrot.net
 loofi.netlify.app
+lookmovie0.to
 lookmovie2.la
 lookmovie2.to
+lookmovie4.to
+lookmovie5.to
+lookmovie6.to
 looperman.com
 loras.dev
 lossless-music.org
@@ -3653,6 +3661,7 @@ mp3indirdur.com.tr
 mp3semti.com
 mp3tag.de
 mp4directs.com
+mrkaj.me
 mrkni.tv
 mrqe.com
 msearch.vercel.app
@@ -4200,6 +4209,7 @@ parseek.com
 particle-clicker.web.cern.ch
 particle.news
 pasateatorrent.org
+paseo.sh
 paste.to
 patrickzedler.com
 pawflix.foo.ng
@@ -4349,6 +4359,7 @@ playgames.onl
 playground.allenai.org
 playground.microsoft.ai
 playground.tensorflow.org
+playhop.com
 playingcards.io
 playlethal.fun
 playlin.io
@@ -4759,6 +4770,7 @@ repository.duke.edu
 repository.library.brown.edu
 rerace.net
 resanance.com
+reseam.app
 researchgate.net
 restatus.me
 rethinkdns.com
@@ -6280,6 +6292,7 @@ webtoons.com
 webtor.io
 webtorrent.io
 weebcentral.com
+weebtube.cc
 weibomiaopai.com
 welib.org
 welib.st
