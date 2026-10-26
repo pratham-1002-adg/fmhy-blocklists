@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1620
-! Updated: 2026-10-25 23:59:15 UTC
+! Total Rules: 1621
+! Updated: 2026-10-26 04:13:59 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -1562,6 +1562,7 @@
 ||wikidex.net^
 ||winmoes.com^
 ||witanime.net^
+||witanime.site^
 ||witanime.you^
 ||witv.football^
 ||wizdom.xyz^

@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1294
-# Updated: 2026-10-25 23:59:15 UTC
+# Total Rules: 1297
+# Updated: 2026-10-26 04:13:58 UTC
 
 0xdb.org
 123animehub.cc
@@ -537,6 +537,7 @@ iptvplayer.stream
 iwm.org.uk
 japanesetorrents.wordpress.com
 jjba.lol
+jjba.site
 joinpeertube.org
 jubler.org
 justanime.site
@@ -882,6 +883,7 @@ rivestream.pw
 rivestream.ru
 rivestream.vip
 rivestream.win
+rivo.st
 rizzking.org
 rizzking.xo.je
 rlsxtvt.icu
@@ -1287,6 +1289,7 @@ ytsproxies.com
 ytsubdl.com
 yukisubs.wordpress.com
 yumezone.live
+zanix.tr
 zen-bu.cc
 zencine.org
 zenox.lol

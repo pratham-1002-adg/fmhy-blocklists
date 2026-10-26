@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6594
-! Updated: 2026-10-25 23:59:15 UTC
+! Total Rules: 6598
+! Updated: 2026-10-26 04:13:59 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -2805,6 +2805,7 @@
 ||jimaku.cc^
 ||jiosaavn.com^
 ||jjba.lol^
+||jjba.site^
 ||jkanime.net^
 ||jklm.fun^
 ||jmail.world^
@@ -4825,6 +4826,7 @@
 ||rivestream.ru^
 ||rivestream.vip^
 ||rivestream.win^
+||rivo.st^
 ||rizon.net^
 ||rizzking.org^
 ||rizzking.xo.je^
@@ -6367,6 +6369,7 @@
 ||wintools.info^
 ||wisdomlib.org^
 ||witanime.net^
+||witanime.site^
 ||witanime.you^
 ||withsubtitles.com^
 ||witv.football^
@@ -6555,6 +6558,7 @@
 ||zachvorhies.com^
 ||zaluknij.cc^
 ||zangetsu.online^
+||zanix.tr^
 ||zdevs.ru^
 ||zdf.de^
 ||zeigames.com^
