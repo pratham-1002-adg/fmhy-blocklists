@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 1077
-# Updated: 2026-10-26 10:21:56 UTC
+# Updated: 2026-10-26 16:51:13 UTC
 
 0x00-8191.com
 18xx.games
