@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1297
-# Updated: 2026-10-27 11:28:11 UTC
+# Total Rules: 1298
+# Updated: 2026-10-27 16:48:26 UTC
 
 0xdb.org
 123animehub.cc
@@ -390,6 +390,7 @@ fbstream.cc
 fbstream.is
 fcast.org
 fctv33.lat
+fctv33go.hair
 fctv33hd.bar
 fctv33hd.co
 fctv33hd.uno

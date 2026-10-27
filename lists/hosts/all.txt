@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6598
-# Updated: 2026-10-27 11:28:11 UTC
+# Total Rules: 6606
+# Updated: 2026-10-27 16:48:26 UTC
 
 0mag.net
 0x00-8191.com
@@ -101,6 +101,7 @@
 84000.co
 888dl.ps
 8beats.co
+8ghrb.com
 8spine-modules.vercel.app
 90minutes.pro
 94hiphop.com
@@ -1158,6 +1159,7 @@ cineyz.com
 cinezo.org
 cinezo.st
 ciniverse.site
+cinubo.com
 cirrusretro.com
 citizen-dj.labs.loc.gov
 citizenfreak.com
@@ -1756,6 +1758,7 @@ elenemigos.com
 elephind.com
 elevenlabs.io
 elevenreader.io
+elfehrest.com
 elicit.com
 elitetorrent.com
 ellekit.space
@@ -1930,6 +1933,7 @@ fbstream.is
 fcast.org
 fcpic.nesbbs.com
 fctv33.lat
+fctv33go.hair
 fctv33hd.bar
 fctv33hd.co
 fctv33hd.uno
@@ -2165,6 +2169,7 @@ freekz.to
 freelibros.net
 freemagazines.top
 freemagazinespdf.com
+freemanhwa.net
 freemedicaljournals.com
 freemidi.org
 freemp3cloud.com
@@ -3685,6 +3690,7 @@ mugen.karaokes.moe
 mugenfreeforall.com
 mugenguild.com
 mult-fan.tv
+multi.golf
 multi.tonkacine.watch
 multimovies.wtf
 multinime.site
@@ -3754,6 +3760,7 @@ mydramalist.com
 myepisodes.com
 myflixbd.to
 myfluneo.eu
+myinsta.dev
 myinstants.com
 mynoise.net
 myonlineradio.hu
@@ -4442,6 +4449,7 @@ politicsandwar.com
 polkadotgame.com
 polyreplay.com
 polytrackcodes.com
+pomme.us
 ponderclub.co
 poolsuite.net
 popcornflix.com

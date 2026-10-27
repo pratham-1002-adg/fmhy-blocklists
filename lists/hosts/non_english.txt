@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1621
-# Updated: 2026-10-27 11:28:11 UTC
+# Total Rules: 1624
+# Updated: 2026-10-27 16:48:26 UTC
 
 17db.pw
 1flex.org
@@ -44,6 +44,7 @@
 7movies.in
 7movies.pro
 888dl.ps
+8ghrb.com
 99.media
 99csw.com
 a-zmanga.net
@@ -338,6 +339,7 @@ cineru.lk
 cinestream.info
 cinezo.org
 cinezo.st
+cinubo.com
 cizgimax.online
 clasicoshistoria.blogspot.com
 click-sud.pro
@@ -501,6 +503,7 @@ eknihovna.maxzone.eu
 eknizky.sk
 electro-torrent.pl
 elejandria.com
+elfehrest.com
 elitetorrent.com
 ellibrototal.com
 elonet.finna.fi

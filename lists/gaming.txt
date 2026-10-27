@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1077
-! Updated: 2026-10-27 11:28:11 UTC
+! Total Rules: 1079
+! Updated: 2026-10-27 16:48:26 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -584,6 +584,7 @@
 ||mugen.doomjoshuaboy.com^
 ||mugenfreeforall.com^
 ||mugenguild.com^
+||multi.golf^
 ||murdle.com^
 ||murdoku.com^
 ||musicguessr.io^
@@ -731,6 +732,7 @@
 ||polkadotgame.com^
 ||polyreplay.com^
 ||polytrackcodes.com^
+||pomme.us^
 ||ponderclub.co^
 ||popuw.com^
 ||ported2browser.com^
