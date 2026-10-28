@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1624
-# Updated: 2026-10-28 13:44:49 UTC
+# Total Rules: 1626
+# Updated: 2026-10-28 19:16:07 UTC
 
 17db.pw
 1flex.org
@@ -180,6 +180,7 @@ apps.apple.com
 aqstream.com
 ar.kenmanga.com
 ar.mo3jam.com
+arabcomics.net
 arabic-toons.com
 arabicfonts.net
 arabp2p.net
@@ -776,6 +777,7 @@ kartoons.fun
 kartoons.me
 katworld.net
 kawaii-anime.com
+kawaiianime.cc
 kboingfm.com.br
 keyman.com
 kiboanime.app

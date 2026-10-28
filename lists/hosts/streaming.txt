@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1298
-# Updated: 2026-10-28 13:44:48 UTC
+# Total Rules: 1299
+# Updated: 2026-10-28 19:16:07 UTC
 
 0xdb.org
 123animehub.cc
@@ -1200,6 +1200,7 @@ watch.typetype.video
 watch.versusmedia.com
 watchanimez.me
 watchfooty.st
+watchly.mom
 watchorbit.me
 watchott.org
 watchprowrestling.store

@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6606
-# Updated: 2026-10-28 13:44:49 UTC
+# Total Rules: 6609
+# Updated: 2026-10-28 19:16:07 UTC
 
 0mag.net
 0x00-8191.com
@@ -545,6 +545,7 @@ aquareader.net
 aquilereader.in
 ar.kenmanga.com
 ar.mo3jam.com
+arabcomics.net
 arabic-toons.com
 arabicfonts.net
 arabp2p.net
@@ -3287,6 +3288,7 @@ luffytv.live
 luffytv.online
 luisterradio.fm
 lumalabs.ai
+lumen-photos.app
 lumina.sh
 luminescence-software.org
 luminsangelsseriale.com
@@ -6235,6 +6237,7 @@ watch.versusmedia.com
 watchanimeworld.one
 watchanimez.me
 watchfooty.st
+watchly.mom
 watchorbit.me
 watchott.org
 watchprowrestling.store
