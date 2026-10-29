@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 520
-# Updated: 2026-10-29 02:36:35 UTC
+# Total Rules: 521
+# Updated: 2026-10-29 09:14:12 UTC
 
 4pda.to
 80bee.com
@@ -215,6 +215,7 @@ getutm.app
 getzbra.com
 ghisler.com
 git.rebelonion.dev
+git.reseam.app
 git.seextended.org
 gitea.angry.im
 gitlab.futo.org

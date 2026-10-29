@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6609
-! Updated: 2026-10-29 02:36:35 UTC
+! Total Rules: 6612
+! Updated: 2026-10-29 09:14:12 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -2341,6 +2341,7 @@
 ||git.launchpad.net^
 ||git.private.coffee^
 ||git.rebelonion.dev^
+||git.reseam.app^
 ||git.seextended.org^
 ||gitea.angry.im^
 ||gitea.com^
@@ -5643,6 +5644,7 @@
 ||the-circle.app^
 ||the-classic-movies.com^
 ||the-dark-games.com^
+||the-drop-reviews.vercel.app^
 ||the-fork.vercel.app^
 ||theanarchistlibrary.org^
 ||theblackholebay.lol^
@@ -5735,6 +5737,7 @@
 ||tildearrow.org^
 ||tilderadio.org^
 ||tiledwords.com^
+||tim-streams.com^
 ||timeguessr.com^
 ||timesoccertv.com^
 ||timeto.me^
