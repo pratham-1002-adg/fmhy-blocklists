@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1300
-! Updated: 2026-10-30 07:27:47 UTC
+! Total Rules: 1309
+! Updated: 2026-10-30 19:35:26 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -61,6 +61,7 @@
 ||amazon.com^
 ||amberflix.xyz^
 ||androidtv-guide.com^
+||ani.nz^
 ||ani.pm^
 ||anianimax.dpdns.org^
 ||anibase.net^
@@ -291,6 +292,7 @@
 ||cmvsp.lovable.app^
 ||cmvv.lovable.app^
 ||cmvwd.lovable.app^
+||cmvxd.lovable.app^
 ||cno.to^
 ||colonialfilm.org.uk^
 ||commons.wikimedia.org^
@@ -400,6 +402,7 @@
 ||filmfans.org^
 ||filmgo.live^
 ||filmmuseum.at^
+||filmo.domains^
 ||filmo.platfo.es^
 ||filmo.to^
 ||filmpolski.pl^
@@ -441,6 +444,7 @@
 ||footballorgin.com^
 ||footreplays.com^
 ||foundfootagecritic.com^
+||fprime.at^
 ||framemovie.online^
 ||framextv.tech^
 ||framextv.xyz^
@@ -562,6 +566,7 @@
 ||kdesa.stream^
 ||kids-in-mind.com^
 ||kimoitv.com^
+||kissasian.com.gr^
 ||kissasian.video^
 ||kisskh.club^
 ||kisskh.dk^
@@ -820,6 +825,7 @@
 ||ppv.st^
 ||ppv.tj^
 ||ppv.to^
+||ppv.ug^
 ||ppvs.pk^
 ||pracdev.org^
 ||pressplayx.to^
@@ -925,6 +931,7 @@
 ||shanaproject.com^
 ||sharebb.me^
 ||sharemania.us^
+||shonen.to^
 ||shortoftheweek.com^
 ||shortverse.com^
 ||shotonwhat.com^
@@ -932,6 +939,7 @@
 ||showbox.media^
 ||showroom-live.com^
 ||showrss.info^
+||shuttletv.cr^
 ||shuttletv.me^
 ||shuttletv.pk^
 ||shuttletv.su^
@@ -1143,6 +1151,7 @@
 ||ubu.com^
 ||ukgameshows.com^
 ||ultimedia.com^
+||ume.to^
 ||unconsentingmedia.org^
 ||uniquestream.net^
 ||unogs.com^

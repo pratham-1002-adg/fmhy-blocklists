@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6612
-# Updated: 2026-10-30 07:27:47 UTC
+# Total Rules: 6632
+# Updated: 2026-10-30 19:35:26 UTC
 
 0mag.net
 0x00-8191.com
@@ -294,6 +294,7 @@ androidtv-guide.com
 andropalace.org
 androz2091.fr
 ani-cli-arabic.dev
+ani.nz
 ani.pm
 anianimax.dpdns.org
 anibase.net
@@ -398,6 +399,7 @@ animesaturn.me
 animesaturn.net
 animeschedule.net
 animesilo.cc
+animesky.app
 animeslayer.to
 animesonglyrics.com
 animesrbija.com
@@ -425,6 +427,7 @@ animexx.de
 animey.to
 animezid.cam
 animezid.net
+animezid.org
 animezone.pl
 animotvslash.org
 animoye.com
@@ -710,6 +713,7 @@ bajeczki24.pl
 bajins.com
 baka-tsuki.org
 bakabt.me
+bakasu.org
 baked.live
 balkandownload.org
 bandadesenhada-pt.blogspot.com
@@ -1215,6 +1219,7 @@ cmvlr.lovable.app
 cmvsp.lovable.app
 cmvv.lovable.app
 cmvwd.lovable.app
+cmvxd.lovable.app
 cn.chinadaily.com.cn
 cnblogs.com
 cno.to
@@ -1369,6 +1374,7 @@ daddylive.mov
 daddylive.pk
 daemonanime.net
 daftpunk.cafe
+daily.bandcamp.com
 dailyanimelist.web.app
 dailycommercials.com
 dailydungeon.net
@@ -1984,6 +1990,7 @@ filmix.gg
 filmix.my
 filmmuseum.at
 filmmusicsite.com
+filmo.domains
 filmo.platfo.es
 filmo.to
 filmozavr.com
@@ -2135,6 +2142,7 @@ fourtoutici.cc
 foxit.com
 fp.mysqil.com
 fpftp.blogspot.com
+fprime.at
 fr.downmagaz.net
 framed.wtf
 framemovie.online
@@ -2314,6 +2322,7 @@ geotastic.net
 geotips.net
 gestdown.info
 get4all.org
+getaccretion.app
 getcomics.org
 getdrafts.com
 getindevice.com
@@ -2958,6 +2967,7 @@ kira.vercel.app
 kirastudio.org
 kirka.io
 kirmalk.com
+kissasian.com.gr
 kissasian.video
 kisskh.club
 kisskh.dk
@@ -3413,6 +3423,7 @@ manuzoid.com
 manybooks.net
 map-generator-nsj.vercel.app
 mapofmetal.com
+maponica.com
 mappl.tv
 mapple.fun
 mapplee.com
@@ -3499,6 +3510,7 @@ metalminos.net
 metazooa.com
 metroidconstruction.com
 metrolist.meowery.eu
+metroskop.cz
 mexicantrain.online
 mfgg.net
 mfp666.blogspot.com
@@ -4480,6 +4492,7 @@ ppv.rw
 ppv.st
 ppv.tj
 ppv.to
+ppv.ug
 ppvs.pk
 pracdev.org
 predataba.se
@@ -4601,6 +4614,7 @@ quotegarden.com
 quotev.com
 quran.com
 r-a-d.io
+ra.co
 rabanetecomquiabo.blogspot.com
 rabbitmeow.online
 raccoon.onyxbits.de
@@ -5110,6 +5124,7 @@ shiza-project.com
 shizuku.rikka.app
 shnflac.net
 shobonnexus.com
+shonen.to
 short-stories.co
 shortoftheweek.com
 shortverse.com
@@ -5123,6 +5138,7 @@ showrss.info
 shufazidian.com
 shuge.org
 shutterencoder.com
+shuttletv.cr
 shuttletv.me
 shuttletv.pk
 shuttletv.su
@@ -5161,6 +5177,7 @@ sixdegreesofwikipedia.com
 skeetsapp.com
 sketchful.io
 skiley.net
+skillry.dev
 skillscommons.org
 skitty.xyz
 skraper.net
@@ -5694,6 +5711,7 @@ theotherpages.org
 thepaperboy.com
 thepeacockproject.org
 thepiratebay.org
+thequietus.com
 therace.montblancexplorer.com
 therace.montblanclegend.com
 thereri.de
@@ -6000,6 +6018,7 @@ ultimateelectronicsbook.com
 ultimatevocalremover.com
 ultimedia.com
 umdmusic.com
+ume.to
 un4seen.com
 uncensoredlibrary.com
 unchartify.com
@@ -6058,6 +6077,7 @@ v2ex.com
 v5.gostreameast.link
 vagalume.fm
 vaizdopamokos.lt
+valenced.app
 vals.ai
 vangoghletters.org
 vanillavoice.com

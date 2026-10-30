@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1627
-! Updated: 2026-10-30 07:27:47 UTC
+! Total Rules: 1631
+! Updated: 2026-10-30 19:35:26 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -142,6 +142,7 @@
 ||animesaturn.cx^
 ||animesaturn.me^
 ||animesaturn.net^
+||animesky.app^
 ||animeslayer.to^
 ||animesrbija.com^
 ||animesss.com^
@@ -157,6 +158,7 @@
 ||animexx.de^
 ||animezid.cam^
 ||animezid.net^
+||animezid.org^
 ||animezone.pl^
 ||animoye.com^
 ||aniplus.co^
@@ -567,6 +569,7 @@
 ||filmifen.com^
 ||filmix.gg^
 ||filmix.my^
+||filmo.domains^
 ||filmo.platfo.es^
 ||filmo.to^
 ||filmozavr.com^
@@ -950,6 +953,7 @@
 ||meiji.filmarchives.jp^
 ||meionovels.com^
 ||mes-aides.1jeune1solution.beta.gouv.fr^
+||metroskop.cz^
 ||mfp666.blogspot.com^
 ||mikanani.me^
 ||militera.org^
