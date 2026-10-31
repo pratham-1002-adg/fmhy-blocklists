@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1309
-! Updated: 2026-10-31 02:37:17 UTC
+! Total Rules: 1310
+! Updated: 2026-10-31 09:11:52 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -1092,6 +1092,7 @@
 ||timesoccertv.com^
 ||timst.cfd^
 ||timst.top^
+||timstreams.co.rw^
 ||timstreams.st^
 ||titantv.com^
 ||tivimate.com^

@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6632
-# Updated: 2026-10-31 02:37:17 UTC
+# Total Rules: 6639
+# Updated: 2026-10-31 09:11:52 UTC
 
 0mag.net
 0x00-8191.com
@@ -415,6 +415,7 @@ animetosho.net
 animetosho.xyz
 animetvn.com
 animetvplus.xyz
+animeunity.co
 animeunity.so
 animevietsub.link
 animevilla.in
@@ -2379,6 +2380,7 @@ glyph.today
 gn-math.dev
 gnod.com
 gnooks.com
+gnoosic.com
 gnosis.org
 gnula.se
 gnulaseries.nu
@@ -3264,6 +3266,7 @@ loldle.net
 lollms.com
 lolmythesis.com
 lolshot.io
+lonelyscreen.com
 longcat.ai
 lonnrot.net
 loofi.netlify.app
@@ -3725,6 +3728,7 @@ musebootlegs.com
 museeks.io
 musescore.org
 music-atlas.app
+music-map.com
 music-republic-world-traditional.blogspot.com
 music.163.com
 music.com.bd
@@ -4641,6 +4645,7 @@ radiojhero.com
 radioline.co
 radiolise.com
 radionations.com
+radiooooo.com
 radioparadise.com
 radioplayer.be
 radiopuppy.com
@@ -5762,6 +5767,7 @@ timeto.me
 timetreeapp.com
 timst.cfd
 timst.top
+timstreams.co.rw
 timstreams.st
 tinfoil.com
 tinybots.net
@@ -5985,6 +5991,7 @@ tvshows.ac
 tvshows4mobile.org
 tvsubtitles.net
 twcclassics.com
+twgeema.com
 twilitrealm.dev
 twirpx.com
 twistedwave.com
