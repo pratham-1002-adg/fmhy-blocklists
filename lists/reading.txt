@@ -2,8 +2,8 @@
 ! Description: E-books, textbooks, comics, manga, light novels, and magazines.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 884
-! Updated: 2026-11-01 15:41:44 UTC
+! Total Rules: 888
+! Updated: 2026-11-01 20:05:38 UTC
 
 ||1lib.sk^
 ||2012books.lardbucket.org^
@@ -36,6 +36,7 @@
 ||antiqueradio.org^
 ||anx.anxcye.com^
 ||anyflip.com^
+||api.bookbrainz.org^
 ||app.dimensions.ai^
 ||app.litmaps.com^
 ||app.readomni.com^
@@ -101,6 +102,7 @@
 ||book-prize-index.vercel.app^
 ||bookaudiobook.net^
 ||bookaudiobooks.com^
+||bookbrainz.org^
 ||bookdna.com^
 ||bookfeed.io^
 ||bookfrom.net^
@@ -504,6 +506,7 @@
 ||mendeley.com^
 ||meta-press.es^
 ||mgeko.cc^
+||mgread.io^
 ||mindexpandingbooks.com^
 ||mjl.clarivate.com^
 ||mkissa.to^
@@ -725,6 +728,7 @@
 ||seanime.app^
 ||search.crossref.org^
 ||search.libraryofleaks.org^
+||search.worldcat.org^
 ||searchthearxiv.com^
 ||secretcanada.com^
 ||sefaria.org^

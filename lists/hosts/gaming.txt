@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1080
-# Updated: 2026-11-01 15:41:44 UTC
+# Total Rules: 1081
+# Updated: 2026-11-01 20:05:38 UTC
 
 0x00-8191.com
 18xx.games
@@ -633,6 +633,7 @@ ohmydots.com
 old-games.com
 old-games.ru
 oldgamesdownload.com
+oldkingscrown.fly.dev
 omnichess.club
 one.sigmally.com
 onelook.com

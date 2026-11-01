@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1311
-! Updated: 2026-11-01 15:41:44 UTC
+! Total Rules: 1314
+! Updated: 2026-11-01 20:05:37 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -80,6 +80,7 @@
 ||anidl.org^
 ||anidoor.me^
 ||anify.to^
+||anihosts.xyz^
 ||anihq.cc^
 ||anikage.cc^
 ||anikoto.site^
@@ -594,6 +595,7 @@
 ||kudos.wiki^
 ||kuroanime.lol^
 ||kuroiru.co^
+||kuroko.cc^
 ||kyren.moe^
 ||latestmovies.net^
 ||lecinemaclub.com^
@@ -1061,6 +1063,7 @@
 ||taroflix.net^
 ||taste.io^
 ||tastedive.com^
+||tatakai.me^
 ||teamup.com^
 ||telegram.dog^
 ||tennojim.xyz^

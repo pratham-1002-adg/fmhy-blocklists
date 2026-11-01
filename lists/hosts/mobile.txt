@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 526
-# Updated: 2026-11-01 15:41:44 UTC
+# Total Rules: 528
+# Updated: 2026-11-01 20:05:38 UTC
 
 4pda.to
 80bee.com
@@ -135,6 +135,7 @@ digibites.nl
 discord.paperback.moe
 discuss.grapheneos.org
 discuss.privacyguides.net
+docs.aiostreams.viren070.me
 docs.ayugram.one
 docs.keymapper.club
 docs.udroid.org
@@ -439,6 +440,7 @@ shizuku.rikka.app
 shouldianswer.net
 sia.storage
 sickw.com
+sideinstaller.net
 sideloadly.io
 sidestore.io
 skeetsapp.com

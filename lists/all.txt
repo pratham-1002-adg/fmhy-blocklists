@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6642
-! Updated: 2026-11-01 15:41:44 UTC
+! Total Rules: 6652
+! Updated: 2026-11-01 20:05:38 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -318,6 +318,7 @@
 ||aniflix.uno^
 ||anify.to^
 ||aniguessr.com^
+||anihosts.xyz^
 ||anihq.cc^
 ||anihub.com.tr^
 ||anikage.cc^
@@ -496,6 +497,7 @@
 ||aoty.prigoana.pw^
 ||apexmovies.net^
 ||api.altstore.io^
+||api.bookbrainz.org^
 ||apk4free.net^
 ||apkadmin.com^
 ||apkbomb.com^
@@ -891,6 +893,7 @@
 ||book.tstrs.me^
 ||bookaudiobook.net^
 ||bookaudiobooks.com^
+||bookbrainz.org^
 ||bookdna.com^
 ||bookfeed.io^
 ||bookfrom.net^
@@ -3058,6 +3061,7 @@
 ||kuribo64.net^
 ||kuroanime.lol^
 ||kuroiru.co^
+||kuroko.cc^
 ||kushview.net^
 ||kusonime.com^
 ||kvaesitso.mm20.de^
@@ -3521,6 +3525,7 @@
 ||mfp666.blogspot.com^
 ||mgdb.himitsukichi.com^
 ||mgeko.cc^
+||mgread.io^
 ||michelf.ca^
 ||microsoft.com^
 ||micyou.top^
@@ -4056,6 +4061,7 @@
 ||oldcomicsworld.blogspot.com^
 ||oldergeeks.com^
 ||oldgamesdownload.com^
+||oldkingscrown.fly.dev^
 ||oldschoolmetalmusicz.blogspot.com^
 ||oldtime.radio^
 ||oldtimeradiodownloads.com^
@@ -5057,6 +5063,7 @@
 ||search.extto.com^
 ||search.libraryofleaks.org^
 ||search.streamcheck.pro^
+||search.worldcat.org^
 ||search.yahoo.co.jp^
 ||searchthearxiv.com^
 ||seasonvar.ru^
@@ -5152,6 +5159,7 @@
 ||sia.storage^
 ||siarchives.si.edu^
 ||sickw.com^
+||sideinstaller.net^
 ||sideloadly.io^
 ||sidequestvr.com^
 ||siderite.dev^
@@ -5607,6 +5615,7 @@
 ||tassomusic.org^
 ||taste.io^
 ||tastedive.com^
+||tatakai.me^
 ||tathyakosh.in^
 ||taurine.app^
 ||tavernai.net^
@@ -5934,6 +5943,7 @@
 ||tubitv.com^
 ||tudoradio.com^
 ||tuhoc.dolenglish.vn^
+||tuktukcinemas.com^
 ||tunebat.com^
 ||tunefind.com^
 ||tunein.com^
