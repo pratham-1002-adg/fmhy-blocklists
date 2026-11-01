@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6639
-! Updated: 2026-11-01 08:36:38 UTC
+! Total Rules: 6642
+! Updated: 2026-11-01 15:41:44 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -1469,6 +1469,7 @@
 ||designarena.ai^
 ||desiremovies.my^
 ||desitv.to^
+||desktop.mornye.com^
 ||dessinanime.cc^
 ||desu-online.pl^
 ||detodopeliculas.nu^
@@ -2078,6 +2079,7 @@
 ||flnk.fun^
 ||flood.js.org^
 ||florisboard.org^
+||flow-tube.org^
 ||flowapp-website.vercel.app^
 ||flowfi.app^
 ||flowflix.vercel.app^
@@ -5599,6 +5601,7 @@
 ||tapefear.com^
 ||tapmusic.net^
 ||targum.info^
+||taroflix.net^
 ||taskito.io^
 ||tasks.org^
 ||tassomusic.org^

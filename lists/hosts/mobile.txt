@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 525
-# Updated: 2026-11-01 08:36:38 UTC
+# Total Rules: 526
+# Updated: 2026-11-01 15:41:44 UTC
 
 4pda.to
 80bee.com
@@ -182,6 +182,7 @@ fixmyspeakers.com
 flix.quest
 flixquest.beamlak.dev
 florisboard.org
+flow-tube.org
 flowapp-website.vercel.app
 flowx.io
 flystream.net
