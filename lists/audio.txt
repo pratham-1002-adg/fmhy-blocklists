@@ -2,8 +2,8 @@
 ! Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 940
-! Updated: 2026-11-02 12:06:29 UTC
+! Total Rules: 942
+! Updated: 2026-11-02 21:51:08 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -374,6 +374,7 @@
 ||kira.vercel.app^
 ||kirastudio.org^
 ||kits4beats.com^
+||kobold.messy.quest^
 ||koel.dev^
 ||konserthuset.se^
 ||kpop.fandom.com^
@@ -698,6 +699,7 @@
 ||sc.maid.zone^
 ||scenestream.net^
 ||schismtracker.org^
+||scientificsound.asia^
 ||scoreascore.com^
 ||scrobblerad.io^
 ||sebschaef.bitbucket.io^

@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1314
-! Updated: 2026-11-02 12:06:29 UTC
+! Total Rules: 1321
+! Updated: 2026-11-02 21:51:08 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -49,6 +49,7 @@
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
+||aficatalog.afi.com^
 ||afterdusk.app^
 ||aftvnews.com^
 ||ageratingjuju.com^
@@ -326,6 +327,7 @@
 ||deafmovie.org^
 ||deafvideo.tv^
 ||defenceimagery.mod.uk^
+||developer.themoviedb.org^
 ||dexter.pw^
 ||digitaldreamdoor.com^
 ||digitaler-lesesaal.bundesarchiv.de^
@@ -397,6 +399,7 @@
 ||fctv33hd.bar^
 ||fctv33hd.co^
 ||fctv33hd.uno^
+||fedsr.us^
 ||ffmovies.org^
 ||filmcave.ru^
 ||filmdilemma.com^
@@ -659,6 +662,7 @@
 ||miruro.ru^
 ||miruro.to^
 ||miruro.tv^
+||mizuki.to^
 ||mkissa.to^
 ||mkvbase.site^
 ||mkvdrama.net^
@@ -685,6 +689,7 @@
 ||movieo.me^
 ||movieparadise.org^
 ||moviepire.org^
+||moviepire.ru^
 ||movieplex.online^
 ||moviepooper.com^
 ||moviescenemap.com^
@@ -802,6 +807,7 @@
 ||phland.org^
 ||phonofilm.cc^
 ||phonofilm.net^
+||pikahd.co^
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.live^
@@ -1086,6 +1092,7 @@
 ||theshowgrid.com^
 ||thesilentlibrary.com^
 ||thetvapp.plus^
+||thetvdb.com^
 ||thewiki.moe^
 ||thewutangcollection.com^
 ||theyshootpictures.com^

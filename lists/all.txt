@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6652
-! Updated: 2026-11-02 12:06:29 UTC
+! Total Rules: 6664
+! Updated: 2026-11-02 21:51:09 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -180,6 +180,7 @@
 ||aether.ist^
 ||aether.st^
 ||afghanistandl.nyu.edu^
+||aficatalog.afi.com^
 ||afreestudio.com^
 ||afterdusk.app^
 ||aftergleam.app^
@@ -1339,6 +1340,7 @@
 ||cross-seed.org^
 ||crosserville.com^
 ||crosshare.org^
+||crosswithfriends.com^
 ||crosswordlabs.com^
 ||crosswordle.com^
 ||cryptome.org^
@@ -1478,6 +1480,7 @@
 ||detodopeliculas.nu^
 ||deutschelyrik.de^
 ||devcheck.app^
+||developer.themoviedb.org^
 ||developers.openai.com^
 ||devices.ubuntu-touch.io^
 ||devil-torrents.pl^
@@ -1953,6 +1956,7 @@
 ||federal.tv^
 ||federica.eu^
 ||fedilab.app^
+||fedsr.us^
 ||feiku6.com^
 ||felixnuesse.de^
 ||femurdesign.com^
@@ -2772,6 +2776,7 @@
 ||ish.chat^
 ||isitreallyfoss.com^
 ||iskin.tooliphone.net^
+||isl.danfishgold.com^
 ||isleward.com^
 ||iso-city.com^
 ||iso-coaster.com^
@@ -3007,6 +3012,7 @@
 ||knaben.org^
 ||knowfree.tradepub.com^
 ||koalabeast.com^
+||kobold.messy.quest^
 ||koboldai.com^
 ||kodasusaka.com^
 ||koddo.ch^
@@ -3581,6 +3587,7 @@
 ||mixtapetorrent.com^
 ||mixupload.com^
 ||mixxx.org^
+||mizuki.to^
 ||mizumath.com^
 ||mjl.clarivate.com^
 ||mk48.io^
@@ -3669,6 +3676,7 @@
 ||movieo.me^
 ||movieparadise.org^
 ||moviepire.org^
+||moviepire.ru^
 ||movieplex.online^
 ||moviepooper.com^
 ||moviescenemap.com^
@@ -4313,6 +4321,7 @@
 ||picturedots.com^
 ||pidantuan.com^
 ||pigeonpod.cloud^
+||pikahd.co^
 ||pikatorrent.com^
 ||pilot.wp.pl^
 ||pinball.alula.me^
@@ -5024,6 +5033,7 @@
 ||science.gov^
 ||sciencedirect.com^
 ||scienceforums.net^
+||scientificsound.asia^
 ||scilit.com^
 ||scinapse.io^
 ||scispace.com^
@@ -5743,6 +5753,7 @@
 ||thestorygraph.com^
 ||thetradersden.org^
 ||thetvapp.plus^
+||thetvdb.com^
 ||thewebcomiclist.com^
 ||thewhitenoisemachine.com^
 ||thewiki.moe^
@@ -6244,6 +6255,7 @@
 ||vyla.qzz.io^
 ||w140.zona.plus^
 ||w2.animeko.ws^
+||waifudeck.app^
 ||walkie-talkie.io^
 ||wallhaven.cc^
 ||wallpaperengine.io^

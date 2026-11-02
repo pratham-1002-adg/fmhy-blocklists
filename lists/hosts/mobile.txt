@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 528
-# Updated: 2026-11-02 12:06:29 UTC
+# Total Rules: 530
+# Updated: 2026-11-02 21:51:09 UTC
 
 4pda.to
 80bee.com
@@ -322,6 +322,7 @@ micyou.top
 mihon.app
 mindwtr.app
 mixplorer.com
+mizuki.to
 mobian-project.org
 mobile.alphacoders.com
 modules.lsposed.org
@@ -512,6 +513,7 @@ voiceinput.futo.tech
 volta-music.com
 vyla.cc
 vyla.qzz.io
+waifudeck.app
 walkie-talkie.io
 wallhaven.cc
 wallpaperengine.io
