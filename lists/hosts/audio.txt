@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 942
-# Updated: 2026-11-04 12:43:54 UTC
+# Total Rules: 944
+# Updated: 2026-11-04 20:13:07 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -103,6 +103,7 @@ beatboss.thevolecitor.qzz.io
 beatmachine.branchpanic.me
 beatsync.gg
 bedroomproducersblog.com
+beehy.pe
 beepbox.co
 beets.io
 bensound.com
@@ -410,6 +411,7 @@ lofi.limo
 lofi.rocks
 lofiandgames.com
 loficafe.net
+loficities.com
 loficlub.vercel.app
 lofigenerator.com
 lofizen.co

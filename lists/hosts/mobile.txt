@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 530
-# Updated: 2026-11-04 12:43:54 UTC
+# Total Rules: 533
+# Updated: 2026-11-04 20:13:07 UTC
 
 4pda.to
 80bee.com
@@ -92,6 +92,7 @@ battarang.anissan.com
 bear.app
 beatboss.thevolecitor.qzz.io
 beeper.com
+beeswax.getflourish.org
 beta.syncler.net
 bignox.com
 bitchord.kushagrasingh.in
@@ -467,6 +468,7 @@ syncler.net
 tachimanga.app
 taskito.io
 tasks.org
+tatakai.me
 taurine.app
 techbone.net
 termoneplus.com
@@ -523,6 +525,7 @@ watomatic.app
 watusi.fouadraheb.com
 whatsappbr.netlify.app
 wiki.hayase.watch
+wmkeyboard.app
 wotaku.wiki
 xda-developers.com
 xdaforums.com

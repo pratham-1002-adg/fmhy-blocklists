@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1321
-# Updated: 2026-11-04 12:43:54 UTC
+# Total Rules: 1327
+# Updated: 2026-11-04 20:13:07 UTC
 
 0xdb.org
 123animehub.cc
@@ -427,11 +427,13 @@ flive.dpdns.org
 flixer.cx
 flixer.gd
 flixer.su
+flixfusion.cyou
 flixhouse.com
 flixmix.site
 flixtrz.com
 flixvo.fun
 flixvo.live
+flixvo.pro
 flixwatch.co
 flixway.ru
 flixzy.mooo.com
@@ -521,6 +523,7 @@ huh.xdmovies.wtf
 huhu.to
 huntleyarchives.com
 hydrahd.com
+hydrahd.gd
 hydrahd.info
 hydrahd.ws
 iamscum.wordpress.com
@@ -852,6 +855,7 @@ publicdomaintorrents.info
 puffer.stanford.edu
 pwrestling.com
 pymedusa.com
+quiz.wyzie.io
 quodb.com
 rabbitmeow.online
 racinglap.net
@@ -991,6 +995,7 @@ stellar.gdn
 stellar.rip
 stiftung-imai.de
 stigstream.ru
+store.wyzie.io
 streamaggregator.in
 streamcorner.cloud
 streamcorner.foo
@@ -1056,6 +1061,7 @@ supercartoons.net
 supernova.to
 sv-archive.surge.sh
 svstream.cc
+sweetfox.app
 syedgakbar.com
 sync.coconono.org
 syncler.net

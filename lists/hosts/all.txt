@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6664
-# Updated: 2026-11-04 12:43:54 UTC
+# Total Rules: 6678
+# Updated: 2026-11-04 20:13:08 UTC
 
 0mag.net
 0x00-8191.com
@@ -769,8 +769,10 @@ beatmachine.branchpanic.me
 beatsync.gg
 bechdeltest.com
 bedroomproducersblog.com
+beehy.pe
 beepbox.co
 beeper.com
+beeswax.getflourish.org
 beets.io
 behindthevoiceactors.com
 belgeselx.com
@@ -908,6 +910,7 @@ bookracy.com
 bookradio.vercel.app
 books-library.website
 books-search.typesense.org
+books.e3raf.co
 books.goalkicker.com
 books.l3zc.com
 bookscafe.net
@@ -1628,6 +1631,7 @@ doubledouble.top
 doubleh3lix.tihmstar.net
 doujinstyle.com
 dova-s.jp
+dowdy.dev
 download.duafile.com
 downloadcult.org
 downloadgamepsp.org
@@ -2072,6 +2076,7 @@ flixer.cx
 flixer.gd
 flixer.su
 flixfilmplus.de
+flixfusion.cyou
 flixhouse.com
 flixmix.site
 flixquest.beamlak.dev
@@ -2080,6 +2085,7 @@ flixtrz.com
 flixvision.xyz
 flixvo.fun
 flixvo.live
+flixvo.pro
 flixwatch.co
 flixway.ru
 flixzy.mooo.com
@@ -2234,6 +2240,7 @@ fulllengthaudiobooks.com
 fullmatchshows.com
 fullraces.com
 fultonhistory.com
+fundacioncnse-dilse.org
 funkwhale.audio
 funniermoments.net
 funnode.com
@@ -2637,6 +2644,7 @@ hvsc.c64.org
 hybrid-analysis.com
 hydraapp.io
 hydrahd.com
+hydrahd.gd
 hydrahd.info
 hydrahd.ws
 hydrogen-music.org
@@ -3128,6 +3136,7 @@ lemonade-server.ai
 lendrive.web.id
 lens.google
 lens.org
+lesco.cenarec.go.cr
 letterboxd.com
 lettered.io
 letterrankd.com
@@ -3262,6 +3271,7 @@ lofi.limo
 lofi.rocks
 lofiandgames.com
 loficafe.net
+loficities.com
 loficlub.vercel.app
 lofidle.com
 lofigenerator.com
@@ -4629,6 +4639,7 @@ quavergame.com
 queensgame.io
 quenq.com
 quiverlauncher.com
+quiz.wyzie.io
 quod.lib.umich.edu
 quodb.com
 quotegarden.com
@@ -5445,6 +5456,7 @@ stockholmskallan.stockholm.se
 stokourbeti.online
 store.rg-adguard.net
 store.steampowered.com
+store.wyzie.io
 storynory.com
 storywhale.com
 strannikmodz.me
@@ -5575,6 +5587,7 @@ swarmsim.com
 swayam.gov.in
 swebench.com
 sweet.tv
+sweetfox.app
 swervle.com
 swiftgram.app
 swiftread.com
@@ -6444,6 +6457,7 @@ wizdom.xyz
 wiztorrent.com
 wjungle.net
 wlext.is
+wmkeyboard.app
 woe-industries.itch.io
 wolfmax4k.com
 wolfram.com

@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1082
-# Updated: 2026-11-04 12:43:54 UTC
+# Total Rules: 1083
+# Updated: 2026-11-04 20:13:07 UTC
 
 0x00-8191.com
 18xx.games
@@ -217,6 +217,7 @@ dosgames.com
 dosgamesarchive.com
 doshaven.eu
 doujinstyle.com
+dowdy.dev
 downloadgamepsp.org
 dpoetry.com
 drawbackchess.com
