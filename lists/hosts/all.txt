@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6678
-# Updated: 2026-11-05 00:57:56 UTC
+# Total Rules: 6679
+# Updated: 2026-11-05 07:45:53 UTC
 
 0mag.net
 0x00-8191.com
@@ -2359,6 +2359,7 @@ gfw.report
 ggflix.live
 ggflix.pro
 ghisler.com
+ghostflix.st
 ghproxy.link
 gidd.io
 gimytw.cc
