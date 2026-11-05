@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 888
-# Updated: 2026-11-05 07:45:53 UTC
+# Total Rules: 889
+# Updated: 2026-11-05 16:00:08 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -112,6 +112,7 @@ bookletlibrary.org
 bookmarks.reviews
 booknotification.com
 bookorbit.app
+bookplate.eu
 bookracy.com
 bookradio.vercel.app
 books-search.typesense.org

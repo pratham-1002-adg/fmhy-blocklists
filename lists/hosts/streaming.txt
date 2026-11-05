@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1328
-# Updated: 2026-11-05 07:45:53 UTC
+# Total Rules: 1333
+# Updated: 2026-11-05 16:00:08 UTC
 
 0xdb.org
 123animehub.cc
@@ -173,6 +173,7 @@ asiaflix.net
 asiancrush.com
 at4klauncher.com
 athome.fandango.com
+atlantic.bz
 atlantic.st
 atlas.hls.lol
 atlasofwonders.com
@@ -787,6 +788,8 @@ olamovies.dad
 olympicstreams.im
 olympicweb.me
 omega.gg
+ondemand.st
+ondemand.to
 ondemandchina.com
 onhockey.tv
 onionplay.st
@@ -828,6 +831,7 @@ plus.nasa.gov
 pluto.tv
 popcornflix.com
 popcornmovies.ac
+popcornmovies.st
 popwatch.cc
 popwatch.to
 powder.media
@@ -986,6 +990,7 @@ squidtv.net
 srstop.link
 ssrmovies.blue
 ssrmovies.com
+stability.taxidev.me
 stagatv.com
 starringthecomputer.com
 status.animaxanime.dpdns.org

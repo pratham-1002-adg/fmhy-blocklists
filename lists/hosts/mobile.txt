@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 533
-# Updated: 2026-11-05 07:45:53 UTC
+# Total Rules: 535
+# Updated: 2026-11-05 16:00:08 UTC
 
 4pda.to
 80bee.com
@@ -77,6 +77,7 @@ arcticons.com
 armconverter.com
 asoftmurmur.com
 asteroidos.org
+atlantic.bz
 atlantic.st
 auroraoss.com
 automatag.com
@@ -368,6 +369,7 @@ octogram.me
 onejailbreak.com
 onionbrowser.com
 openbubbles.app
+opentubex.org
 openvibe.social
 orangefox.download
 orbot.app
