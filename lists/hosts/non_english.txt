@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1638
-# Updated: 2026-11-06 08:59:17 UTC
+# Total Rules: 1640
+# Updated: 2026-11-06 16:39:58 UTC
 
 17db.pw
 1flex.org
@@ -608,6 +608,7 @@ foulabook.com
 fourtoutici.cc
 fr.downmagaz.net
 franime.fr
+freekino.net
 freekoreanfont.com
 freelibros.net
 frembed.casa
@@ -1443,6 +1444,7 @@ torrent.by
 tortugaceviri.com
 toutiao.com
 tr4ker.net
+tramphim.app
 tramphim.tech
 tramphim4.org
 tramphim5.org

@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6688
-! Updated: 2026-11-06 08:59:17 UTC
+! Total Rules: 6705
+! Updated: 2026-11-06 16:39:58 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -415,6 +415,7 @@
 ||animethemes.moe^
 ||animetosho.net^
 ||animetosho.xyz^
+||animetoshwu5w2kapugp6y25k3qpwicxwcll6odi2ptumvnh7ybqlfqd.onion^
 ||animetvn.com^
 ||animetvplus.xyz^
 ||animeunity.co^
@@ -559,6 +560,7 @@
 ||arc018.stream^
 ||arca.live^
 ||arcadespace.org^
+||arcadia.baby^
 ||arch.icekylin.online^
 ||archeophone.org^
 ||archiv.pw^
@@ -1771,6 +1773,7 @@
 ||ektoplazm.com^
 ||elamigos.site^
 ||eldritchdark.com^
+||election.run^
 ||electro-torrent.pl^
 ||electronicfresh.com^
 ||elejandria.com^
@@ -2192,6 +2195,7 @@
 ||freegreatmovies.com^
 ||freeguessr.com^
 ||freeintertv.com^
+||freekino.net^
 ||freekoreanfont.com^
 ||freekz.to^
 ||freelibros.net^
@@ -3519,6 +3523,7 @@
 ||meguanime.com^
 ||meiji.filmarchives.jp^
 ||meionovels.com^
+||meiro.elianiva.com^
 ||melondy.com^
 ||memorizeearth.com^
 ||memuplay.com^
@@ -4343,6 +4348,7 @@
 ||pikatorrent.com^
 ||pilot.wp.pl^
 ||pinball.alula.me^
+||pinepods.online^
 ||pingme.lmno.pk^
 ||pinokio.co^
 ||pinoyalbums.com^
@@ -4471,6 +4477,7 @@
 ||podreczniki.lol^
 ||podscripts.co^
 ||podstatus.com^
+||podverse.fm^
 ||poeltl.nbpa.com^
 ||poemassemerros.wordpress.com^
 ||poemhunter.com^
@@ -4480,6 +4487,7 @@
 ||poetryfoundation.org^
 ||poetryintranslation.com^
 ||poets.org^
+||pointify.qzz.io^
 ||poipiku.com^
 ||pokeclicker.com^
 ||pokedle.net^
@@ -4594,6 +4602,7 @@
 ||proxx.app^
 ||proxy.cubari.moe^
 ||ps1fun.com^
+||psa.rip^
 ||psa.wf^
 ||psl.org.pk^
 ||pstream.cfd^
@@ -4635,6 +4644,7 @@
 ||python.maateen.me^
 ||pyx-1.pretendyoure.xyz^
 ||q-3.eu^
+||q62flix.ws^
 ||qbittorrent.org^
 ||qbreader.org^
 ||qinkan.net^
@@ -5392,6 +5402,7 @@
 ||sportsbite.org^
 ||sportsindx.st^
 ||sportsurge.st^
+||sportsurges.st^
 ||spot-transfer.vercel.app^
 ||spotc.yodaluca.dev^
 ||spoti.pw^
@@ -5526,6 +5537,7 @@
 ||strims24.st^
 ||strmd.link^
 ||strmfree.link^
+||strmfree.pk^
 ||strmfree.st^
 ||strudel.cc^
 ||strumyk.domains^
@@ -5901,6 +5913,7 @@
 ||totaljerkface.com^
 ||totally-not.spyware.lol^
 ||totallynormalchess.com^
+||totalsport-ek.st^
 ||totalsportek.st^
 ||toughlovearena.com^
 ||touhoudb.com^
@@ -5916,6 +5929,7 @@
 ||tracktion.com^
 ||trailerpunk.com^
 ||trakt.tv^
+||tramphim.app^
 ||tramphim.tech^
 ||tramphim4.org^
 ||tramphim5.org^
@@ -6314,6 +6328,7 @@
 ||watch.versusmedia.com^
 ||watchanimeworld.one^
 ||watchanimez.me^
+||watched.cx^
 ||watchfooty.st^
 ||watchly.mom^
 ||watchorbit.me^
@@ -6506,6 +6521,7 @@
 ||worldsbiggestpacman.com^
 ||worldscinema.org^
 ||worldsrc.net^
+||worldwidefm.net^
 ||worteldrie.com^
 ||wotaku.wiki^
 ||wourdle.com^
@@ -6664,6 +6680,7 @@
 ||zetmoon.live^
 ||zflix.me^
 ||zg.is-a.dev^
+||zig-zag.fm^
 ||zimuku.org^
 ||zinfinal.com^
 ||zingmp3.vn^

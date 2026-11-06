@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 945
-# Updated: 2026-11-06 08:59:17 UTC
+# Total Rules: 951
+# Updated: 2026-11-06 16:39:58 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -447,6 +447,7 @@ mcmusiceditor.com
 measuringpolyphony.org
 mediux.pro
 meetinginmusic.blogspot.com
+meiro.elianiva.com
 melondy.com
 metal-archives.com
 metal.iplay.ro
@@ -582,6 +583,7 @@ phish.in
 pianobook.co.uk
 picard.musicbrainz.org
 pigeonpod.cloud
+pinepods.online
 piratefeeds.net
 pitchfork.com
 pixabay.com
@@ -612,6 +614,8 @@ podnews.net
 podparadise.com
 podscripts.co
 podstatus.com
+podverse.fm
+pointify.qzz.io
 poolsuite.net
 popify.cc
 predb.eu
@@ -927,6 +931,7 @@ wiki.musichoarders.xyz
 williamkage.com
 worldconcerthall.com
 worldradiomap.com
+worldwidefm.net
 worteldrie.com
 wotaku.wiki
 wqxr.org
@@ -947,6 +952,7 @@ ytiz.xyz
 yurisizov.itch.io
 z3.fm
 zeno.fm
+zig-zag.fm
 zophar.net
 zrythm.org
 zvu4it.org

@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1333
-! Updated: 2026-11-06 08:59:17 UTC
+! Total Rules: 1341
+! Updated: 2026-11-06 16:39:58 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -128,6 +128,7 @@
 ||animesuge.cz^
 ||animetosho.net^
 ||animetosho.xyz^
+||animetoshwu5w2kapugp6y25k3qpwicxwcll6odi2ptumvnh7ybqlfqd.onion^
 ||animetvplus.xyz^
 ||animevilla.in^
 ||animevilla.org^
@@ -365,6 +366,7 @@
 ||easterneuropeanmovies.com^
 ||ee3.me^
 ||einthusan.tv^
+||election.run^
 ||elsubtitle.com^
 ||emmau680.driveraudiencej2zeu49.sbs^
 ||emnexmovies.tech^
@@ -852,6 +854,7 @@
 ||primewire.pw^
 ||primewire.zip^
 ||projectjust.xyz^
+||psa.rip^
 ||psa.wf^
 ||pstream.cfd^
 ||pstream.site^
@@ -860,6 +863,7 @@
 ||puffer.stanford.edu^
 ||pwrestling.com^
 ||pymedusa.com^
+||q62flix.ws^
 ||quiz.wyzie.io^
 ||quodb.com^
 ||rabbitmeow.online^
@@ -985,6 +989,7 @@
 ||sportsbite.org^
 ||sportsindx.st^
 ||sportsurge.st^
+||sportsurges.st^
 ||sprocketschool.org^
 ||squidtv.net^
 ||srstop.link^
@@ -1041,6 +1046,7 @@
 ||strims24.st^
 ||strmd.link^
 ||strmfree.link^
+||strmfree.pk^
 ||strmfree.st^
 ||strumyk.domains^
 ||strumyk.pk^
@@ -1136,6 +1142,7 @@
 ||torrents.youplex.site^
 ||torrentsurf.to^
 ||total-sportekk.st^
+||totalsport-ek.st^
 ||totalsportek.st^
 ||toustream.xyz^
 ||trace.moe^
@@ -1233,6 +1240,7 @@
 ||watch.typetype.video^
 ||watch.versusmedia.com^
 ||watchanimez.me^
+||watched.cx^
 ||watchfooty.st^
 ||watchly.mom^
 ||watchorbit.me^
