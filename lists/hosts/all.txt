@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6705
-# Updated: 2026-11-07 01:31:57 UTC
+# Total Rules: 6709
+# Updated: 2026-11-07 08:11:48 UTC
 
 0mag.net
 0x00-8191.com
@@ -62,6 +62,7 @@
 24livenewspaper.com
 256zw.org
 29a.ch
+2dhive.com
 2ecbbd610840-trakt.baby-beamup.club
 2ix2.com
 321movies.xyz
@@ -676,6 +677,7 @@ audius.co
 augustocampos.net
 aurasports.xyz
 auroraoss.com
+aurorascreen.mov
 aurorascreen.org
 authors.library.caltech.edu
 auto-brochures.com
@@ -4118,6 +4120,7 @@ onemotion.com
 ongaku.js.org
 onhockey.tv
 onionbrowser.com
+onionplay.ae
 onionplay.st
 onisaga.com
 online-fix.me
@@ -5511,6 +5514,7 @@ streaming.cineverse.com
 streamingcommunityz.photos
 streamingcommunityz.red
 streamingunity.dog
+streamingunity.fun
 streamingunity.vip
 streamingunity.win
 streamkiste.bid

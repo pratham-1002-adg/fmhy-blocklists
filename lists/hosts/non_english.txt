@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1640
-# Updated: 2026-11-07 01:31:57 UTC
+# Total Rules: 1642
+# Updated: 2026-11-07 08:11:48 UTC
 
 17db.pw
 1flex.org
@@ -1341,6 +1341,7 @@ streaming.cineverse.com
 streamingcommunityz.photos
 streamingcommunityz.red
 streamingunity.dog
+streamingunity.fun
 streamingunity.vip
 streamingunity.win
 streamkiste.bid
@@ -1504,6 +1505,7 @@ uakino-bay.net
 uaserials.my
 uaserials.pro
 unikey.org
+uniquestream.net
 universia.net
 uptracker.ru
 uschovna.cz
