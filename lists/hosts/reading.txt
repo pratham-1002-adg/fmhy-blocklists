@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 890
-# Updated: 2026-11-07 08:11:47 UTC
+# Total Rules: 895
+# Updated: 2026-11-07 14:59:06 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -22,6 +22,7 @@ aimath.org
 alexandria.ucsb.edu
 allaboutcircuits.com
 allmanga.to
+allmangasreader.com
 allnovel.org
 alphaxiv.org
 alternatehistory.com
@@ -65,6 +66,7 @@ astrumargenteum.org
 atarimagazines.com
 atmadharma.com
 atsu.moe
+atsumeru.xyz
 audible-tools.kamsker.at
 audioaz.com
 audiobookbay.lu
@@ -319,6 +321,7 @@ gbif.org
 getcomics.org
 getlibation.com
 git.launchpad.net
+gitgud.io
 gitlab.gnome.org
 glimbay.netlify.app
 globalgreyebooks.com
@@ -355,6 +358,7 @@ holybooks.com
 homepower.com
 hoopladigital.com
 hotaudiobooks.com
+houdoku.org
 howlongtoread.com
 hplovecraft.com
 huggingface.co
@@ -395,6 +399,7 @@ kagane.org
 kagane.si
 kagane.to
 kaggle.com
+kavitareader.com
 kenmei.co
 kindle-epub-fix.netlify.app
 kindle.hrincar.eu

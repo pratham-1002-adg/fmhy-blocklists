@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6709
-! Updated: 2026-11-07 08:11:48 UTC
+! Total Rules: 6716
+! Updated: 2026-11-07 14:59:07 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -241,6 +241,7 @@
 ||alldle.net^
 ||alleng.org^
 ||allmanga.to^
+||allmangasreader.com^
 ||allmovie.com^
 ||allmusic.com^
 ||allnovel.org^
@@ -646,6 +647,7 @@
 ||atmadharma.com^
 ||atomcentral.com^
 ||atsu.moe^
+||atsumeru.xyz^
 ||audacious-media-player.org^
 ||audacityteam.org^
 ||audible-tools.kamsker.at^
@@ -2225,6 +2227,7 @@
 ||freewebnovel.com^
 ||frembed.casa^
 ||frembed.surf^
+||frembed.uno^
 ||french-anime.com^
 ||french-stream.one^
 ||frenchfrysoftware.com^
@@ -2239,6 +2242,7 @@
 ||fstream.app^
 ||fstream.info^
 ||fstv.rest^
+||fsurl.top^
 ||fuckdm.ca^
 ||fuegocine.com^
 ||fuel.io^
@@ -2382,6 +2386,7 @@
 ||gitea.angry.im^
 ||gitea.com^
 ||gitee.com^
+||gitgud.io^
 ||gitlab.futo.org^
 ||gitlab.gnome.org^
 ||gitlab.zrythm.org^
@@ -2625,6 +2630,7 @@
 ||hotaudiobooks.com^
 ||hotfix.fun^
 ||hotflix.to^
+||houdoku.org^
 ||housetime.fm^
 ||hovercats.gg^
 ||howlongtoread.com^
@@ -2922,6 +2928,7 @@
 ||kashcal.onekash.org^
 ||katworld.net^
 ||katzddl.net^
+||kavitareader.com^
 ||kawaii-anime.com^
 ||kawaiianime.cc^
 ||kayoanime.com^

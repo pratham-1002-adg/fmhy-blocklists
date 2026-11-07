@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1642
-! Updated: 2026-11-07 08:11:48 UTC
+! Total Rules: 1644
+! Updated: 2026-11-07 14:59:07 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -613,12 +613,14 @@
 ||freelibros.net^
 ||frembed.casa^
 ||frembed.surf^
+||frembed.uno^
 ||french-anime.com^
 ||french-stream.one^
 ||frixysubs.pl^
 ||fs27.lol^
 ||fstream.info^
 ||fstv.rest^
+||fsurl.top^
 ||fuegocine.com^
 ||fukou-da.net^
 ||fullhdfilmizlesene.mx^
