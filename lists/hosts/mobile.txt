@@ -2,10 +2,11 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 535
-# Updated: 2026-11-08 08:50:05 UTC
+# Total Rules: 536
+# Updated: 2026-11-08 15:43:34 UTC
 
 4pda.to
+5play.org
 80bee.com
 8spine-modules.vercel.app
 9mod.com

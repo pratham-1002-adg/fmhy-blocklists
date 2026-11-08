@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1345
-# Updated: 2026-11-08 08:50:05 UTC
+# Total Rules: 1346
+# Updated: 2026-11-08 15:43:34 UTC
 
 0xdb.org
 123animehub.cc
@@ -29,6 +29,7 @@
 4khdhub.one
 67movies.st
 720pier.ru
+7domains.fans
 7movies.ac
 7movies.in
 7movies.pro

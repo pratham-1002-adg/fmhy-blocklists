@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1644
-! Updated: 2026-11-08 08:50:06 UTC
+! Total Rules: 1645
+! Updated: 2026-11-08 15:43:34 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -1440,6 +1440,7 @@
 ||top.xdmovies.wtf^
 ||topcinema.io^
 ||topcinemaa.co^
+||topcinemaa.vip^
 ||tophub.today^
 ||toptracker.ru^
 ||torrent-empire.me^

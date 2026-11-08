@@ -2,8 +2,8 @@
 # Description: Direct download (DDL) portals, file lockers, premium debrid services.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 155
-# Updated: 2026-11-08 08:50:05 UTC
+# Total Rules: 156
+# Updated: 2026-11-08 15:43:34 UTC
 
 1024teradl.com
 1ddl.org
@@ -99,6 +99,7 @@ orionoid.com
 oss.gallery
 osssoftware.org
 osvault.weebly.com
+pixeldrain-bypass.gamedrive.org
 pixeldrain-bypass.gamedrive.to
 portableapps.com
 portableappz.blogspot.com

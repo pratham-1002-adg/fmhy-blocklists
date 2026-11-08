@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6716
-! Updated: 2026-11-08 08:50:06 UTC
+! Total Rules: 6721
+! Updated: 2026-11-08 15:43:34 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -88,10 +88,12 @@
 ||5movierulz.fitness^
 ||5movierulz.markets^
 ||5nd.com^
+||5play.org^
 ||64dd.org^
 ||67movies.st^
 ||69shuba.com^
 ||720pier.ru^
+||7domains.fans^
 ||7movies.ac^
 ||7movies.in^
 ||7movies.pro^
@@ -4380,6 +4382,7 @@
 ||pitsport.st^
 ||pixabay.com^
 ||pixel-puzzler.playcurious.games^
+||pixeldrain-bypass.gamedrive.org^
 ||pixeldrain-bypass.gamedrive.to^
 ||pixelgunmayhem.net^
 ||pixelrun.localplayer.dev^
@@ -5894,6 +5897,7 @@
 ||top.xdmovies.wtf^
 ||topcinema.io^
 ||topcinemaa.co^
+||topcinemaa.vip^
 ||topdjmixes.com^
 ||topeaglerservers.com^
 ||tophub.today^
@@ -6310,6 +6314,7 @@
 ||wallpapers-clan.com^
 ||wallwidgy.app^
 ||wanderers-library.wikidot.com^
+||wantmymtv.org^
 ||wantmymtv.vercel.app^
 ||wantmymtv.xyz^
 ||waqfeya.net^
