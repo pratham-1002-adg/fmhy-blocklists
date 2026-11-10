@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6721
-! Updated: 2026-11-09 23:04:25 UTC
+! Total Rules: 6731
+! Updated: 2026-11-10 04:43:01 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -79,6 +79,7 @@
 ||4khdhub.link^
 ||4khdhub.one^
 ||4kw.in^
+||4movie.in^
 ||4pda.to^
 ||4shared.com^
 ||5000best.com^
@@ -593,6 +594,7 @@
 ||arfonts.net^
 ||arhivabac.com^
 ||arkadium.com^
+||arkona.dev^
 ||arlima.net^
 ||armaell-library.net^
 ||armconverter.com^
@@ -970,6 +972,7 @@
 ||bt4gprx.com^
 ||btbtla.com^
 ||btcache.me^
+||btdig.com^
 ||btorrent.xyz^
 ||buddhism-dict.net^
 ||build.nvidia.com^
@@ -1176,6 +1179,8 @@
 ||cinevaro.app^
 ||cinevibe.cc^
 ||cinevibe.to^
+||cinevid.link^
+||cinevid.sbs^
 ||cinevid.st^
 ||cinex.lol^
 ||cineyz.com^
@@ -1380,6 +1385,7 @@
 ||cxtvlive.com^
 ||cyadonia.com^
 ||cyberleninka.ru^
+||cybermovies.ru^
 ||cybrox.pro^
 ||cylinders.library.ucsb.edu^
 ||cyrisia.com^
@@ -2927,6 +2933,7 @@
 ||karaoke.zoryva.me^
 ||kartoons.fun^
 ||kartoons.me^
+||kartoons.to^
 ||kashcal.onekash.org^
 ||katworld.net^
 ||katzddl.net^
@@ -3572,6 +3579,7 @@
 ||mikanani.me^
 ||militera.org^
 ||milkbox.ddns.net^
+||milkbox.fyi^
 ||milkbox.sytes.net^
 ||milkbox.zapto.org^
 ||milkie.cc^
@@ -4617,6 +4625,7 @@
 ||ps1fun.com^
 ||psa.rip^
 ||psa.wf^
+||psarips.com^
 ||psl.org.pk^
 ||pstream.cfd^
 ||pstream.site^
@@ -5257,6 +5266,7 @@
 ||sldict.korean.go.kr^
 ||sledujserialy.io^
 ||sledujteto.cz^
+||sleepy.lat^
 ||slither.com^
 ||slopcheck.co^
 ||slowedandreverb.studio^

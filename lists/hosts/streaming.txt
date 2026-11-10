@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1346
-# Updated: 2026-11-09 23:04:25 UTC
+# Total Rules: 1353
+# Updated: 2026-11-10 04:43:00 UTC
 
 0xdb.org
 123animehub.cc
@@ -27,6 +27,7 @@
 3eyedraven.watch
 4khdhub.link
 4khdhub.one
+4movie.in
 67movies.st
 720pier.ru
 7domains.fans
@@ -283,6 +284,8 @@ cinetrii.com
 cinevaro.app
 cinevibe.cc
 cinevibe.to
+cinevid.link
+cinevid.sbs
 cinevid.st
 cinex.lol
 cineyz.com
@@ -316,6 +319,7 @@ crimsonfansubs.com
 cringemdb.com
 cubeflix.org
 cxtvlive.com
+cybermovies.ru
 cytu.be
 daddylive.app
 daddylive.li
@@ -662,6 +666,7 @@ meowtv.ru
 mgdb.himitsukichi.com
 midloop.net
 milkbox.ddns.net
+milkbox.fyi
 milkbox.sytes.net
 milkbox.zapto.org
 mirrors.st
@@ -860,6 +865,7 @@ primewire.zip
 projectjust.xyz
 psa.rip
 psa.wf
+psarips.com
 pstream.cfd
 pstream.site
 publicdomainmovie.net
@@ -973,6 +979,7 @@ silent-hall-of-fame.org
 simkl.com
 simplyscripts.com
 siptv.eu
+sleepy.lat
 smacke.net
 smashystream.xyz
 smovies.co

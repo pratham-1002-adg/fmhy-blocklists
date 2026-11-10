@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1645
-! Updated: 2026-11-09 23:04:25 UTC
+! Total Rules: 1646
+! Updated: 2026-11-10 04:43:01 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -786,6 +786,7 @@
 ||kanunu8.com^
 ||kartoons.fun^
 ||kartoons.me^
+||kartoons.to^
 ||katworld.net^
 ||kawaii-anime.com^
 ||kawaiianime.cc^
