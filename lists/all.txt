@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6731
-! Updated: 2026-11-11 07:35:59 UTC
+! Total Rules: 6737
+! Updated: 2026-11-11 15:47:31 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -101,6 +101,7 @@
 ||7movies.ws^
 ||7plus.com.au^
 ||7reels.cc^
+||7shows.st^
 ||80bee.com^
 ||84000.co^
 ||888dl.ps^
@@ -2826,6 +2827,7 @@
 ||itsbetterwithai.com^
 ||iudesk.com^
 ||ivanime.com^
+||ivy.rest^
 ||ivypanda.com^
 ||iwm.org.uk^
 ||ixdzs.tw^
@@ -4574,6 +4576,7 @@
 ||presidency.ucsb.edu^
 ||pressplayx.to^
 ||pressplayz.to^
+||pressplayz.top^
 ||preterhuman.net^
 ||pricepertoken.com^
 ||pricepoint.gg^
@@ -4824,6 +4827,7 @@
 ||redecanais.af^
 ||redecanais.ooo^
 ||redflix.club^
+||redflix.fans^
 ||redflix.one^
 ||redsquirrel87.com^
 ||redtexts.org^
@@ -5684,6 +5688,7 @@
 ||tassomusic.org^
 ||taste.io^
 ||tastedive.com^
+||tatakai.app^
 ||tatakai.me^
 ||tathyakosh.in^
 ||taurine.app^
@@ -5877,6 +5882,7 @@
 ||toku.fun^
 ||tokyoinsider.com^
 ||tokyotosho.info^
+||tokyvideo.com^
 ||tolkiengateway.net^
 ||toloka.to^
 ||tomlehrersongs.com^

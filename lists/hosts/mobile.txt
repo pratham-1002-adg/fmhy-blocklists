@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 536
-# Updated: 2026-11-11 07:35:59 UTC
+# Total Rules: 537
+# Updated: 2026-11-11 15:47:31 UTC
 
 4pda.to
 5play.org
@@ -471,6 +471,7 @@ syncler.net
 tachimanga.app
 taskito.io
 tasks.org
+tatakai.app
 tatakai.me
 taurine.app
 techbone.net

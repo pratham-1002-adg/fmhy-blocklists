@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1086
-# Updated: 2026-11-11 07:35:59 UTC
+# Total Rules: 1087
+# Updated: 2026-11-11 15:47:31 UTC
 
 0x00-8191.com
 18xx.games
@@ -451,6 +451,7 @@ itch.io
 itchdb.info
 itgmania.com
 itizso.itch.io
+ivy.rest
 japanesepccompendium.blogspot.com
 javagames.cc
 jellymar.io
