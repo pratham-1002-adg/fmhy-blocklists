@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6737
-! Updated: 2026-11-11 15:47:31 UTC
+! Total Rules: 6738
+! Updated: 2026-11-11 22:25:59 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -2565,6 +2565,7 @@
 ||hdfilmcehennemi.nl^
 ||hdhub4u.bi^
 ||hdhub4u.ec^
+||hdhub4u.fr^
 ||hdmixtapes.org^
 ||hdmovieshub.fyi^
 ||hdmoviez.name^

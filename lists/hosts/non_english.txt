@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1646
-# Updated: 2026-11-11 15:47:31 UTC
+# Total Rules: 1647
+# Updated: 2026-11-11 22:25:58 UTC
 
 17db.pw
 1flex.org
@@ -696,6 +696,7 @@ hd-source.to
 hdfilmcehennemi.nl
 hdhub4u.bi
 hdhub4u.ec
+hdhub4u.fr
 hdmozi.hu
 heavenmanga.com
 hellogithub.com
