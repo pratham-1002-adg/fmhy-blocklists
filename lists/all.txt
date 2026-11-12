@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6738
-! Updated: 2026-11-11 22:25:59 UTC
+! Total Rules: 6740
+! Updated: 2026-11-12 03:13:51 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -3418,6 +3418,7 @@
 ||manga-zone.org^
 ||manga.bilibili.com^
 ||manga.in.ua^
+||manga.st^
 ||manga1000.top^
 ||mangabaka.org^
 ||mangaball.net^
@@ -3430,6 +3431,7 @@
 ||mangadex-dl.mansuf.link^
 ||mangadex.org^
 ||mangadot.net^
+||mangadot.st^
 ||mangadraft.com^
 ||mangafire.to^
 ||mangafree.me^

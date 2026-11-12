@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 895
-# Updated: 2026-11-11 22:25:58 UTC
+# Total Rules: 897
+# Updated: 2026-11-12 03:13:51 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -468,6 +468,7 @@ magazinelib.com
 magdownload.com
 magdownload.org
 magzter.com
+manga.st
 mangabaka.org
 mangaball.net
 mangaberri.com
@@ -476,6 +477,7 @@ mangaconverter.com
 mangadex-dl.mansuf.link
 mangadex.org
 mangadot.net
+mangadot.st
 mangafire.to
 mangahere.cc
 mangahub.io
