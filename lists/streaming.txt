@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1359
-! Updated: 2026-11-13 15:51:51 UTC
+! Total Rules: 1369
+! Updated: 2026-11-13 21:46:11 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -84,6 +84,7 @@
 ||anidb.net^
 ||anidl.org^
 ||anidoor.me^
+||anidream.to^
 ||anify.to^
 ||anihosts.xyz^
 ||anihq.cc^
@@ -184,6 +185,7 @@
 ||atlasofwonders.com^
 ||atomcentral.com^
 ||audiovault.net^
+||aurasports.cfd^
 ||aurasports.xyz^
 ||aurorascreen.mov^
 ||aurorascreen.org^
@@ -228,6 +230,7 @@
 ||bingeflix.tv^
 ||bingey.cfd^
 ||bingr.one^
+||bingr.st^
 ||bintv.cc^
 ||bintv.link^
 ||blu-ray.com^
@@ -268,11 +271,13 @@
 ||cinelove.live^
 ||cinema.army^
 ||cinemacity.cc^
+||cinemaos.in^
 ||cinemaos.live^
 ||cinemaos.me^
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinematheque.fr^
+||cinemoas.me^
 ||cinemove.cc^
 ||cinepro.fstream.app^
 ||cineruv.website^
@@ -588,6 +593,7 @@
 ||kimoitv.com^
 ||kissasian.com.gr^
 ||kissasian.video^
+||kissbae.com^
 ||kisskh.club^
 ||kisskh.dk^
 ||kisskh.fr^
@@ -667,6 +673,8 @@
 ||meowtv.ru^
 ||mgdb.himitsukichi.com^
 ||midloop.net^
+||mikeyguinness.com^
+||mikuinv.apicalshark.dedyn.io^
 ||milkbox.ddns.net^
 ||milkbox.fyi^
 ||milkbox.sytes.net^
@@ -869,6 +877,7 @@
 ||psa.rip^
 ||psa.wf^
 ||psarips.com^
+||psarips.is^
 ||pstream.cfd^
 ||pstream.site^
 ||publicdomainmovie.net^
@@ -948,6 +957,7 @@
 ||samsungtvplus.com^
 ||savesubs.com^
 ||score808hd.tv^
+||scorezonetv.live^
 ||screenscape.me^
 ||scripts-onscreen.com^
 ||scripts.com^

@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 537
-# Updated: 2026-11-13 15:51:51 UTC
+# Total Rules: 540
+# Updated: 2026-11-13 21:46:11 UTC
 
 4pda.to
 5play.org
@@ -387,6 +387,7 @@ pairvpn.com
 palera.in
 paperback.moe
 particle.news
+patch-bundles.jmancentral.com
 patrickzedler.com
 pdalife.com
 pdalife.ru
@@ -449,10 +450,12 @@ sideinstaller.net
 sideloadly.io
 sidestore.io
 skeetsapp.com
+skula.me
 smartlauncher.net
 snipd.com
 socket-jb.app
 softgoods.app
+sora-modules.xdfke.me
 soundbound.app
 soundcloud.com
 spotc.yodaluca.dev

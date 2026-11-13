@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 897
-# Updated: 2026-11-13 15:51:51 UTC
+# Total Rules: 899
+# Updated: 2026-11-13 21:46:11 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -345,6 +345,7 @@ gutenberg.ca
 gutenberg.net.au
 gutenberg.org
 hacker-recommended-books.vercel.app
+hackerbooks.org
 hal.science
 halakhah.com
 hardcover.app
@@ -377,6 +378,7 @@ invent.kde.org
 inventaire.io
 iranicaonline.org
 isfdb.org
+islamicarchives.org
 it-ebooks.info
 ivypanda.com
 janereader.com

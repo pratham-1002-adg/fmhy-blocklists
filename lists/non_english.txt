@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1647
-! Updated: 2026-11-13 15:51:51 UTC
+! Total Rules: 1648
+! Updated: 2026-11-13 21:46:11 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -1518,6 +1518,7 @@
 ||uzaymanga.com^
 ||uzi.la^
 ||uzmax.net^
+||uzmovi.net^
 ||v.qq.com^
 ||v2ex.com^
 ||vagalume.fm^

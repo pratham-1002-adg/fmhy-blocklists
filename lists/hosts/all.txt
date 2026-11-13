@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6740
-# Updated: 2026-11-13 15:51:51 UTC
+# Total Rules: 6765
+# Updated: 2026-11-13 21:46:11 UTC
 
 0mag.net
 0x00-8191.com
@@ -319,6 +319,7 @@ anidb.app
 anidb.net
 anidl.org
 anidoor.me
+anidream.to
 anidub.pro
 anifilm.net
 anifilm.pro
@@ -682,6 +683,7 @@ audioz.download
 audiozaic.com
 audius.co
 augustocampos.net
+aurasports.cfd
 aurasports.xyz
 auroraoss.com
 aurorascreen.mov
@@ -849,6 +851,7 @@ binged.net
 bingeflix.tv
 bingey.cfd
 bingr.one
+bingr.st
 binsearch.info
 bintv.cc
 bintv.link
@@ -1158,6 +1161,7 @@ cinelove.live
 cinema.army
 cinema.com.ph
 cinemacity.cc
+cinemaos.in
 cinemaos.live
 cinemaos.me
 cinemaos.tech
@@ -1165,6 +1169,7 @@ cinemargentino.com
 cinemata.org
 cinematheque-bretagne.bzh
 cinematheque.fr
+cinemoas.me
 cinemove.cc
 cinenerdle.app
 cinepro.fstream.app
@@ -2520,6 +2525,7 @@ gyo.tc
 hack-games.com
 hack64.net
 hacker-recommended-books.vercel.app
+hackerbooks.org
 hackerwars.io
 hackstore.to
 hackstore2.com
@@ -2811,6 +2817,7 @@ ish.chat
 isitreallyfoss.com
 iskin.tooliphone.net
 isl.danfishgold.com
+islamicarchives.org
 isleward.com
 iso-city.com
 iso-coaster.com
@@ -3018,6 +3025,7 @@ kirka.io
 kirmalk.com
 kissasian.com.gr
 kissasian.video
+kissbae.com
 kisskh.club
 kisskh.dk
 kisskh.fr
@@ -3224,6 +3232,7 @@ likemanga.ink
 lilymanga.net
 limetorrents.fun
 liminal-archives.wikidot.com
+limusic.app
 lineageos.org
 linerider.com
 link.springer.com
@@ -3582,6 +3591,8 @@ midicities.com
 midloop.net
 mihon.app
 mikanani.me
+mikeyguinness.com
+mikuinv.apicalshark.dedyn.io
 militera.org
 milkbox.ddns.net
 milkbox.fyi
@@ -3811,6 +3822,7 @@ musicrider.org
 musicroamer.com
 musictaste.space
 musicto.com
+musicvibez.org
 musicvid.org
 musify.club
 musitools.xyz
@@ -4245,6 +4257,7 @@ osreformados.com
 oss.gallery
 ossia.io
 osssoftware.org
+ostdb.net
 osu.ppy.sh
 osudroid.moe
 osvault.weebly.com
@@ -4302,6 +4315,7 @@ particle.news
 pasateatorrent.org
 paseo.sh
 paste.to
+patch-bundles.jmancentral.com
 patrickzedler.com
 pawflix.foo.ng
 pb.wtf
@@ -4632,6 +4646,7 @@ ps1fun.com
 psa.rip
 psa.wf
 psarips.com
+psarips.is
 psl.org.pk
 pstream.cfd
 pstream.site
@@ -4923,6 +4938,7 @@ ridomovies.is
 riffle.studio
 rikka-ai.com
 rinse.fm
+riplet.cc
 rips.cc
 rips.club
 ristoanime.com
@@ -5101,6 +5117,7 @@ scnsrc.me
 scorch2000.com
 score808hd.tv
 scoreascore.com
+scorezonetv.live
 scottishpoetrylibrary.org.uk
 scp-wiki.wikidot.com
 screenchat.live
@@ -5267,6 +5284,7 @@ skitty.xyz
 skraper.net
 skribbl.io
 sktorrent.eu
+skula.me
 skyey2.com
 skymangas.com
 skynovels.net
@@ -5367,6 +5385,7 @@ sonorahq.org
 sophiesfloorboard.blogspot.com
 sophon.at
 sora-ich.vercel.app
+sora-modules.xdfke.me
 soraraw.com
 sorr.forumotion.net
 sortyourmusic.playlistmachinery.com
@@ -5406,6 +5425,7 @@ sparkchess.com
 spatial.io
 spec.squid.wtf
 special.moe.gov.tw
+specialfordjs.org
 spectro.enpts.com
 spectrumcomputing.co.uk
 speechma.com
@@ -5761,6 +5781,7 @@ theanarchistlibrary.org
 theblackholebay.lol
 theblackvault.com
 thebookrex.com
+thecatrave.com
 thechessdirectory.com
 thecinefy.online
 thecinefy.site
@@ -5768,6 +5789,7 @@ theclassicalstation.org
 thecriterioncloset.com
 thedarkmod.com
 thedigitaltheater.com
+thedungeonrevealed.com
 thefor.xyz
 thefreelibrary.com
 thegamingemporium.com
@@ -5931,6 +5953,7 @@ torrage.info
 torrent-empire.me
 torrent.by
 torrent.parts
+torrentcheap.com
 torrenting.com
 torrentkitty.lol
 torrentkitty.net
@@ -6126,6 +6149,7 @@ uncensoredlibrary.com
 unchartify.com
 unconsentingmedia.org
 uncovered.ink
+underdog.ai
 unflipgame.com
 unglue.it
 unheard.fm
@@ -6168,6 +6192,7 @@ uwe-sieber.de
 uzaymanga.com
 uzi.la
 uzmax.net
+uzmovi.net
 uztracker.me
 uztracker.ru
 v.qq.com

@@ -2,8 +2,8 @@
 # Description: Public & private torrent trackers, indexers, and P2P search engines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 103
-# Updated: 2026-11-13 15:51:51 UTC
+# Total Rules: 104
+# Updated: 2026-11-13 21:46:11 UTC
 
 0mag.net
 1337x-status.org
@@ -85,6 +85,7 @@ torbox.app
 torlock.com
 torrage.info
 torrent.parts
+torrentcheap.com
 torrenting.com
 torrentkitty.lol
 torrentkitty.net

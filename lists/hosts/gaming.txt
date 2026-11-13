@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1087
-# Updated: 2026-11-13 15:51:51 UTC
+# Total Rules: 1088
+# Updated: 2026-11-13 21:46:11 UTC
 
 0x00-8191.com
 18xx.games
@@ -953,6 +953,7 @@ the-circle.app
 the-dark-games.com
 thechessdirectory.com
 thedarkmod.com
+thedungeonrevealed.com
 thegamingemporium.com
 thejaspel.itch.io
 themahjong.com
