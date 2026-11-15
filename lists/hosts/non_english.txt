@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1648
-# Updated: 2026-11-15 14:29:16 UTC
+# Total Rules: 1652
+# Updated: 2026-11-15 19:55:02 UTC
 
 17db.pw
 1flex.org
@@ -74,6 +74,7 @@ afghanistandl.nyu.edu
 ageapp.app
 agedm.io
 agedm.tv
+ahdaf-kooora.net
 ahs.turkish123.com
 ahwaktv.beer
 aifindy.com
@@ -635,6 +636,7 @@ gamatotv.com.co
 gamatotv.info
 gamatotv.miami
 gameland.ru
+garbaye.fr
 gatonplayseries.com
 gdrivelatino.net
 gdrivelatinohd.net
@@ -1283,6 +1285,7 @@ shiza-project.com
 shobonnexus.com
 shufazidian.com
 shuge.org
+signbank.libras.ufsc.br
 signdict.org
 simulradio.info
 sinnerclownceviri.net
@@ -1560,6 +1563,7 @@ voxfilmeonline.biz
 voz.vn
 vpn.maximkatz.com
 vtudien.com
+vysetv.cc
 w140.zona.plus
 w2.animeko.ws
 waqfeya.net

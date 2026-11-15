@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 540
-# Updated: 2026-11-15 14:29:16 UTC
+# Total Rules: 544
+# Updated: 2026-11-15 19:55:02 UTC
 
 4pda.to
 5play.org
@@ -146,6 +146,7 @@ domarks.app
 donotcall.gov
 donotnotify.com
 doubleh3lix.tihmstar.net
+droid-deck.dev
 droidify.app
 dropbox.com
 eboox.app
@@ -287,6 +288,7 @@ keyboard.futo.org
 keyboard.futo.tech
 keymapper.app
 kinkeadtech.com
+kinohd.app
 kisslauncher.com
 kodi.tv
 kodiapps.com
@@ -404,6 +406,7 @@ plinky.app
 plugins.grayjay.app
 pocketcasts.com
 pocketpal.dev
+podverse.fm
 postmarketos.org
 prepaid-data-sim-card.fandom.com
 privacyguides-org-production.b-cdn.net
@@ -522,6 +525,7 @@ voiceinput.futo.tech
 volta-music.com
 vyla.cc
 vyla.qzz.io
+vysetv.cc
 waifudeck.app
 walkie-talkie.io
 wallhaven.cc

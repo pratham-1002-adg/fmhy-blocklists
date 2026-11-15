@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6765
-# Updated: 2026-11-15 14:29:16 UTC
+# Total Rules: 6782
+# Updated: 2026-11-15 19:55:02 UTC
 
 0mag.net
 0x00-8191.com
@@ -181,6 +181,7 @@ adslgate.com
 adtunes.com
 adultswim.com
 adventuregamestudio.co.uk
+aegisub.org
 aether.cx
 aether.ist
 aether.st
@@ -201,6 +202,7 @@ ageratingjuju.com
 aggrocrab.itch.io
 agnai.chat
 aha-music.com
+ahdaf-kooora.net
 ahs.turkish123.com
 ahwaktv.beer
 ai-bingo.lipsumar.io
@@ -213,6 +215,7 @@ aifreevideo.com
 aigallery.app
 aimath.org
 aimp.ru
+aireleasetracker.com
 airwindows.com
 aistudio.tencent.com
 aistudio.xiaomimimo.com
@@ -718,6 +721,7 @@ b98.tv
 babla.vn
 babyanime.top
 bacalightnovel.co
+bachvereniging.nl
 backloggd.com
 backofyourhand.com
 backrooms-wiki.wikidot.com
@@ -1419,6 +1423,7 @@ dance-music.org
 dancemusic.wtf
 danet.vn
 danstore-ms.vercel.app
+danstore.kavangi.co.ke
 darkbooks.org
 darklight.to
 darkroom.film
@@ -1690,6 +1695,7 @@ drifted.com
 driveandlisten.app
 drivefromhome.com
 drivenlisten.com
+droid-deck.dev
 droidify.app
 dropbox.com
 dropreference.com
@@ -2205,6 +2211,7 @@ freeclassicaudiobooks.com
 freecomputerbooks.com
 freeconvert.com
 freedosgames.de
+freef1-live.vercel.app
 freeformradio.directory
 freefullpdf.com
 freegames.org
@@ -2332,6 +2339,7 @@ gamezhero.com
 gamingcouch.com
 gandalf.lakera.ai
 gangster.su
+garbaye.fr
 gartic.io
 garticphone.com
 gatonplayseries.com
@@ -2550,6 +2558,7 @@ hardbase.fm
 hardcover.app
 harddrop.com
 hare.kractero.com
+hark.com
 harmonoid.com
 harpacrista.org
 haschcon.com
@@ -3006,6 +3015,7 @@ kinogo.ec
 kinogo.fit
 kinogo.luxury
 kinogo2026.com
+kinohd.app
 kinoking.cc
 kinokong.es
 kinokong.li
@@ -4917,6 +4927,7 @@ retromags.com
 retromusic.app
 retroonline.net
 retroreversing.com
+retroshare.cc
 retrosix.wiki
 retrospec.sgn.net
 retrostic.com
@@ -5252,6 +5263,7 @@ siderite.dev
 sidestore.io
 sigil-ebook.com
 signalmidi.app
+signbank.libras.ufsc.br
 signdict.org
 signonscreen.com
 sikhbookclub.com
@@ -5530,6 +5542,7 @@ store.steampowered.com
 store.wyzie.io
 storynory.com
 storywhale.com
+strafes.io
 strannikmodz.me
 stravaeger.com
 strawberrymusicplayer.org
@@ -5586,6 +5599,7 @@ strexoplayer.onrender.com
 strflow.app
 strims24.pl
 strims24.st
+strmcrnr.st
 strmd.link
 strmfree.link
 strmfree.pk
@@ -5661,6 +5675,7 @@ swayam.gov.in
 swebench.com
 sweet.tv
 sweetfox.app
+sweetfox.st
 swervle.com
 swiftgram.app
 swiftread.com
@@ -5787,6 +5802,7 @@ thecinefy.online
 thecinefy.site
 theclassicalstation.org
 thecriterioncloset.com
+thedaddy.li
 thedarkmod.com
 thedigitaltheater.com
 thedungeonrevealed.com
@@ -6349,6 +6365,7 @@ vtuner.com
 vuflix.co
 vyla.cc
 vyla.qzz.io
+vysetv.cc
 w140.zona.plus
 w2.animeko.ws
 waifudeck.app

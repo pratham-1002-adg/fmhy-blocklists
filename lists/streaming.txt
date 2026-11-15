@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1369
-! Updated: 2026-11-15 14:29:16 UTC
+! Total Rules: 1377
+! Updated: 2026-11-15 19:55:02 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -50,6 +50,7 @@
 ||addonsfortheweebs.midnightignite.me^
 ||adrama.app^
 ||adultswim.com^
+||aegisub.org^
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
@@ -57,6 +58,7 @@
 ||afterdusk.app^
 ||aftvnews.com^
 ||ageratingjuju.com^
+||ahdaf-kooora.net^
 ||allaboutmovies.xyz^
 ||allmanga.to^
 ||allmovie.com^
@@ -471,6 +473,7 @@
 ||framextv.tech^
 ||framextv.xyz^
 ||free-movies.to^
+||freef1-live.vercel.app^
 ||freegreatmovies.com^
 ||freeintertv.com^
 ||freekz.to^
@@ -591,6 +594,7 @@
 ||kdesa.stream^
 ||kids-in-mind.com^
 ||kimoitv.com^
+||kinohd.app^
 ||kissasian.com.gr^
 ||kissasian.video^
 ||kissbae.com^
@@ -1070,6 +1074,7 @@
 ||strexoplayer.onrender.com^
 ||strims24.pl^
 ||strims24.st^
+||strmcrnr.st^
 ||strmd.link^
 ||strmfree.link^
 ||strmfree.pk^
@@ -1100,6 +1105,7 @@
 ||sv-archive.surge.sh^
 ||svstream.cc^
 ||sweetfox.app^
+||sweetfox.st^
 ||syedgakbar.com^
 ||sync.coconono.org^
 ||syncler.net^
@@ -1125,6 +1131,7 @@
 ||thecinefy.online^
 ||thecinefy.site^
 ||thecriterioncloset.com^
+||thedaddy.li^
 ||thedigitaltheater.com^
 ||theindex.moe^
 ||theintrodb.org^
@@ -1254,6 +1261,7 @@
 ||vuflix.co^
 ||vyla.cc^
 ||vyla.qzz.io^
+||vysetv.cc^
 ||warflix.cv^
 ||warflix.im^
 ||watch-tvseries.net^
