@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 545
-# Updated: 2026-11-17 14:12:20 UTC
+# Total Rules: 546
+# Updated: 2026-11-17 22:31:48 UTC
 
 4pda.to
 5play.org
@@ -66,6 +66,7 @@ appdb.to
 appdb.touchhle.org
 applecensorship.com
 appledb.dev
+applewalls.com
 apps.apple.com
 apps.foundtv.com
 apps.obtainium.imranr.dev

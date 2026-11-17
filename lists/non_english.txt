@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1652
-! Updated: 2026-11-17 14:12:20 UTC
+! Total Rules: 1655
+! Updated: 2026-11-17 22:31:48 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -152,8 +152,10 @@
 ||animesubtitle.ir^
 ||animesultra.org^
 ||animetvn.com^
+||animetvn.gay^
 ||animeunity.co^
 ||animeunity.so^
+||animevietsub.bid^
 ||animevietsub.link^
 ||animeworld.ac^
 ||animeworlditalia.com^
@@ -188,6 +190,7 @@
 ||arabcomics.net^
 ||arabic-toons.com^
 ||arabicfonts.net^
+||arabicheritagearchive.org^
 ||arabp2p.net^
 ||arca.live^
 ||arch.icekylin.online^

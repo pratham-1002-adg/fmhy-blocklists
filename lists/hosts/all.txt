@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6787
-# Updated: 2026-11-17 14:12:20 UTC
+# Total Rules: 6797
+# Updated: 2026-11-17 22:31:48 UTC
 
 0mag.net
 0x00-8191.com
@@ -427,9 +427,11 @@ animetosho.net
 animetosho.xyz
 animetoshwu5w2kapugp6y25k3qpwicxwcll6odi2ptumvnh7ybqlfqd.onion
 animetvn.com
+animetvn.gay
 animetvplus.xyz
 animeunity.co
 animeunity.so
+animevietsub.bid
 animevietsub.link
 animevilla.in
 animevilla.org
@@ -547,6 +549,7 @@ appdb.to
 appdb.touchhle.org
 applecensorship.com
 appledb.dev
+applewalls.com
 applio.org
 appnetica.com
 apps.apple.com
@@ -566,6 +569,7 @@ ar.mo3jam.com
 arabcomics.net
 arabic-toons.com
 arabicfonts.net
+arabicheritagearchive.org
 arabp2p.net
 arc018.stream
 arca.live
@@ -608,6 +612,7 @@ armorgames.com
 armypubs.army.mil
 arquivo.pt
 arrowtv.net
+arrowtv.st
 arte.tv
 artehqs.com.br
 article.olduse.net
@@ -1304,6 +1309,7 @@ composer.betterlyrics.org
 composer.boidu.dev
 compucalitv.lol
 computer.tldraw.com
+comvie.lol
 concertarchives.org
 condensedaudiocatalog.com
 connectbot.org
@@ -4465,6 +4471,7 @@ play.webrcade.com
 play.xumo.com
 play.you.radio
 play2048.co
+play4u.org
 playanypage.com
 playary.com
 playbridge.app
@@ -5653,6 +5660,7 @@ summrize.com
 sunnah.com
 suno.com
 sunoaiwiki.com
+sunopull.com
 super-productivity.com
 super.abril.com.br
 supercartoons.net
@@ -5879,6 +5887,7 @@ thoriumreader.com
 thoughtco.com
 threelettersgame.com
 thugtv.online
+thugtv.st
 thunderapp.dev
 thunderbird.net
 thuvienphapluat.vn
@@ -6368,6 +6377,7 @@ vstskins.com
 vtudien.com
 vtuner.com
 vuflix.co
+vumeto.live
 vyla.cc
 vyla.qzz.io
 vysetv.cc

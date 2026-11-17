@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1380
-! Updated: 2026-11-17 14:12:20 UTC
+! Total Rules: 1386
+! Updated: 2026-11-17 22:31:48 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -174,6 +174,7 @@
 ||apps.apple.com^
 ||arc018.stream^
 ||arrowtv.net^
+||arrowtv.st^
 ||arte.tv^
 ||arvio.tv^
 ||asiaflix.in^
@@ -238,6 +239,7 @@
 ||bintv.link^
 ||blu-ray.com^
 ||boomflix.qzz.io^
+||bowdtv.com^
 ||boxofficemojo.com^
 ||britishpathe.com^
 ||brokensilenze.net^
@@ -316,6 +318,7 @@
 ||colonialfilm.org.uk^
 ||commons.wikimedia.org^
 ||commonsensemedia.org^
+||comvie.lol^
 ||condensedaudiocatalog.com^
 ||consumit.online^
 ||coreflix.tv^
@@ -850,6 +853,7 @@
 ||pixeldrain-bypass.gamedrive.to^
 ||play.history.com^
 ||play.xumo.com^
+||play4u.org^
 ||playary.com^
 ||player.bfi.org.uk^
 ||player.xtra.wtf^
@@ -1153,6 +1157,7 @@
 ||theyshootpictures.com^
 ||theyshootzombies.com^
 ||thugtv.online^
+||thugtv.st^
 ||tiii.me^
 ||tim-streams.com^
 ||timesoccertv.com^
@@ -1262,6 +1267,7 @@
 ||vkvideo.ru^
 ||vole.wtf^
 ||vuflix.co^
+||vumeto.live^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||vysetv.cc^
