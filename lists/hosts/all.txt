@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6783
-# Updated: 2026-11-17 04:58:43 UTC
+# Total Rules: 6787
+# Updated: 2026-11-17 14:12:20 UTC
 
 0mag.net
 0x00-8191.com
@@ -808,6 +808,7 @@ bestoldgames.net
 bestsellingalbums.org
 bestsimilar.com
 beta.4wall.ai
+beta.cinecat.eu
 beta.cno.to
 beta.ish.chat
 beta.syncler.net
@@ -1256,6 +1257,7 @@ cmvxd.lovable.app
 cn.chinadaily.com.cn
 cnblogs.com
 cno.to
+cobalt.directory
 cobalt.tools
 coconut-flavour.com
 codecpack.co
@@ -2399,6 +2401,7 @@ ghproxy.link
 gidd.io
 gimytw.cc
 gingadaddy.com
+git.chefkiss.dev
 git.do.srb2.org
 git.launchpad.net
 git.private.coffee
@@ -3097,6 +3100,7 @@ koreandrama.org
 korsars.pro
 koryo.tv
 kosmi.io
+kotoplay.to
 kototv.to
 kpop.fandom.com
 kpopdownloadscmm.blogspot.com

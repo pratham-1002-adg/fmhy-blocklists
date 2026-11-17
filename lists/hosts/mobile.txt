@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 544
-# Updated: 2026-11-17 04:58:43 UTC
+# Total Rules: 545
+# Updated: 2026-11-17 14:12:20 UTC
 
 4pda.to
 5play.org
@@ -222,6 +222,7 @@ getsileo.app
 getutm.app
 getzbra.com
 ghisler.com
+git.chefkiss.dev
 git.rebelonion.dev
 git.reseam.app
 git.seextended.org

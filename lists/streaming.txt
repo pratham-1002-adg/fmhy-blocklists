@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1378
-! Updated: 2026-11-17 04:58:43 UTC
+! Total Rules: 1380
+! Updated: 2026-11-17 14:12:20 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -218,6 +218,7 @@
 ||behindthevoiceactors.com^
 ||best-moviez.ws^
 ||bestsimilar.com^
+||beta.cinecat.eu^
 ||beta.cno.to^
 ||beta.way2movies.live^
 ||bfi.org.uk^
@@ -620,6 +621,7 @@
 ||kool.ws^
 ||koreandrama.org^
 ||koryo.tv^
+||kotoplay.to^
 ||kototv.to^
 ||kudos.wiki^
 ||kuroanime.lol^

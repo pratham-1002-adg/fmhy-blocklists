@@ -2,8 +2,8 @@
 # Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 959
-# Updated: 2026-11-17 04:58:43 UTC
+# Total Rules: 960
+# Updated: 2026-11-17 14:12:20 UTC
 
 1000flights.blogspot.com
 1001albumsgenerator.com
@@ -161,6 +161,7 @@ classicrockhistory.com
 click-relax.com
 cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion
 clpgs.org.uk
+cobalt.directory
 cobalt.tools
 coderadio.freecodecamp.org
 composer.betterlyrics.org
