@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 1655
-# Updated: 2026-11-18 03:59:45 UTC
+# Updated: 2026-11-18 12:54:07 UTC
 
 17db.pw
 1flex.org
