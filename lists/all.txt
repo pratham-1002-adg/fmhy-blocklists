@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6797
-! Updated: 2026-11-19 02:42:16 UTC
+! Total Rules: 6816
+! Updated: 2026-11-19 11:01:33 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -374,6 +374,7 @@
 ||animebloodsub.net^
 ||animecharactersdatabase.com^
 ||animechiby.com^
+||animecix.tv^
 ||animeclipse.com^
 ||animecountdown.com^
 ||animed23.com^
@@ -471,6 +472,7 @@
 ||aniworld.domains^
 ||aniworld.to^
 ||anixart-app.com^
+||anixo.cfd^
 ||anixo.online^
 ||anixohindi.cc^
 ||anixtv.in^
@@ -1581,8 +1583,10 @@
 ||dizibox.live^
 ||diziizle.now^
 ||diziizle.tel^
+||dizilla.la^
 ||dizilla.to^
 ||dizipal1453.com^
+||dizipal1803.com^
 ||diziyo.so^
 ||diziyou.one^
 ||djpunjab.is^
@@ -1931,6 +1935,7 @@
 ||extratorrent.st^
 ||extreme-down.poker^
 ||extreme-down.press^
+||extreme-down.rentals^
 ||exvagos.org^
 ||exystence.net^
 ||eyedex.org^
@@ -2312,6 +2317,7 @@
 ||gaiaonline.com^
 ||galaxy.click^
 ||galaxy.spotifytrack.net^
+||galaxymovies.app^
 ||galaxyofgames.neocities.org^
 ||galeragames.com^
 ||gallica.bnf.fr^
@@ -2322,6 +2328,7 @@
 ||gamdie.com^
 ||game-box.win^
 ||game-game.com^
+||game.theaestheticcity.com^
 ||gamebanana.com^
 ||gamebounty.world^
 ||gamedle.wtf^
@@ -2594,6 +2601,7 @@
 ||hdmovieshub.fyi^
 ||hdmoviez.name^
 ||hdmozi.hu^
+||hdtoday.com.tr^
 ||heavenmanga.com^
 ||heavymetalrarities.com^
 ||hellogithub.com^
@@ -3728,6 +3736,7 @@
 ||mors-games.itch.io^
 ||moss.garden^
 ||mostrecommendedbooks.com^
+||mothdex.net^
 ||motomundo.net^
 ||moum.top^
 ||movi.pk^
@@ -4143,6 +4152,7 @@
 ||old-games.com^
 ||old-games.ru^
 ||old.repair.wiki^
+||old.yummyani.me^
 ||oldcomicsworld.blogspot.com^
 ||oldergeeks.com^
 ||oldgamesdownload.com^
@@ -4181,6 +4191,7 @@
 ||online-fix.me^
 ||online-literature.com^
 ||online.oldgames.sk^
+||online.sumatrapdfreader.org^
 ||onlinebooks.library.upenn.edu^
 ||onlinecursosgratuitos.com^
 ||onlinefilmekingyen1.com^
@@ -4306,6 +4317,7 @@
 ||page.kakao.com^
 ||pagebypagebooks.com^
 ||pahe.ink^
+||pahenime.com^
 ||pairdrop.net^
 ||pairvpn.com^
 ||palcomp3.com.br^
@@ -4380,6 +4392,7 @@
 ||perspective.usherbrooke.ca^
 ||petals.dev^
 ||petersalomonsen.com^
+||pflix.net^
 ||pgdp.net^
 ||pgun.rilisoft.info^
 ||phantomflix.net^
@@ -4855,6 +4868,7 @@
 ||reciprocard.com^
 ||recommendmeabook.com^
 ||recomp.fyi^
+||recomphaven.com^
 ||record.club^
 ||recraft.ai^
 ||recroom.network^
@@ -4866,9 +4880,11 @@
 ||redditreads.com^
 ||redecanais.af^
 ||redecanais.ooo^
+||redflix.ac^
 ||redflix.club^
 ||redflix.fans^
 ||redflix.one^
+||redflix.st^
 ||redsquirrel87.com^
 ||redtexts.org^
 ||redump.info^
@@ -5041,6 +5057,7 @@
 ||rts.ch^
 ||rtvcplay.co^
 ||rtvs.sk^
+||ru.com-x.life^
 ||ru.yummyani.me^
 ||rubiks-cube-solver.com^
 ||rubikscu.be^
@@ -5805,6 +5822,7 @@
 ||the-dark-games.com^
 ||the-drop-reviews.vercel.app^
 ||the-fork.vercel.app^
+||the-numbers.com^
 ||theanarchistlibrary.org^
 ||theblackholebay.lol^
 ||theblackvault.com^
@@ -5940,6 +5958,7 @@
 ||tokyvideo.com^
 ||tolkiengateway.net^
 ||toloka.to^
+||tom-moroney.com^
 ||tomlehrersongs.com^
 ||tonalics.com^
 ||tonarinoyj.jp^

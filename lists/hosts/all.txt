@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6797
-# Updated: 2026-11-19 02:42:16 UTC
+# Total Rules: 6816
+# Updated: 2026-11-19 11:01:33 UTC
 
 0mag.net
 0x00-8191.com
@@ -374,6 +374,7 @@ animebbg.net
 animebloodsub.net
 animecharactersdatabase.com
 animechiby.com
+animecix.tv
 animeclipse.com
 animecountdown.com
 animed23.com
@@ -471,6 +472,7 @@ aniwaves.ru
 aniworld.domains
 aniworld.to
 anixart-app.com
+anixo.cfd
 anixo.online
 anixohindi.cc
 anixtv.in
@@ -1581,8 +1583,10 @@ diycraftsguide.com
 dizibox.live
 diziizle.now
 diziizle.tel
+dizilla.la
 dizilla.to
 dizipal1453.com
+dizipal1803.com
 diziyo.so
 diziyou.one
 djpunjab.is
@@ -1931,6 +1935,7 @@ extranet.torrentbay.st
 extratorrent.st
 extreme-down.poker
 extreme-down.press
+extreme-down.rentals
 exvagos.org
 exystence.net
 eyedex.org
@@ -2312,6 +2317,7 @@ gaiaflix.live
 gaiaonline.com
 galaxy.click
 galaxy.spotifytrack.net
+galaxymovies.app
 galaxyofgames.neocities.org
 galeragames.com
 gallica.bnf.fr
@@ -2322,6 +2328,7 @@ gamatotv.miami
 gamdie.com
 game-box.win
 game-game.com
+game.theaestheticcity.com
 gamebanana.com
 gamebounty.world
 gamedle.wtf
@@ -2594,6 +2601,7 @@ hdmixtapes.org
 hdmovieshub.fyi
 hdmoviez.name
 hdmozi.hu
+hdtoday.com.tr
 heavenmanga.com
 heavymetalrarities.com
 hellogithub.com
@@ -3728,6 +3736,7 @@ morphe.software
 mors-games.itch.io
 moss.garden
 mostrecommendedbooks.com
+mothdex.net
 motomundo.net
 moum.top
 movi.pk
@@ -4143,6 +4152,7 @@ olamovies.dad
 old-games.com
 old-games.ru
 old.repair.wiki
+old.yummyani.me
 oldcomicsworld.blogspot.com
 oldergeeks.com
 oldgamesdownload.com
@@ -4181,6 +4191,7 @@ onisaga.com
 online-fix.me
 online-literature.com
 online.oldgames.sk
+online.sumatrapdfreader.org
 onlinebooks.library.upenn.edu
 onlinecursosgratuitos.com
 onlinefilmekingyen1.com
@@ -4306,6 +4317,7 @@ pachli.app
 page.kakao.com
 pagebypagebooks.com
 pahe.ink
+pahenime.com
 pairdrop.net
 pairvpn.com
 palcomp3.com.br
@@ -4380,6 +4392,7 @@ personal.math.ubc.ca
 perspective.usherbrooke.ca
 petals.dev
 petersalomonsen.com
+pflix.net
 pgdp.net
 pgun.rilisoft.info
 phantomflix.net
@@ -4855,6 +4868,7 @@ recherche-ebook.fr
 reciprocard.com
 recommendmeabook.com
 recomp.fyi
+recomphaven.com
 record.club
 recraft.ai
 recroom.network
@@ -4866,9 +4880,11 @@ redd.it
 redditreads.com
 redecanais.af
 redecanais.ooo
+redflix.ac
 redflix.club
 redflix.fans
 redflix.one
+redflix.st
 redsquirrel87.com
 redtexts.org
 redump.info
@@ -5041,6 +5057,7 @@ rtr.ch
 rts.ch
 rtvcplay.co
 rtvs.sk
+ru.com-x.life
 ru.yummyani.me
 rubiks-cube-solver.com
 rubikscu.be
@@ -5805,6 +5822,7 @@ the-classic-movies.com
 the-dark-games.com
 the-drop-reviews.vercel.app
 the-fork.vercel.app
+the-numbers.com
 theanarchistlibrary.org
 theblackholebay.lol
 theblackvault.com
@@ -5940,6 +5958,7 @@ tokyotosho.info
 tokyvideo.com
 tolkiengateway.net
 toloka.to
+tom-moroney.com
 tomlehrersongs.com
 tonalics.com
 tonarinoyj.jp

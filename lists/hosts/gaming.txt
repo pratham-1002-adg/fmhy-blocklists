@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1089
-# Updated: 2026-11-19 02:42:15 UTC
+# Total Rules: 1092
+# Updated: 2026-11-19 11:01:33 UTC
 
 0x00-8191.com
 18xx.games
@@ -329,6 +329,7 @@ gam.onl
 gamdie.com
 game-box.win
 game-game.com
+game.theaestheticcity.com
 gamebanana.com
 gamebounty.world
 gamedle.wtf
@@ -582,6 +583,7 @@ moreorless.io
 morewords.com
 moriyashrine.org
 mors-games.itch.io
+mothdex.net
 moviedle.xyz
 movietomovie.com
 msx.org
@@ -782,6 +784,7 @@ re-two-torial.xyz
 really.boring.website
 rebelwithoutarootcause.com
 recomp.fyi
+recomphaven.com
 recroom.network
 redcoats.io
 redd.it

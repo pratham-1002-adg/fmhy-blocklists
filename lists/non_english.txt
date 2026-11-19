@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1655
-! Updated: 2026-11-19 02:42:16 UTC
+! Total Rules: 1661
+! Updated: 2026-11-19 11:01:33 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -123,6 +123,7 @@
 ||animebatch.id^
 ||animebbg.net^
 ||animebloodsub.net^
+||animecix.tv^
 ||animeclipse.com^
 ||animed23.com^
 ||animedrive.hu^
@@ -432,8 +433,10 @@
 ||dizibox.live^
 ||diziizle.now^
 ||diziizle.tel^
+||dizilla.la^
 ||dizilla.to^
 ||dizipal1453.com^
+||dizipal1803.com^
 ||diziyo.so^
 ||diziyou.one^
 ||djpunjab.is^
@@ -545,6 +548,7 @@
 ||exploradoresp2p.com^
 ||extreme-down.poker^
 ||extreme-down.press^
+||extreme-down.rentals^
 ||exvagos.org^
 ||fajer.show^
 ||faneo.es^
@@ -1076,6 +1080,7 @@
 ||oh.taigi.info^
 ||ok.ru^
 ||olamovies.dad^
+||old.yummyani.me^
 ||olhosnatv.com.br^
 ||olympusxyz.com^
 ||omicronlab.com^
@@ -1228,6 +1233,7 @@
 ||rts.ch^
 ||rtvcplay.co^
 ||rtvs.sk^
+||ru.com-x.life^
 ||ru.yummyani.me^
 ||rukino.org^
 ||rulit.me^
