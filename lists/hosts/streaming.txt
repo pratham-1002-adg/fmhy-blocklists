@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1395
-# Updated: 2026-11-19 11:01:33 UTC
+# Total Rules: 1400
+# Updated: 2026-11-19 19:33:25 UTC
 
 0xdb.org
 123animehub.cc
@@ -159,6 +159,7 @@ aniwatch.rest
 aniwatchtv.cx
 aniwaves.ru
 anixo.cfd
+anixo.live
 anixo.online
 anixtv.in
 anixtv.us.cc
@@ -377,6 +378,7 @@ dramaday.me
 dramafren.org
 dramahood.mom
 dramanice.boo
+driftly.live
 duafile.net
 dulo.cx
 dulo.mov
@@ -514,6 +516,7 @@ gotaku.to
 gptsubtitler.com
 graph.org
 greasyfork.org
+greyboxtv.duckdns.org
 greyboxtv.vercel.app
 grindhousedatabase.com
 guides.viren070.me
@@ -945,6 +948,7 @@ restatus.me
 retroflix.org
 retrostrange.com
 revoldiv.com
+ridomovie.to
 ridomovies.is
 rips.cc
 rivestream.app
@@ -1363,6 +1367,7 @@ ww1.yesmovies.ag
 ww14.kissasian.com.lv
 wwv21.kissasian.com.lv
 www3.anikai.cc
+www4.fusionmovies.to
 xdaforums.com
 xdmovies.com
 xtreme-wrestling-downloads.com
