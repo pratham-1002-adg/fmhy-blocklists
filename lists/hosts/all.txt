@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6821
-# Updated: 2026-11-20 09:33:44 UTC
+# Total Rules: 6836
+# Updated: 2026-11-20 18:14:09 UTC
 
 0mag.net
 0x00-8191.com
@@ -237,6 +237,7 @@ albumoftheyear.org
 aldiwan.net
 alephone.lhowon.org
 alexandria.ucsb.edu
+alfehrest.org
 alfy.com
 alirezakj.com
 allaboutberlin.com
@@ -269,6 +270,7 @@ althub.co.za
 altmusictv.com
 altsource.by.lao.sb
 altstore.io
+amaradio.org
 amarboi.com
 amarbooks.org
 amazon.com
@@ -539,6 +541,7 @@ app.f-online.at
 app.kosmi.io
 app.kultivi.com
 app.litmaps.com
+app.radiancewallpapers.com
 app.readomni.com
 app.reve.com
 app.toolbaz.com
@@ -736,6 +739,7 @@ backrooms-wiki.wikidot.com
 bad.cards
 baechusquad.download
 baen.com
+baetoon.com
 baiscopedownloads.link
 baixelivros.com.br
 bajalogratis.com
@@ -1481,6 +1485,7 @@ debug-survivor.leek.io
 decentsamples.com
 decisionproblem.com
 decomp.dev
+decompbuddy.com
 decomps.fun
 decomps.samidy.com
 decrypt.34306.lol
@@ -2491,6 +2496,7 @@ goyabu.io
 goyabu.to
 gpop.io
 gptdemo.net
+gptrtv.site
 gptsubtitler.com
 graebor.itch.io
 grafikart.fr
@@ -2891,6 +2897,7 @@ jazznblues.club
 jdmfsm.info
 jellymar.io
 jeopardy.app
+jetfilmizle.app
 jetfilmizle.net
 jetholt.com
 jetpunk.com
@@ -3201,6 +3208,7 @@ lelscanfr.com
 lemmasoft.renai.us
 lemmy.world
 lemonade-server.ai
+lemovie.site
 lendrive.web.id
 lens.google
 lens.org
@@ -5105,6 +5113,7 @@ sagexpo.org
 saicord.com
 sakuranovel.id
 sakuraost.com
+sakurashop.st
 sakusaku.to
 salmosonline.com
 sama3y.net
@@ -5211,6 +5220,7 @@ sega-play.online
 segoideas.com
 seireshd.com
 seirsanduk.online
+selcukflix.app
 selcukflix.co
 selcukflix.com
 selenite.cc
@@ -5290,6 +5300,7 @@ sia.storage
 siarchives.si.edu
 sickw.com
 sideinstaller.net
+sideloading.net
 sideloadly.io
 sidequestvr.com
 siderite.dev
@@ -6219,6 +6230,7 @@ unogs.com
 unpackerr.zip
 unreal-instruments.wixsite.com
 unrealircd.org
+unreleased.world
 unsloth.ai
 up-next.dontwanttos.top
 upbeat.pw
@@ -6351,6 +6363,7 @@ vital.audio
 viu.tv
 viv.st
 vivaldi.com
+vivarium.st
 vivarium.su
 vivarium.wtf
 vivatorrents.org
@@ -6491,6 +6504,7 @@ web.nyora.xyz
 web.readest.com
 web.stremio.com
 web.watchargo.com
+web11206x.faselhdx.one
 web860x.faselhdx.life
 webarchiv.cz
 webdesignmuseum.org
@@ -6711,6 +6725,7 @@ xtreme-wrestling-downloads.com
 xwords-generator.de
 xyzstreams.st
 y8.com
+yabancidizi.news
 yabancidizi.so
 yablom.com
 yacreader.com

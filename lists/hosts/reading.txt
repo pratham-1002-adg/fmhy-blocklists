@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 901
-# Updated: 2026-11-20 09:33:44 UTC
+# Total Rules: 902
+# Updated: 2026-11-20 18:14:08 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -82,6 +82,7 @@ awakening-intuition.com
 azquotes.com
 backrooms-wiki.wikidot.com
 baen.com
+baetoon.com
 baka-tsuki.org
 batcave.biz
 bdebooks.com

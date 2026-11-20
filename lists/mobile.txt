@@ -2,8 +2,8 @@
 ! Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 546
-! Updated: 2026-11-20 09:33:44 UTC
+! Total Rules: 549
+! Updated: 2026-11-20 18:14:08 UTC
 
 ||4pda.to^
 ||5play.org^
@@ -27,6 +27,7 @@
 ||aimp.ru^
 ||altsource.by.lao.sb^
 ||altstore.io^
+||amaradio.org^
 ||an1.com^
 ||androeed.ru^
 ||androeed.store^
@@ -60,6 +61,7 @@
 ||app-mockup.com^
 ||app.accuweather.com^
 ||app.deutsia.com^
+||app.radiancewallpapers.com^
 ||app.wakingup.com^
 ||app.webadb.com^
 ||appdb.to^
@@ -452,6 +454,7 @@
 ||sia.storage^
 ||sickw.com^
 ||sideinstaller.net^
+||sideloading.net^
 ||sideloadly.io^
 ||sidestore.io^
 ||skeetsapp.com^

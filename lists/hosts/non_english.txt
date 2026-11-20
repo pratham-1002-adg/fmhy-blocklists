@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1661
-# Updated: 2026-11-20 09:33:44 UTC
+# Total Rules: 1667
+# Updated: 2026-11-20 18:14:09 UTC
 
 17db.pw
 1flex.org
@@ -86,6 +86,7 @@ alarabimag.com
 albalearning.com
 albkanale.com
 aldiwan.net
+alfehrest.org
 allaboutberlin.com
 allbanglaboi.com
 allbanglanewspaper.xyz
@@ -670,6 +671,7 @@ goodweb.net.cn
 goto10.fr
 goyabu.io
 goyabu.to
+gptrtv.site
 grafikart.fr
 granpirata.com
 granthagara.com
@@ -772,6 +774,7 @@ jakdojade.pl
 japan-paw.net
 japanpaw.com
 japantv.app
+jetfilmizle.app
 jetfilmizle.net
 jfc.org.il
 ji.taioan.org
@@ -1272,6 +1275,7 @@ seedhub.cc
 segoideas.com
 seireshd.com
 seirsanduk.online
+selcukflix.app
 selcukflix.co
 selcukflix.com
 selezen.club
@@ -1588,6 +1592,7 @@ wawacity.feedback
 wawacity.irish
 wawacity.press
 web-ace.jp
+web11206x.faselhdx.one
 web860x.faselhdx.life
 webarchiv.cz
 webdramaturkey2.com
@@ -1638,6 +1643,7 @@ xmanhua.com
 xrel.to
 xrysoi.pro
 xtrance.info
+yabancidizi.news
 yabancidizi.so
 yablom.com
 yam.ahwaktv.net

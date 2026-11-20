@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1092
-# Updated: 2026-11-20 09:33:44 UTC
+# Total Rules: 1094
+# Updated: 2026-11-20 18:14:08 UTC
 
 0x00-8191.com
 18xx.games
@@ -190,6 +190,7 @@ deathbyai.gg
 debug-survivor.leek.io
 decisionproblem.com
 decomp.dev
+decompbuddy.com
 decomps.fun
 decomps.samidy.com
 deeeep.io
@@ -848,6 +849,7 @@ rutracker.org
 ruwix.com
 rwmpelstilzchen.gitlab.io
 sagexpo.org
+sakurashop.st
 sandtris.com
 savefileconverter.com
 savigames.com

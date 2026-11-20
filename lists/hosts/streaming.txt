@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1400
-# Updated: 2026-11-20 09:33:44 UTC
+# Total Rules: 1402
+# Updated: 2026-11-20 18:14:08 UTC
 
 0xdb.org
 123animehub.cc
@@ -639,6 +639,7 @@ kuroko.cc
 kyren.moe
 latestmovies.net
 lecinemaclub.com
+lemovie.site
 letterboxd.com
 levidia.ch
 lfmx.app
@@ -1274,6 +1275,7 @@ vipleague.me
 vipleague.vg
 vipotv.com
 viv.st
+vivarium.st
 vivarium.su
 vivarium.wtf
 vknext.net
