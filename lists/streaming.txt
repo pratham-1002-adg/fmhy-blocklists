@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1402
-! Updated: 2026-11-22 01:28:34 UTC
+! Total Rules: 1408
+! Updated: 2026-11-22 08:37:35 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -443,6 +443,7 @@
 ||find-movie.info^
 ||fireani.me^
 ||flexget.com^
+||fli.cx^
 ||flickchart.com^
 ||flickmetrix.com^
 ||flickystream.mov^
@@ -512,6 +513,8 @@
 ||go.aftvnews.com^
 ||gogoanimez.cc^
 ||goplay.su^
+||gotaku.ch^
+||gotaku.li^
 ||gotaku.to^
 ||gptsubtitler.com^
 ||graph.org^
@@ -562,6 +565,7 @@
 ||icheckmovies.com^
 ||ifiarchiveplayer.ie^
 ||igmdb.com^
+||igotaku.to^
 ||images.defence.gov.au^
 ||imcdb.org^
 ||imdb.com^
@@ -708,6 +712,7 @@
 ||mkvbase.site^
 ||mkvdrama.net^
 ||mlblive.net^
+||mmareplayall.com^
 ||modlist.in^
 ||modsyndicate.com^
 ||moonflix.com^
@@ -1034,6 +1039,7 @@
 ||sport-video.org.ua^
 ||sportarr.net^
 ||sportontv.click^
+||sportontv.stream^
 ||sportsbite.org^
 ||sportsindx.st^
 ||sportsurge.st^

@@ -2,8 +2,8 @@
 ! Description: AI scrapers, unsanctioned bot mirrors, model rippers, and jailbreaks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 292
-! Updated: 2026-11-22 01:28:34 UTC
+! Total Rules: 294
+! Updated: 2026-11-22 08:37:35 UTC
 
 ||acapella-extractor.com^
 ||addons.mozilla.org^
@@ -148,6 +148,7 @@
 ||koboldai.com^
 ||kyutai.org^
 ||labs.google^
+||labs.microsoft.ai^
 ||labs.scale.com^
 ||lazypy.ro^
 ||learn.microsoft.com^
@@ -277,6 +278,7 @@
 ||tripstitch.app^
 ||tryingopen.com^
 ||tryspellbound.com^
+||tts.bewfon.top^
 ||ttswebui.com^
 ||ultimatevocalremover.com^
 ||underdog.ai^

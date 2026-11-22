@@ -2,8 +2,8 @@
 ! Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 549
-! Updated: 2026-11-22 01:28:34 UTC
+! Total Rules: 552
+! Updated: 2026-11-22 08:37:35 UTC
 
 ||4pda.to^
 ||5play.org^
@@ -308,6 +308,7 @@
 ||libreoffice.org^
 ||librera.mobi^
 ||libretube.dev^
+||limusic.app^
 ||lineageos.org^
 ||listy.is^
 ||liteapks.com^
@@ -398,6 +399,7 @@
 ||pdalife.com^
 ||pdalife.ru^
 ||phoenixpwn.com^
+||phwalls.com^
 ||picsart.com^
 ||pikatorrent.com^
 ||pingme.lmno.pk^
@@ -438,6 +440,7 @@
 ||rhythmweb.vercel.app^
 ||rikka-ai.com^
 ||rockmods.net^
+||rootshell.com^
 ||routinehub.co^
 ||ryuusei.moe^
 ||savpdfviewer.com^

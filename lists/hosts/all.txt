@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6836
-# Updated: 2026-11-22 01:28:34 UTC
+# Total Rules: 6850
+# Updated: 2026-11-22 08:37:35 UTC
 
 0mag.net
 0x00-8191.com
@@ -208,6 +208,7 @@ ahwaktv.beer
 ai-bingo.lipsumar.io
 aider.chat
 aidoku.app
+aidoru-online.me
 aidungeon.com
 aifindy.com
 aifreeforever.com
@@ -450,6 +451,7 @@ animezid.org
 animezone.pl
 animotvslash.org
 animoye.com
+animpow.com
 aninami.site
 anineko.to
 aninzb.moe
@@ -2103,6 +2105,7 @@ flemmix.fast
 flemmix.kim
 flemmix.party
 flexget.com
+fli.cx
 flibusta.i2p
 flibusta.is
 flibusta.site
@@ -2490,6 +2493,8 @@ googlesnakemods.com
 goose-docs.ai
 gopeed.com
 goplay.su
+gotaku.ch
+gotaku.li
 gotaku.to
 goto10.fr
 goyabu.io
@@ -2754,6 +2759,7 @@ ifwiki.org
 ifwizz.de
 igmdb.com
 igorski.nl
+igotaku.to
 ih8sn0w.com
 iheart.com
 iitk.ac.in
@@ -3161,6 +3167,7 @@ kyren.moe
 kyutai.org
 lab.zhs.moe
 labs.google
+labs.microsoft.ai
 labs.scale.com
 lacartoons.com
 lacuevadeguns.com
@@ -3536,6 +3543,7 @@ marbleblast.vaniverse.io
 marbleblastultra.randomityguy.me
 marcrobledo.com
 marines.mil
+mariocube.com
 mariopartylegacy.com
 marketfiyati.org.tr
 markiza.sk
@@ -3695,6 +3703,7 @@ mlat.uzh.ch
 mlblive.net
 mlcboard.com
 mlsbd.co
+mmareplayall.com
 mmdeploy.readthedocs.io
 mmnt.net
 mmnt.ru
@@ -4419,6 +4428,7 @@ phoenixpwn.com
 phonofilm.cc
 phonofilm.net
 photogpt.io
+phwalls.com
 pianobook.co.uk
 piaotia.com
 picard.musicbrainz.org
@@ -5044,6 +5054,7 @@ romspure.cc
 romstation.fr
 romstime.com
 rooms.xyz
+rootshell.com
 rosegardenmusic.com
 rottentomatoes.com
 roughly.is
@@ -5306,6 +5317,7 @@ sidequestvr.com
 siderite.dev
 sidestore.io
 sigil-ebook.com
+sign-lang.uni-hamburg.de
 signalmidi.app
 signbank.libras.ufsc.br
 signdict.org
@@ -5505,6 +5517,7 @@ sport-video.org.ua
 sport.tvp.pl
 sportarr.net
 sportontv.click
+sportontv.stream
 sportsbite.org
 sportsindx.st
 sportsurge.st
@@ -6107,6 +6120,7 @@ tsukuyomi.tv
 tsundoku.com.br
 ttkan.co
 ttorrent.org
+tts.bewfon.top
 ttswebui.com
 tubepelis.com
 tubitv.com
