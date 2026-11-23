@@ -3,7 +3,7 @@
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
 # Total Rules: 552
-# Updated: 2026-11-22 22:16:48 UTC
+# Updated: 2026-11-23 02:56:40 UTC
 
 4pda.to
 5play.org
