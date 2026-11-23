@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1668
-# Updated: 2026-11-23 02:56:41 UTC
+# Total Rules: 1670
+# Updated: 2026-11-23 11:50:45 UTC
 
 17db.pw
 1flex.org
@@ -435,6 +435,7 @@ diycraftsguide.com
 dizibox.live
 diziizle.now
 diziizle.tel
+diziizle.you
 dizilla.la
 dizilla.to
 dizipal1453.com
@@ -917,6 +918,7 @@ lupiteam.net
 luso-poemas.net
 m.filmcity12.com
 m.mojevideo.sk
+m.myseed.tv
 m440.in
 m80.pt
 madrotter-treasure-hunt.blogspot.com

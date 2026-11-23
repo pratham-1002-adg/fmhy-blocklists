@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6850
-# Updated: 2026-11-23 02:56:41 UTC
+# Total Rules: 6866
+# Updated: 2026-11-23 11:50:45 UTC
 
 0mag.net
 0x00-8191.com
@@ -540,6 +540,7 @@ app.chillhop.com
 app.deutsia.com
 app.dimensions.ai
 app.f-online.at
+app.hashtagiptv.com
 app.kosmi.io
 app.kultivi.com
 app.litmaps.com
@@ -1070,6 +1071,7 @@ ccmixter.org
 ccrma.stanford.edu
 cd.textfiles.com
 cdisplayex.com
+cdromance.com
 cdromance.org
 celenity.dev
 celsoazevedo.com
@@ -1194,6 +1196,7 @@ cinenerdle.app
 cinepro.fstream.app
 cineru.lk
 cineruv.website
+cineshine.org
 cinestream.info
 cinestream.kje.us
 cinestream.studio
@@ -1591,6 +1594,7 @@ diycraftsguide.com
 dizibox.live
 diziizle.now
 diziizle.tel
+diziizle.you
 dizilla.la
 dizilla.to
 dizipal1453.com
@@ -2340,6 +2344,7 @@ game-box.win
 game-game.com
 game.theaestheticcity.com
 gamebanana.com
+gamebounty.st
 gamebounty.world
 gamedle.wtf
 gameflare.com
@@ -2830,6 +2835,7 @@ ioquake3.org
 ios-repo-updates.com
 ios.cfw.guide
 iosapps.litten.ca
+iosboom.com
 iosvizor.com
 ip-webcam.appspot.com
 ip.ontivi.net
@@ -3179,6 +3185,7 @@ languageguessr.io
 last.fm
 lastfm-iceberg.dawdle.space
 lastfmstats.com
+lastwave.clashprojects.in
 latabernadelcangrejo.eu
 latanime.org
 latestmovies.net
@@ -3432,6 +3439,7 @@ m-zone.cc
 m-zone.org
 m.filmcity12.com
 m.mojevideo.sk
+m.myseed.tv
 m210.duke4.net
 m2box.org
 m2v.ru
@@ -4019,6 +4027,7 @@ nikse.dk
 nima4k.org
 ninateka.pl
 ninjakiwi.com
+ninlive.com
 nintendoroms.xyz
 nippleflix.com
 nirsoft.net
@@ -4172,6 +4181,7 @@ olamovies.dad
 old-games.com
 old-games.ru
 old.repair.wiki
+old.way2movies.vip
 old.yummyani.me
 oldcomicsworld.blogspot.com
 oldergeeks.com
@@ -4917,6 +4927,7 @@ reedstreams.st
 reedstreams.to
 reedstreams.watch
 reedstreams.ws
+reeflix.st
 reelix.ac
 reelscary.com
 reelzone.icu
@@ -5561,6 +5572,7 @@ ssega.com
 ssrmovies.blue
 ssrmovies.com
 ssrn.com
+sstreamsports99.is
 stability.taxidev.me
 stableaudio.com
 stablehorde.net
@@ -5638,6 +5650,7 @@ streamkiste.bid
 streamkiste.taxi
 streamo.pro
 streamo.st
+streamsports99.is
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -6055,6 +6068,7 @@ toustream.xyz
 toutiao.com
 tr4ker.net
 trace.moe
+tracker.yedits.xyz
 trackercontrol.org
 trackerpathways.org
 trackersignup.org
@@ -6502,6 +6516,7 @@ wawacity.feedback
 wawacity.irish
 wawacity.press
 way2movies.live
+way2movies.vip
 wco.tv
 wcoanimedub.tv
 wcoanimesub.tv
@@ -6543,6 +6558,7 @@ webtorrent.io
 weebcentral.com
 weebtube.cc
 weibomiaopai.com
+welib.gl
 welib.org
 welib.st
 wen-ware.com

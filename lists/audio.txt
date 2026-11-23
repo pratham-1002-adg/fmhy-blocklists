@@ -2,8 +2,8 @@
 ! Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 962
-! Updated: 2026-11-23 02:56:41 UTC
+! Total Rules: 965
+! Updated: 2026-11-23 11:50:45 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -532,6 +532,7 @@
 ||nfodb.net.ru^
 ||nicotine-plus.org^
 ||nightride.fm^
+||ninlive.com^
 ||nodata.tv^
 ||noisecraft.app^
 ||noiseloop.app^
@@ -585,6 +586,7 @@
 ||paradiseofgaragecomps.blogspot.com^
 ||pc.joshw.info^
 ||petersalomonsen.com^
+||pflix.net^
 ||phish.in^
 ||pianobook.co.uk^
 ||picard.musicbrainz.org^
@@ -853,6 +855,7 @@
 ||tooldriveproject.net^
 ||topdjmixes.com^
 ||touhoudb.com^
+||tracker.yedits.xyz^
 ||trackid.net^
 ||tracktion.com^
 ||trancebase.fm^

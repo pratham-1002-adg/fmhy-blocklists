@@ -2,8 +2,8 @@
 # Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1095
-# Updated: 2026-11-23 02:56:40 UTC
+# Total Rules: 1097
+# Updated: 2026-11-23 11:50:45 UTC
 
 0x00-8191.com
 18xx.games
@@ -114,6 +114,7 @@ cardzmania.com
 cataclysmdda.org
 catclass.net
 catfishing.net
+cdromance.com
 cdromance.org
 cemetech.net
 cemu.cfw.guide
@@ -332,6 +333,7 @@ game-box.win
 game-game.com
 game.theaestheticcity.com
 gamebanana.com
+gamebounty.st
 gamebounty.world
 gamedle.wtf
 gameflare.com

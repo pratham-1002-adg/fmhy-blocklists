@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1408
-# Updated: 2026-11-23 02:56:40 UTC
+# Total Rules: 1415
+# Updated: 2026-11-23 11:50:45 UTC
 
 0xdb.org
 123animehub.cc
@@ -171,6 +171,7 @@ anymex.vercel.app
 apexmovies.net
 app-lgwebos.pluto.tv
 app.asbplayer.dev
+app.hashtagiptv.com
 app.kosmi.io
 app.trakt.tv
 apps.apple.com
@@ -288,6 +289,7 @@ cinemoas.me
 cinemove.cc
 cinepro.fstream.app
 cineruv.website
+cineshine.org
 cinestream.kje.us
 cinestream.studio
 cinestream2.kje.us
@@ -827,6 +829,7 @@ og.trakt.tv
 oha.to
 ok.ru
 olamovies.dad
+old.way2movies.vip
 olympicstreams.im
 olympicweb.me
 omega.gg
@@ -940,6 +943,7 @@ reedstreams.st
 reedstreams.to
 reedstreams.watch
 reedstreams.ws
+reeflix.st
 reelix.ac
 reelscary.com
 reelzone.icu
@@ -1049,6 +1053,7 @@ squidtv.net
 srstop.link
 ssrmovies.blue
 ssrmovies.com
+sstreamsports99.is
 stability.taxidev.me
 stagatv.com
 starringthecomputer.com
@@ -1087,6 +1092,7 @@ streamingunity.fun
 streamingunity.vip
 streamo.pro
 streamo.st
+streamsports99.is
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1328,6 +1334,7 @@ watchtvs.live
 watchwave.pro
 watchwrestling.ae
 way2movies.live
+way2movies.vip
 wco.tv
 wcoanimedub.tv
 wcoanimesub.tv

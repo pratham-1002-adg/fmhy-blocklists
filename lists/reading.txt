@@ -2,8 +2,8 @@
 ! Description: E-books, textbooks, comics, manga, light novels, and magazines.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 903
-! Updated: 2026-11-23 02:56:40 UTC
+! Total Rules: 904
+! Updated: 2026-11-23 11:50:45 UTC
 
 ||1lib.sk^
 ||2012books.lardbucket.org^
@@ -854,6 +854,7 @@
 ||webnovel.com^
 ||webtoons.com^
 ||weebcentral.com^
+||welib.gl^
 ||welib.org^
 ||welib.st^
 ||whichbook.net^
