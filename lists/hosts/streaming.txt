@@ -2,8 +2,8 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1415
-# Updated: 2026-11-23 23:15:51 UTC
+# Total Rules: 1417
+# Updated: 2026-11-24 07:00:24 UTC
 
 0xdb.org
 123animehub.cc
@@ -65,6 +65,7 @@ allmovie.com
 allthebestfights.com
 allwrestling24.com
 allyoucanwatch.net
+aloso.vercel.app
 amazon.com
 amberflix.xyz
 androidtv-guide.com
@@ -862,6 +863,7 @@ phi-phenomenon.org
 phland.org
 phonofilm.cc
 phonofilm.net
+pieprime.cc
 pikahd.co
 piratexplay.cc
 piratexplay.com

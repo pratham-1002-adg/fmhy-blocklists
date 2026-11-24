@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1670
-# Updated: 2026-11-23 23:15:51 UTC
+# Total Rules: 1674
+# Updated: 2026-11-24 07:00:24 UTC
 
 17db.pw
 1flex.org
@@ -619,6 +619,7 @@ foulabook.com
 fourtoutici.cc
 fr.downmagaz.net
 franime.fr
+freejapanesefont.com
 freekino.net
 freekoreanfont.com
 freelibros.net
@@ -1435,6 +1436,7 @@ th-sl.com
 themoviesboss.fans
 theses.fr
 thivien.net
+threads.com
 thuvienphapluat.vn
 thvli.vn
 tieulun.hd.free.fr
@@ -1471,6 +1473,7 @@ toutiao.com
 tr4ker.net
 tramphim.app
 tramphim.tech
+tramphim.wtf
 tramphim4.org
 tramphim5.org
 tranimeizle.co
@@ -1579,6 +1582,7 @@ voxfilmeonline.biz
 voz.vn
 vpn.maximkatz.com
 vtudien.com
+vuonphim.com
 vysetv.cc
 w140.zona.plus
 w2.animeko.ws
