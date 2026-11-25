@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1674
-! Updated: 2026-11-25 12:20:45 UTC
+! Total Rules: 1678
+! Updated: 2026-11-25 21:53:04 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -837,6 +837,7 @@
 ||kirmalk.com^
 ||kitab-evi.com^
 ||kkphim.com^
+||kkphim2.com^
 ||klikxxi.art^
 ||klikxxi.com^
 ||klikxxi.shop^
@@ -1362,6 +1363,7 @@
 ||streaming-integral.top^
 ||streaming-integrale.com^
 ||streaming.cineverse.com^
+||streamingcommunityz.mov^
 ||streamingcommunityz.photos^
 ||streamingcommunityz.red^
 ||streamingunity.dog^
@@ -1472,6 +1474,7 @@
 ||toutiao.com^
 ||tr4ker.net^
 ||tramphim.app^
+||tramphim.beer^
 ||tramphim.tech^
 ||tramphim.wtf^
 ||tramphim4.org^
@@ -1575,6 +1578,7 @@
 ||vod.tvp.pl^
 ||voicevox.hiroshiba.jp^
 ||voir-anime.to^
+||voiranime.cx^
 ||voody-online.com^
 ||voratoon.id^
 ||vostfree.ws^

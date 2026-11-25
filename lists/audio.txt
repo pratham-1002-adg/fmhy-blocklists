@@ -2,8 +2,8 @@
 ! Description: Music streaming, lossless downloads, rippers, podcasts, and audiobooks.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 965
-! Updated: 2026-11-25 12:20:45 UTC
+! Total Rules: 967
+! Updated: 2026-11-25 21:53:04 UTC
 
 ||1000flights.blogspot.com^
 ||1001albumsgenerator.com^
@@ -317,6 +317,7 @@
 ||hayasaka.8man.in^
 ||hayasaka.vercel.app^
 ||hdmixtapes.org^
+||hearhear.fm^
 ||heavymetalrarities.com^
 ||help.iheart.com^
 ||hiphopa.net^
@@ -456,6 +457,7 @@
 ||metal-archives.com^
 ||metal.iplay.ro^
 ||metalminos.net^
+||metrolist.meowery.eu^
 ||microsoft.com^
 ||midi-recorder.web.app^
 ||midicities.com^

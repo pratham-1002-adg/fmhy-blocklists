@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1417
-! Updated: 2026-11-25 12:20:45 UTC
+! Total Rules: 1431
+! Updated: 2026-11-25 21:53:04 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -110,6 +110,7 @@
 ||anime.ameo.dev^
 ||anime.nexus^
 ||anime.uniquestream.net^
+||anime.way2movies.vip^
 ||anime2enjoy.com^
 ||anime7.download^
 ||animecharactersdatabase.com^
@@ -147,6 +148,7 @@
 ||aninami.site^
 ||anineko.to^
 ||anisearch.com^
+||anisnatch.cz^
 ||anisnatch.p1y.top^
 ||anisnatch.site^
 ||anisnatch.top^
@@ -159,6 +161,7 @@
 ||aniwatch.rest^
 ||aniwatchtv.cx^
 ||aniwaves.ru^
+||aniwaves.tv^
 ||anixo.cfd^
 ||anixo.live^
 ||anixo.online^
@@ -231,6 +234,7 @@
 ||bilibili.tv^
 ||bingebang.club^
 ||bingebang.st^
+||bingebang.sx^
 ||bingebang.tv^
 ||bingebox.ac^
 ||bingeclock.com^
@@ -263,6 +267,7 @@
 ||cine-nest-nine.vercel.app^
 ||cine.su^
 ||cineapse.net^
+||cinebros.net^
 ||cineby.gdn^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -413,6 +418,7 @@
 ||f1fullraces.com^
 ||f1live.dpdns.org^
 ||falconstreams.app^
+||falconstreams.st^
 ||fameboxd.com^
 ||famelack.com^
 ||fanedit.org^
@@ -421,6 +427,7 @@
 ||fawesome.tv^
 ||fbstream.cc^
 ||fbstream.is^
+||fbstream.st^
 ||fcast.org^
 ||fctv33.lat^
 ||fctv33go.hair^
@@ -452,6 +459,7 @@
 ||flickystream.mov^
 ||fliker.freebuff.app^
 ||flikhub.net^
+||flive.cc.cd^
 ||flive.dpdns.org^
 ||flixer.cx^
 ||flixer.gd^
@@ -472,6 +480,7 @@
 ||flyflix.cc^
 ||flyflix.net^
 ||flystream.net^
+||flystream.pk^
 ||fmfau.com^
 ||footagefarm.com^
 ||footballia.eu^
@@ -599,6 +608,7 @@
 ||kaa.lt^
 ||kaitotv.com^
 ||kaitovault.com^
+||kaizoku.site^
 ||kanopy.com^
 ||kaptain.stream^
 ||katworld.net^
@@ -831,6 +841,7 @@
 ||ok.ru^
 ||olamovies.dad^
 ||old.way2movies.vip^
+||olympiclive.me^
 ||olympicstreams.im^
 ||olympicweb.me^
 ||omega.gg^
@@ -1204,6 +1215,7 @@
 ||tokyotosho.info^
 ||tokyvideo.com^
 ||tom-moroney.com^
+||tonitrus.online^
 ||tonkacine.watch^
 ||toonamiaftermath.com^
 ||toontales.net^
@@ -1285,10 +1297,12 @@
 ||vidflix.live^
 ||vidplay.to^
 ||vimeo.com^
+||vipleague.li^
 ||vipleague.me^
 ||vipleague.vg^
 ||vipotv.com^
 ||viv.st^
+||vivarium.cx^
 ||vivarium.st^
 ||vivarium.su^
 ||vivarium.wtf^

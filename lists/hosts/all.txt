@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6872
-# Updated: 2026-11-25 12:20:45 UTC
+# Total Rules: 6895
+# Updated: 2026-11-25 21:53:04 UTC
 
 0mag.net
 0x00-8191.com
@@ -365,6 +365,7 @@ anime-stats.net
 anime.ameo.dev
 anime.nexus
 anime.uniquestream.net
+anime.way2movies.vip
 anime1.me
 anime2enjoy.com
 anime3rb.com
@@ -459,6 +460,7 @@ aninzb.moe
 aniplaylist.com
 aniplus.co
 anisearch.com
+anisnatch.cz
 anisnatch.p1y.top
 anisnatch.site
 anisnatch.top
@@ -474,6 +476,7 @@ aniwatch.icu
 aniwatch.rest
 aniwatchtv.cx
 aniwaves.ru
+aniwaves.tv
 aniworld.domains
 aniworld.to
 anixart-app.com
@@ -619,6 +622,7 @@ armaell-library.net
 armconverter.com
 armorer.io
 armorgames.com
+armory-machine.whipple.ninja
 armypubs.army.mil
 arquivo.pt
 arrowtv.net
@@ -865,6 +869,7 @@ bin.disroot.org
 binaural-audio.slite.page
 bingebang.club
 bingebang.st
+bingebang.sx
 bingebang.tv
 bingebox.ac
 bingeclock.com
@@ -1157,6 +1162,7 @@ cine24h.online
 cineapse.net
 cineaste.co.kr
 cineblog01.red
+cinebros.net
 cineby.gdn
 cinebytv.com
 cinecalidad.am
@@ -1973,6 +1979,7 @@ fakeyou.com
 fakinthefunk.net
 falcon-bms.com
 falconstreams.app
+falconstreams.st
 fallenlondon.com
 fameboxd.com
 famelack.com
@@ -2005,6 +2012,7 @@ fawesome.tv
 fbreader.org
 fbstream.cc
 fbstream.is
+fbstream.st
 fcast.org
 fcpic.nesbbs.com
 fctv33.lat
@@ -2127,6 +2135,7 @@ flikhub.net
 flipax2.me
 fliphtml5.aivaded.com
 fliphtml5.com
+flive.cc.cd
 flive.dpdns.org
 flix.quest
 flixer.cx
@@ -2166,6 +2175,7 @@ flyflix.cc
 flyflix.net
 flyordie.com
 flystream.net
+flystream.pk
 fmd-foss.org
 fmfau.com
 fmstream.org
@@ -2623,6 +2633,7 @@ hdmovieshub.fyi
 hdmoviez.name
 hdmozi.hu
 hdtoday.com.tr
+hearhear.fm
 heavenmanga.com
 heavymetalrarities.com
 hellogithub.com
@@ -2981,6 +2992,7 @@ kaggle.com
 kagi.com
 kaitotv.com
 kaitovault.com
+kaizoku.site
 kakuro-puzzle.online
 kallax.io
 kangxizidian.com
@@ -3093,6 +3105,7 @@ kitsu.io
 kitsunekko.net
 kittensgame.com
 kkphim.com
+kkphim2.com
 klikxxi.art
 klikxxi.com
 klikxxi.shop
@@ -3246,6 +3259,7 @@ liberationschool.org
 liberliber.it
 libgen.bz
 libgen.gl
+libgen.la
 libgen.li
 libgen.vg
 libib.com
@@ -3253,6 +3267,7 @@ libking.ru
 library.cufiy.net
 library.land
 libraryextension.com
+librarygenesis.net
 libraryoferis.org
 libraryofshortstories.com
 librarysearch.gre.ac.uk
@@ -4196,6 +4211,7 @@ oldversion.com
 olhosnatv.com.br
 oll.libertyfund.org
 ollama.com
+olympiclive.me
 olympicstreams.im
 olympicweb.me
 olympusxyz.com
@@ -4429,6 +4445,7 @@ pgdp.net
 pgun.rilisoft.info
 phantomflix.net
 phi-phenomenon.org
+phillm.net
 philological.cal.bham.ac.uk
 philome.la
 philschatz.com
@@ -5643,6 +5660,7 @@ streamic.st
 streaming-integral.top
 streaming-integrale.com
 streaming.cineverse.com
+streamingcommunityz.mov
 streamingcommunityz.photos
 streamingcommunityz.red
 streamingunity.dog
@@ -6011,6 +6029,7 @@ tone.yojihan.com
 tone3000.com
 toneandwave.blogspot.com
 tones.wolfram.com
+tonitrus.online
 tonkacine.watch
 tonocracy.com
 tool.lu
@@ -6082,6 +6101,7 @@ tracktion.com
 trailerpunk.com
 trakt.tv
 tramphim.app
+tramphim.beer
 tramphim.tech
 tramphim.wtf
 tramphim4.org
@@ -6378,6 +6398,7 @@ vimeo.com
 vimm.net
 vincenzoscarpa.it
 vinylengine.com
+vipleague.li
 vipleague.me
 vipleague.vg
 vipotv.com
@@ -6396,6 +6417,7 @@ vital.audio
 viu.tv
 viv.st
 vivaldi.com
+vivarium.cx
 vivarium.st
 vivarium.su
 vivarium.wtf
@@ -6426,6 +6448,7 @@ voicevox.hiroshiba.jp
 voicy.network
 voidclusters.wikidot.com
 voir-anime.to
+voiranime.cx
 vole.wtf
 volta-music.com
 volume.com

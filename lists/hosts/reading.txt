@@ -2,8 +2,8 @@
 # Description: E-books, textbooks, comics, manga, light novels, and magazines.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 904
-# Updated: 2026-11-25 12:20:45 UTC
+# Total Rules: 907
+# Updated: 2026-11-25 21:53:03 UTC
 
 1lib.sk
 2012books.lardbucket.org
@@ -428,11 +428,13 @@ liberatedmanuals.com
 liberationschool.org
 libgen.bz
 libgen.gl
+libgen.la
 libgen.li
 libgen.vg
 libib.com
 library.land
 libraryextension.com
+librarygenesis.net
 libraryoferis.org
 libraryofshortstories.com
 librarysearch.gre.ac.uk
@@ -631,6 +633,7 @@ pdfroom.com
 perseus.tufts.edu
 personal.math.ubc.ca
 pgdp.net
+phillm.net
 philological.cal.bham.ac.uk
 philschatz.com
 pidantuan.com
