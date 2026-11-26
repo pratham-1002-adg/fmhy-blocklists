@@ -2,8 +2,8 @@
 ! Description: Non-English and regional piracy, streaming, and media portals.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1678
-! Updated: 2026-11-25 21:53:04 UTC
+! Total Rules: 1679
+! Updated: 2026-11-26 03:54:06 UTC
 
 ||17db.pw^
 ||1flex.org^
@@ -707,6 +707,7 @@
 ||hayasaka.vercel.app^
 ||hcmut-courseware.org^
 ||hd-source.to^
+||hd1.xemtv.net^
 ||hdfilmcehennemi.nl^
 ||hdhub4u.bi^
 ||hdhub4u.ec^

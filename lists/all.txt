@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6895
-! Updated: 2026-11-25 21:53:04 UTC
+! Total Rules: 6898
+! Updated: 2026-11-26 03:54:06 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -777,6 +777,7 @@
 ||barelystarted.miruro.tv^
 ||basementx.lol^
 ||basementx.pro^
+||basementx.rest^
 ||basementx.xyz^
 ||bash.tv^
 ||basicpitch.spotify.com^
@@ -2622,6 +2623,7 @@
 ||hbpms.blogspot.com^
 ||hcmut-courseware.org^
 ||hd-source.to^
+||hd1.xemtv.net^
 ||hdclump.com^
 ||hdencode.org^
 ||hdfilmcehennemi.nl^
@@ -3580,6 +3582,7 @@
 ||maslanka.app^
 ||masonicshop.com^
 ||masswerk.at^
+||matchora.st^
 ||matchora.to^
 ||matchsimulator.com^
 ||mateo.uni-mannheim.de^

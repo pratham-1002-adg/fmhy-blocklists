@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1431
-! Updated: 2026-11-25 21:53:04 UTC
+! Total Rules: 1433
+! Updated: 2026-11-26 03:54:06 UTC
 
 ||0xdb.org^
 ||123animehub.cc^
@@ -213,6 +213,7 @@
 ||barelystarted.miruro.tv^
 ||basementx.lol^
 ||basementx.pro^
+||basementx.rest^
 ||basementx.xyz^
 ||basketball-video.com^
 ||basketballreplays.net^
@@ -696,6 +697,7 @@
 ||mainportal66.com^
 ||mappl.tv^
 ||mapple.fun^
+||matchora.st^
 ||matchora.to^
 ||mdblist.com^
 ||medeberiya.net^
