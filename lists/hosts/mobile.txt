@@ -2,8 +2,8 @@
 # Description: Modded Android APKs, sideloading stores, iOS IPA repositories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 554
-# Updated: 2026-11-27 04:43:20 UTC
+# Total Rules: 555
+# Updated: 2026-11-27 14:37:28 UTC
 
 4pda.to
 5play.org
@@ -327,6 +327,7 @@ matrix.to
 meditofoundation.org
 memuplay.com
 metactrl.com
+metrolist.cc
 metrolist.meowery.eu
 michelf.ca
 microsoft.com

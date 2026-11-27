@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1679
-# Updated: 2026-11-27 04:43:20 UTC
+# Total Rules: 1680
+# Updated: 2026-11-27 14:37:28 UTC
 
 17db.pw
 1flex.org
@@ -22,6 +22,7 @@
 1tamilyogi.ro
 1tube.org
 1vegamovies.baby
+1waves.gd
 1xanimes.com
 21dzk.l.u-tokyo.ac.jp
 233heji.com

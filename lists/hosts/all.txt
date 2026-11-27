@@ -2,8 +2,8 @@
 # Description: Complete merged and deduplicated rules from all FMHY categories.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources
-# Total Rules: 6898
-# Updated: 2026-11-27 04:43:20 UTC
+# Total Rules: 6918
+# Updated: 2026-11-27 14:37:28 UTC
 
 0mag.net
 0x00-8191.com
@@ -14,6 +14,7 @@
 101soundboards.com
 1024teradl.com
 10kdrummachines.com
+111flix.net
 120minutes.org
 123animehub.cc
 123movie.app
@@ -52,6 +53,7 @@
 1trance.org
 1tube.org
 1vegamovies.baby
+1waves.gd
 1xanimes.com
 2012books.lardbucket.org
 21dzk.l.u-tokyo.ac.jp
@@ -216,6 +218,7 @@ aifreevideo.com
 aigallery.app
 aimath.org
 aimp.ru
+aiostreams.org
 aireleasetracker.com
 airwindows.com
 aistudio.tencent.com
@@ -310,12 +313,14 @@ androz2091.fr
 ani-cli-arabic.dev
 ani.nz
 ani.pm
+ani.vg
 anianimax.dpdns.org
 anibase.net
 anica.jp
 anichan.net
 anichan.to
 anichart.net
+anicine.live
 anicine.sbs
 anicine.xyz
 aniclipse.com
@@ -459,6 +464,8 @@ anineko.to
 aninzb.moe
 aniplaylist.com
 aniplus.co
+anipm.pk
+anipm.tv
 anisearch.com
 anisnatch.cz
 anisnatch.p1y.top
@@ -775,6 +782,7 @@ baozimh.com
 baozimh.one
 baozimh.org
 barelystarted.miruro.tv
+basement.rest
 basementx.lol
 basementx.pro
 basementx.rest
@@ -1028,6 +1036,7 @@ cadenza.org
 cagematch.net
 cah4e3.shedevr.org.ru
 calameo.com
+calf-studio-gear.org
 calibre-ebook.com
 calidadtorrent.com
 callofliberty.fr
@@ -2017,6 +2026,7 @@ fbstream.st
 fcast.org
 fcpic.nesbbs.com
 fctv33.lat
+fctv33go.beauty
 fctv33go.hair
 fctv33hd.bar
 fctv33hd.co
@@ -2172,6 +2182,7 @@ fluxer.gg
 fluxradios.com
 fluxtv.cc
 fluxtv.co.uk
+flyflix.app
 flyflix.cc
 flyflix.net
 flyordie.com
@@ -2231,6 +2242,7 @@ fprime.at
 fr.downmagaz.net
 framed.wtf
 framemovie.online
+framextv.cc
 framextv.tech
 framextv.xyz
 franime.fr
@@ -2279,6 +2291,7 @@ freesound.org
 freesoundslibrary.com
 freestreams-live1a.pk
 freestreams-live1h.pk
+freestreams-live1j.pk
 freesub.live
 freetogame.com
 freetouse.com
@@ -3650,6 +3663,7 @@ metal.iplay.ro
 metalminos.net
 metazooa.com
 metroidconstruction.com
+metrolist.cc
 metrolist.meowery.eu
 metroskop.cz
 mexicantrain.online
@@ -4783,6 +4797,7 @@ qinkan.net
 qiufengshuwu.com
 qpmegathread.top
 qqszz.net
+qtractor.org
 quackle.org
 quantrimang.com
 quanxue.cn
@@ -5039,8 +5054,11 @@ rips.club
 ristoanime.com
 ristoanime.me
 rivestream.app
+rivestream.cz
+rivestream.pro
 rivestream.pw
 rivestream.ru
+rivestream.st
 rivestream.vip
 rivestream.win
 rivo.st
@@ -5666,6 +5684,7 @@ streaming.cineverse.com
 streamingcommunityz.mov
 streamingcommunityz.photos
 streamingcommunityz.red
+streamingunity.day
 streamingunity.dog
 streamingunity.fun
 streamingunity.vip
@@ -6265,6 +6284,7 @@ ultimedia.com
 umdmusic.com
 ume.to
 un4seen.com
+uncannyxmen.net
 uncensoredlibrary.com
 unchartify.com
 unconsentingmedia.org

@@ -2,10 +2,11 @@
 # Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1433
-# Updated: 2026-11-27 04:43:20 UTC
+# Total Rules: 1449
+# Updated: 2026-11-27 14:37:28 UTC
 
 0xdb.org
+111flix.net
 123animehub.cc
 123movie.app
 123moviesfree.club
@@ -20,6 +21,7 @@
 1shows.org
 1tube.org
 1vegamovies.baby
+1waves.gd
 2dhive.com
 2ecbbd610840-trakt.baby-beamup.club
 321movies.xyz
@@ -59,6 +61,7 @@ afterdusk.app
 aftvnews.com
 ageratingjuju.com
 ahdaf-kooora.net
+aiostreams.org
 allaboutmovies.xyz
 allmanga.to
 allmovie.com
@@ -71,12 +74,14 @@ amberflix.xyz
 androidtv-guide.com
 ani.nz
 ani.pm
+ani.vg
 anianimax.dpdns.org
 anibase.net
 anica.jp
 anichan.net
 anichan.to
 anichart.net
+anicine.live
 anicine.sbs
 anicine.xyz
 aniclipse.com
@@ -147,6 +152,8 @@ animey.to
 animotvslash.org
 aninami.site
 anineko.to
+anipm.pk
+anipm.tv
 anisearch.com
 anisnatch.cz
 anisnatch.p1y.top
@@ -211,6 +218,7 @@ baked.live
 banime.dedyn.io
 banime.top
 barelystarted.miruro.tv
+basement.rest
 basementx.lol
 basementx.pro
 basementx.rest
@@ -431,6 +439,7 @@ fbstream.is
 fbstream.st
 fcast.org
 fctv33.lat
+fctv33go.beauty
 fctv33go.hair
 fctv33hd.bar
 fctv33hd.co
@@ -478,6 +487,7 @@ flixzy.mooo.com
 flnk.fun
 fluxtv.cc
 fluxtv.co.uk
+flyflix.app
 flyflix.cc
 flyflix.net
 flystream.net
@@ -491,6 +501,7 @@ footreplays.com
 foundfootagecritic.com
 fprime.at
 framemovie.online
+framextv.cc
 framextv.tech
 framextv.xyz
 free-movies.to
@@ -500,6 +511,7 @@ freeintertv.com
 freekz.to
 freestreams-live1a.pk
 freestreams-live1h.pk
+freestreams-live1j.pk
 freesub.live
 freetvgarden.com
 freetvz.com
@@ -977,8 +989,11 @@ ridomovie.to
 ridomovies.is
 rips.cc
 rivestream.app
+rivestream.cz
+rivestream.pro
 rivestream.pw
 rivestream.ru
+rivestream.st
 rivestream.vip
 rivestream.win
 rivo.st
@@ -1102,6 +1117,7 @@ streamgoblin.cc
 streamgoblin.com
 streamic.st
 streaming.cineverse.com
+streamingunity.day
 streamingunity.dog
 streamingunity.fun
 streamingunity.vip
