@@ -2,8 +2,8 @@
 # Description: Non-English and regional piracy, streaming, and media portals.
 # Syntax: Plain Domain / Hosts (personalDNSfilter, Pi-hole)
 # Generated automatically from FMHY upstream sources (Accumulative)
-# Total Rules: 1680
-# Updated: 2026-11-28 04:49:38 UTC
+# Total Rules: 1681
+# Updated: 2026-11-28 13:49:19 UTC
 
 17db.pw
 1flex.org
@@ -160,6 +160,7 @@ animeunity.co
 animeunity.so
 animevietsub.bid
 animevietsub.link
+animevietsub.zone
 animeworld.ac
 animeworlditalia.com
 animexx.de

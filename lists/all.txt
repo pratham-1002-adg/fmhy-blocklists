@@ -2,8 +2,8 @@
 ! Description: Complete merged and deduplicated rules from all FMHY categories.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 6918
-! Updated: 2026-11-28 04:49:38 UTC
+! Total Rules: 6929
+! Updated: 2026-11-28 13:49:19 UTC
 
 ||0mag.net^
 ||0x00-8191.com^
@@ -337,6 +337,7 @@
 ||anifilm.pro^
 ||aniflix.uno^
 ||anify.to^
+||anigato.lol^
 ||aniguessr.com^
 ||anihosts.xyz^
 ||anihq.cc^
@@ -444,6 +445,7 @@
 ||animeunity.so^
 ||animevietsub.bid^
 ||animevietsub.link^
+||animevietsub.zone^
 ||animevilla.in^
 ||animevilla.org^
 ||animeworld.ac^
@@ -1074,6 +1076,7 @@
 ||catatannusantara.com^
 ||catclass.net^
 ||catfishing.net^
+||catflix.mov^
 ||catima.app^
 ||catocr.com^
 ||cb01uno.cyou^
@@ -1723,6 +1726,7 @@
 ||dramaday.me^
 ||dramafren.org^
 ||dramahood.mom^
+||dramahq.tv^
 ||dramanice.boo^
 ||dramaq.xyz^
 ||draw.audio^
@@ -3290,6 +3294,7 @@
 ||librarything.com^
 ||libre.fm^
 ||librechat.ai^
+||librecorsa.org^
 ||libreflix.org^
 ||libregamewiki.org^
 ||libremdb.iket.me^
@@ -4603,6 +4608,8 @@
 ||plus.nasa.gov^
 ||pluto.tv^
 ||pluvior.com^
+||plyx.cc^
+||pm2g.srht.site^
 ||pmc.ncbi.nlm.nih.gov^
 ||pocketcasts.com^
 ||pocketpal.dev^
@@ -4819,6 +4826,7 @@
 ||rachacuca.com.br^
 ||racing.pmnd.rs^
 ||racinglap.net^
+||racz.to^
 ||radarr.video^
 ||raddio.net^
 ||radicalscatters.unl.edu^
@@ -5249,6 +5257,7 @@
 ||scribd.vpdfs.com^
 ||scribdvpdf.blogspot.com^
 ||scriptable.app^
+||scriptblade.com^
 ||scriptcat.org^
 ||scripts-onscreen.com^
 ||scripts.com^
@@ -5256,6 +5265,7 @@
 ||scrobblerad.io^
 ||scta.lombardpress.org^
 ||sdtools.org^
+||seadex.moe^
 ||sealplus.in^
 ||seanime.app^
 ||search-22.com^
@@ -6361,6 +6371,7 @@
 ||vcvrack.com^
 ||vdict.com^
 ||vdoc.pub^
+||vdriv.net^
 ||vdwn.cloud^
 ||vector.game^
 ||vedabase.io^

@@ -2,8 +2,8 @@
 ! Description: Pirated games, ROMs, ISOs, game repacks, cracks, and emulators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1098
-! Updated: 2026-11-28 04:49:38 UTC
+! Total Rules: 1101
+! Updated: 2026-11-28 13:49:19 UTC
 
 ||0x00-8191.com^
 ||18xx.games^
@@ -505,6 +505,7 @@
 ||lettered.io^
 ||letterrankd.com^
 ||levelsharesquare.com^
+||librecorsa.org^
 ||libregamewiki.org^
 ||lichess.org^
 ||lichess4545.com^
@@ -726,6 +727,7 @@
 ||playtester.io^
 ||playwordsmyth.com^
 ||plonkit.net^
+||pm2g.srht.site^
 ||poeltl.nbpa.com^
 ||pokeclicker.com^
 ||pokedle.net^
@@ -860,6 +862,7 @@
 ||scenewise.io^
 ||scorch2000.com^
 ||screentop.gg^
+||scriptblade.com^
 ||secret-hitler.online^
 ||secrethitler.com^
 ||sega-play.online^

@@ -2,8 +2,8 @@
 ! Description: Movies, TV shows, anime, cartoon, sports streaming, and video aggregators.
 ! Syntax: AdGuard / Adblock Plus (||domain^)
 ! Generated automatically from FMHY upstream sources (Accumulative)
-! Total Rules: 1449
-! Updated: 2026-11-28 04:49:38 UTC
+! Total Rules: 1455
+! Updated: 2026-11-28 13:49:19 UTC
 
 ||0xdb.org^
 ||111flix.net^
@@ -94,6 +94,7 @@
 ||anidoor.me^
 ||anidream.to^
 ||anify.to^
+||anigato.lol^
 ||anihosts.xyz^
 ||anihq.cc^
 ||anikage.cc^
@@ -267,6 +268,7 @@
 ||candlestream.xyz^
 ||canibinge.com^
 ||caps-a-holic.com^
+||catflix.mov^
 ||cclm.cl^
 ||channelstore.roku.com^
 ||channelsurfer.tv^
@@ -394,6 +396,7 @@
 ||dramaday.me^
 ||dramafren.org^
 ||dramahood.mom^
+||dramahq.tv^
 ||dramanice.boo^
 ||driftly.live^
 ||duafile.net^
@@ -905,6 +908,7 @@
 ||playtorrio.xyz^
 ||plus.nasa.gov^
 ||pluto.tv^
+||plyx.cc^
 ||popcornflix.com^
 ||popcornmovies.ac^
 ||popcornmovies.st^
@@ -945,6 +949,7 @@
 ||quodb.com^
 ||rabbitmeow.online^
 ||racinglap.net^
+||racz.to^
 ||radarr.video^
 ||rar.to^
 ||raredoramas.com^
@@ -1024,6 +1029,7 @@
 ||scripts-onscreen.com^
 ||scripts.com^
 ||scriptslug.com^
+||seadex.moe^
 ||seanime.app^
 ||search-ace.stream^
 ||search.extto.com^
